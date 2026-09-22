@@ -1,0 +1,16 @@
+geography,period,indicator,value,unit,source_note,source_organization,data_status
+India,2021-22,Current health expenditure financed by out-of-pocket expenditure,45.11,percent,NHA 2021-22,Ministry of Health & Family Welfare / National Health Accounts,real_public
+India,2021-22,Current health expenditure financed by private health insurance,8.48,percent,NHA 2021-22,Ministry of Health & Family Welfare / National Health Accounts,real_public
+India,2021-22,Current health expenditure financed by government health insurance schemes,5.87,percent,NHA 2021-22,Ministry of Health & Family Welfare / National Health Accounts,real_public
+India,2021-22,Current health expenditure financed by Union Government,16.69,percent,NHA 2021-22,Ministry of Health & Family Welfare / National Health Accounts,real_public
+India,2021-22,Current health expenditure financed by State Government,15.95,percent,NHA 2021-22,Ministry of Health & Family Welfare / National Health Accounts,real_public
+India,2024-25,Health insurance claims settled,32600000.0,claims,IRDAI Annual Report 2024-25,IRDAI,real_public
+India,2024-25,Health insurance claims amount paid,94248.0,INR crore,IRDAI Annual Report 2024-25,IRDAI,real_public
+India,2024-25,Health insurance claims paid ratio by number,87.5,percent,Government/IRDAI reporting,Ministry of Finance / IRDAI,real_public
+India,2024-25,General + health insurance grievances,137361.0,grievances,Government/IRDAI reporting,Ministry of Finance / IRDAI,real_public
+India,2024-25,General + health grievances disposed,127755.0,grievances,Government/IRDAI reporting,Ministry of Finance / IRDAI,real_public
+India,2024-25,Grievance disposal rate,93.0,percent,"Calculated from 127,755 / 137,361",Derived from official figures,derived_public
+India,2024-25,Health insurance industry claim incurred ratio - Government business,95.0,percent,IRDAI Annual Report 2024-25,IRDAI,real_public
+India,2024-25,Health insurance industry claim incurred ratio - Group business,92.0,percent,IRDAI Annual Report 2024-25,IRDAI,real_public
+India,2024-25,Health insurance industry claim incurred ratio - Industry total,87.0,percent,IRDAI Annual Report 2024-25,IRDAI,real_public
+India,2024-25,Health insurance industry claim incurred ratio - Individual,78.0,percent,IRDAI Annual Report 2024-25,IRDAI,real_public

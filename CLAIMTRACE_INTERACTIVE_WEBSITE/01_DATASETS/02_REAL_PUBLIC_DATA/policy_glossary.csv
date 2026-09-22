@@ -1,0 +1,15 @@
+term,plain_language_definition,category,unit,data_status
+Sum Insured,Maximum amount payable under the policy subject to terms and conditions,Policy design,INR,real_concept
+Premium,Amount paid to maintain insurance coverage,Policy design,INR/year,real_concept
+Deductible,"Amount borne by policyholder before insurer pays, as defined by policy",Cost sharing,INR,real_concept
+Co-payment,Specified percentage/amount of admissible claim borne by policyholder,Cost sharing,percent/INR,real_concept
+Sub-limit,Pre-defined limit for specified treatment/service/condition,Policy restriction,INR,real_concept
+Room-rent cap,Policy limit on eligible room-rent category/amount where applicable,Policy restriction,INR/day or category,real_concept
+Proportionate deduction,"Adjustment that may apply when room category exceeds policy eligibility, subject to policy terms",Claim calculation,INR,real_concept
+Waiting period,Specified period before certain coverage becomes payable,Policy restriction,days/months,real_concept
+Pre-existing disease,"Condition existing before policy commencement, as defined by applicable rules/policy",Eligibility,definition,real_concept
+Exclusion,Condition/expense not covered under policy,Eligibility,definition,real_concept
+Cashless claim,"Insurer/TPA settles admissible amount with network provider, subject to authorization and terms",Claim mode,definition,real_concept
+Reimbursement claim,Policyholder pays provider and seeks reimbursement of admissible expenses,Claim mode,definition,real_concept
+Network hospital,"Hospital/provider in insurer/TPA network for cashless service, subject to arrangements",Provider network,definition,real_concept
+Claim Information,"Policyholder-facing information explaining coverage, conditions, exclusions and claim process",Transparency,definition,real_concept

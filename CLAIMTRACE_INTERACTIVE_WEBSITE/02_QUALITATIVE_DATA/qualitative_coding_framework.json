@@ -1,0 +1,37 @@
+[
+  {
+    "theme": "Understanding",
+    "description": "Confusion about policy terms",
+    "code": "TERM_CONFUSION"
+  },
+  {
+    "theme": "Understanding",
+    "description": "Confusion about why a deduction occurred",
+    "code": "DEDUCTION_CONFUSION"
+  },
+  {
+    "theme": "Process",
+    "description": "Unclear claim status",
+    "code": "STATUS_UNCLEAR"
+  },
+  {
+    "theme": "Process",
+    "description": "Repeated documents/queries",
+    "code": "DOCUMENT_FRICTION"
+  },
+  {
+    "theme": "Financial",
+    "description": "Unexpected out-of-pocket amount",
+    "code": "OOP_SHOCK"
+  },
+  {
+    "theme": "Trust",
+    "description": "Mismatch between expectation and settlement",
+    "code": "EXPECTATION_GAP"
+  },
+  {
+    "theme": "Action",
+    "description": "Need to know next step",
+    "code": "NEXT_ACTION"
+  }
+]

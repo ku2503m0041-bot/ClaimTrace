@@ -1,0 +1,1017 @@
+claim_id,deduction_type,amount_inr,data_status
+CLM10001,Deductible,5000.0,synthetic_for_visualization
+CLM10001,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10001,Non-covered expense,5383.0,synthetic_for_visualization
+CLM10001,Policy limit,700.0,synthetic_for_visualization
+CLM10002,Deductible,5000.0,synthetic_for_visualization
+CLM10002,Co-pay,169100.0,synthetic_for_visualization
+CLM10002,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10002,Non-covered expense,32941.0,synthetic_for_visualization
+CLM10002,Policy limit,28900.0,synthetic_for_visualization
+CLM10003,Non-covered expense,23935.0,synthetic_for_visualization
+CLM10003,Policy limit,7000.0,synthetic_for_visualization
+CLM10004,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10004,Non-covered expense,25778.0,synthetic_for_visualization
+CLM10004,Policy limit,5800.0,synthetic_for_visualization
+CLM10005,Deductible,10000.0,synthetic_for_visualization
+CLM10005,Co-pay,61600.0,synthetic_for_visualization
+CLM10005,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10005,Non-covered expense,33101.0,synthetic_for_visualization
+CLM10005,Policy limit,23700.0,synthetic_for_visualization
+CLM10006,Co-pay,63700.0,synthetic_for_visualization
+CLM10006,Non-covered expense,29719.0,synthetic_for_visualization
+CLM10006,Policy limit,27300.0,synthetic_for_visualization
+CLM10007,Deductible,50000.0,synthetic_for_visualization
+CLM10007,Co-pay,14300.0,synthetic_for_visualization
+CLM10007,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10007,Non-covered expense,6075.0,synthetic_for_visualization
+CLM10007,Policy limit,10600.0,synthetic_for_visualization
+CLM10008,Deductible,10000.0,synthetic_for_visualization
+CLM10008,Co-pay,96000.0,synthetic_for_visualization
+CLM10008,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10008,Non-covered expense,64774.0,synthetic_for_visualization
+CLM10008,Policy limit,18300.0,synthetic_for_visualization
+CLM10009,Deductible,5000.0,synthetic_for_visualization
+CLM10009,Co-pay,17700.0,synthetic_for_visualization
+CLM10009,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10009,Non-covered expense,4999.0,synthetic_for_visualization
+CLM10009,Policy limit,14600.0,synthetic_for_visualization
+CLM10010,Deductible,10000.0,synthetic_for_visualization
+CLM10010,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10010,Non-covered expense,7971.0,synthetic_for_visualization
+CLM10010,Policy limit,5600.0,synthetic_for_visualization
+CLM10011,Co-pay,112500.0,synthetic_for_visualization
+CLM10011,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10011,Non-covered expense,40551.0,synthetic_for_visualization
+CLM10011,Policy limit,29400.0,synthetic_for_visualization
+CLM10012,Deductible,50000.0,synthetic_for_visualization
+CLM10012,Co-pay,131500.0,synthetic_for_visualization
+CLM10012,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10012,Non-covered expense,27396.0,synthetic_for_visualization
+CLM10012,Policy limit,46900.0,synthetic_for_visualization
+CLM10013,Deductible,5000.0,synthetic_for_visualization
+CLM10013,Co-pay,166000.0,synthetic_for_visualization
+CLM10013,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10013,Non-covered expense,14887.0,synthetic_for_visualization
+CLM10013,Policy limit,28500.0,synthetic_for_visualization
+CLM10014,Deductible,25000.0,synthetic_for_visualization
+CLM10014,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10014,Non-covered expense,20998.0,synthetic_for_visualization
+CLM10014,Policy limit,59000.0,synthetic_for_visualization
+CLM10015,Co-pay,100400.0,synthetic_for_visualization
+CLM10015,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10015,Non-covered expense,65799.0,synthetic_for_visualization
+CLM10015,Policy limit,20200.0,synthetic_for_visualization
+CLM10016,Deductible,5000.0,synthetic_for_visualization
+CLM10016,Co-pay,61000.0,synthetic_for_visualization
+CLM10016,Non-covered expense,13383.0,synthetic_for_visualization
+CLM10016,Policy limit,11300.0,synthetic_for_visualization
+CLM10017,Deductible,5000.0,synthetic_for_visualization
+CLM10017,Non-covered expense,16889.0,synthetic_for_visualization
+CLM10017,Policy limit,29500.0,synthetic_for_visualization
+CLM10018,Deductible,50000.0,synthetic_for_visualization
+CLM10018,Co-pay,8000.0,synthetic_for_visualization
+CLM10018,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10018,Non-covered expense,3379.0,synthetic_for_visualization
+CLM10018,Policy limit,12400.0,synthetic_for_visualization
+CLM10019,Deductible,10000.0,synthetic_for_visualization
+CLM10019,Co-pay,64600.0,synthetic_for_visualization
+CLM10019,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10019,Non-covered expense,21117.0,synthetic_for_visualization
+CLM10019,Policy limit,2700.0,synthetic_for_visualization
+CLM10020,Deductible,5000.0,synthetic_for_visualization
+CLM10020,Non-covered expense,31804.0,synthetic_for_visualization
+CLM10020,Policy limit,17400.0,synthetic_for_visualization
+CLM10021,Co-pay,36800.0,synthetic_for_visualization
+CLM10021,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10021,Non-covered expense,18781.0,synthetic_for_visualization
+CLM10021,Policy limit,38000.0,synthetic_for_visualization
+CLM10022,Deductible,5000.0,synthetic_for_visualization
+CLM10022,Co-pay,54700.0,synthetic_for_visualization
+CLM10022,Non-covered expense,25238.0,synthetic_for_visualization
+CLM10022,Policy limit,24600.0,synthetic_for_visualization
+CLM10023,Deductible,10000.0,synthetic_for_visualization
+CLM10023,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10023,Non-covered expense,14770.0,synthetic_for_visualization
+CLM10023,Policy limit,18500.0,synthetic_for_visualization
+CLM10024,Deductible,5000.0,synthetic_for_visualization
+CLM10024,Co-pay,62200.0,synthetic_for_visualization
+CLM10024,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10024,Non-covered expense,78191.0,synthetic_for_visualization
+CLM10024,Policy limit,39600.0,synthetic_for_visualization
+CLM10025,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10025,Non-covered expense,13025.0,synthetic_for_visualization
+CLM10025,Policy limit,42000.0,synthetic_for_visualization
+CLM10026,Deductible,25000.0,synthetic_for_visualization
+CLM10026,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10026,Non-covered expense,56134.0,synthetic_for_visualization
+CLM10026,Policy limit,16100.0,synthetic_for_visualization
+CLM10027,Deductible,50000.0,synthetic_for_visualization
+CLM10027,Co-pay,71900.0,synthetic_for_visualization
+CLM10027,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10027,Non-covered expense,28817.0,synthetic_for_visualization
+CLM10027,Policy limit,33300.0,synthetic_for_visualization
+CLM10028,Co-pay,123700.0,synthetic_for_visualization
+CLM10028,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10028,Non-covered expense,24198.0,synthetic_for_visualization
+CLM10028,Policy limit,24400.0,synthetic_for_visualization
+CLM10029,Deductible,10000.0,synthetic_for_visualization
+CLM10029,Non-covered expense,44665.0,synthetic_for_visualization
+CLM10029,Policy limit,33900.0,synthetic_for_visualization
+CLM10030,Co-pay,98000.0,synthetic_for_visualization
+CLM10030,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10030,Non-covered expense,40379.0,synthetic_for_visualization
+CLM10030,Policy limit,15400.0,synthetic_for_visualization
+CLM10031,Deductible,10000.0,synthetic_for_visualization
+CLM10031,Co-pay,67700.0,synthetic_for_visualization
+CLM10031,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10031,Non-covered expense,17618.0,synthetic_for_visualization
+CLM10031,Policy limit,21800.0,synthetic_for_visualization
+CLM10032,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10032,Non-covered expense,24661.0,synthetic_for_visualization
+CLM10032,Policy limit,15900.0,synthetic_for_visualization
+CLM10033,Deductible,10000.0,synthetic_for_visualization
+CLM10033,Co-pay,19000.0,synthetic_for_visualization
+CLM10033,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10033,Non-covered expense,7795.0,synthetic_for_visualization
+CLM10033,Policy limit,6100.0,synthetic_for_visualization
+CLM10034,Deductible,25000.0,synthetic_for_visualization
+CLM10034,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10034,Non-covered expense,37435.0,synthetic_for_visualization
+CLM10034,Policy limit,42300.0,synthetic_for_visualization
+CLM10035,Deductible,25000.0,synthetic_for_visualization
+CLM10035,Co-pay,172800.0,synthetic_for_visualization
+CLM10035,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10035,Non-covered expense,84811.0,synthetic_for_visualization
+CLM10035,Policy limit,30000.0,synthetic_for_visualization
+CLM10036,Co-pay,8600.0,synthetic_for_visualization
+CLM10036,Non-covered expense,5495.0,synthetic_for_visualization
+CLM10036,Policy limit,6300.0,synthetic_for_visualization
+CLM10037,Deductible,50000.0,synthetic_for_visualization
+CLM10037,Co-pay,55000.0,synthetic_for_visualization
+CLM10037,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10037,Non-covered expense,70285.0,synthetic_for_visualization
+CLM10037,Policy limit,23800.0,synthetic_for_visualization
+CLM10038,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10038,Non-covered expense,34770.0,synthetic_for_visualization
+CLM10038,Policy limit,27400.0,synthetic_for_visualization
+CLM10039,Co-pay,44100.0,synthetic_for_visualization
+CLM10039,Non-covered expense,25737.0,synthetic_for_visualization
+CLM10039,Policy limit,11300.0,synthetic_for_visualization
+CLM10040,Deductible,10000.0,synthetic_for_visualization
+CLM10040,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10040,Non-covered expense,41938.0,synthetic_for_visualization
+CLM10040,Policy limit,6600.0,synthetic_for_visualization
+CLM10041,Deductible,5000.0,synthetic_for_visualization
+CLM10041,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10041,Non-covered expense,7241.0,synthetic_for_visualization
+CLM10041,Policy limit,1600.0,synthetic_for_visualization
+CLM10042,Deductible,25000.0,synthetic_for_visualization
+CLM10042,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10042,Non-covered expense,37982.0,synthetic_for_visualization
+CLM10042,Policy limit,41300.0,synthetic_for_visualization
+CLM10043,Deductible,25000.0,synthetic_for_visualization
+CLM10043,Co-pay,96600.0,synthetic_for_visualization
+CLM10043,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10043,Non-covered expense,29784.0,synthetic_for_visualization
+CLM10043,Policy limit,37700.0,synthetic_for_visualization
+CLM10044,Deductible,5000.0,synthetic_for_visualization
+CLM10044,Non-covered expense,8785.0,synthetic_for_visualization
+CLM10044,Policy limit,20900.0,synthetic_for_visualization
+CLM10045,Deductible,50000.0,synthetic_for_visualization
+CLM10045,Co-pay,14500.0,synthetic_for_visualization
+CLM10045,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10045,Non-covered expense,2320.0,synthetic_for_visualization
+CLM10045,Policy limit,200.0,synthetic_for_visualization
+CLM10046,Co-pay,71000.0,synthetic_for_visualization
+CLM10046,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10046,Non-covered expense,42517.0,synthetic_for_visualization
+CLM10046,Policy limit,25400.0,synthetic_for_visualization
+CLM10047,Deductible,10000.0,synthetic_for_visualization
+CLM10047,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10047,Non-covered expense,8417.0,synthetic_for_visualization
+CLM10047,Policy limit,7600.0,synthetic_for_visualization
+CLM10048,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10048,Non-covered expense,26309.0,synthetic_for_visualization
+CLM10048,Policy limit,56000.0,synthetic_for_visualization
+CLM10049,Deductible,50000.0,synthetic_for_visualization
+CLM10049,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10049,Non-covered expense,51666.0,synthetic_for_visualization
+CLM10049,Policy limit,48100.0,synthetic_for_visualization
+CLM10050,Co-pay,56100.0,synthetic_for_visualization
+CLM10050,Non-covered expense,57554.0,synthetic_for_visualization
+CLM10050,Policy limit,15600.0,synthetic_for_visualization
+CLM10051,Co-pay,104100.0,synthetic_for_visualization
+CLM10051,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10051,Non-covered expense,58185.0,synthetic_for_visualization
+CLM10051,Policy limit,41400.0,synthetic_for_visualization
+CLM10052,Deductible,5000.0,synthetic_for_visualization
+CLM10052,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10052,Non-covered expense,10135.0,synthetic_for_visualization
+CLM10052,Policy limit,2500.0,synthetic_for_visualization
+CLM10053,Deductible,50000.0,synthetic_for_visualization
+CLM10053,Co-pay,45800.0,synthetic_for_visualization
+CLM10053,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10053,Non-covered expense,35200.0,synthetic_for_visualization
+CLM10053,Policy limit,8900.0,synthetic_for_visualization
+CLM10054,Deductible,50000.0,synthetic_for_visualization
+CLM10054,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10054,Non-covered expense,31756.0,synthetic_for_visualization
+CLM10054,Policy limit,5500.0,synthetic_for_visualization
+CLM10055,Deductible,25000.0,synthetic_for_visualization
+CLM10055,Co-pay,74500.0,synthetic_for_visualization
+CLM10055,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10055,Non-covered expense,13802.0,synthetic_for_visualization
+CLM10055,Policy limit,12000.0,synthetic_for_visualization
+CLM10056,Deductible,50000.0,synthetic_for_visualization
+CLM10056,Co-pay,7300.0,synthetic_for_visualization
+CLM10056,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10056,Non-covered expense,2848.0,synthetic_for_visualization
+CLM10056,Policy limit,5600.0,synthetic_for_visualization
+CLM10057,Deductible,50000.0,synthetic_for_visualization
+CLM10057,Co-pay,65400.0,synthetic_for_visualization
+CLM10057,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10057,Non-covered expense,41076.0,synthetic_for_visualization
+CLM10057,Policy limit,41900.0,synthetic_for_visualization
+CLM10058,Deductible,10000.0,synthetic_for_visualization
+CLM10058,Co-pay,14600.0,synthetic_for_visualization
+CLM10058,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10058,Non-covered expense,6180.0,synthetic_for_visualization
+CLM10058,Policy limit,3400.0,synthetic_for_visualization
+CLM10059,Deductible,5000.0,synthetic_for_visualization
+CLM10059,Co-pay,105300.0,synthetic_for_visualization
+CLM10059,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10059,Non-covered expense,42970.0,synthetic_for_visualization
+CLM10059,Policy limit,32900.0,synthetic_for_visualization
+CLM10060,Deductible,25000.0,synthetic_for_visualization
+CLM10060,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10060,Non-covered expense,67012.0,synthetic_for_visualization
+CLM10060,Policy limit,39400.0,synthetic_for_visualization
+CLM10061,Deductible,10000.0,synthetic_for_visualization
+CLM10061,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10061,Non-covered expense,15135.0,synthetic_for_visualization
+CLM10061,Policy limit,70700.0,synthetic_for_visualization
+CLM10062,Deductible,5000.0,synthetic_for_visualization
+CLM10062,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10062,Non-covered expense,13180.0,synthetic_for_visualization
+CLM10062,Policy limit,37100.0,synthetic_for_visualization
+CLM10063,Co-pay,27800.0,synthetic_for_visualization
+CLM10063,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10063,Non-covered expense,38773.0,synthetic_for_visualization
+CLM10063,Policy limit,8300.0,synthetic_for_visualization
+CLM10064,Deductible,25000.0,synthetic_for_visualization
+CLM10064,Co-pay,128300.0,synthetic_for_visualization
+CLM10064,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10064,Non-covered expense,60859.0,synthetic_for_visualization
+CLM10064,Policy limit,48500.0,synthetic_for_visualization
+CLM10065,Co-pay,33500.0,synthetic_for_visualization
+CLM10065,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10065,Non-covered expense,11708.0,synthetic_for_visualization
+CLM10065,Policy limit,11500.0,synthetic_for_visualization
+CLM10066,Deductible,50000.0,synthetic_for_visualization
+CLM10066,Co-pay,36700.0,synthetic_for_visualization
+CLM10066,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10066,Non-covered expense,32301.0,synthetic_for_visualization
+CLM10066,Policy limit,28700.0,synthetic_for_visualization
+CLM10067,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10067,Non-covered expense,78776.0,synthetic_for_visualization
+CLM10067,Policy limit,29100.0,synthetic_for_visualization
+CLM10068,Co-pay,56200.0,synthetic_for_visualization
+CLM10068,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10068,Non-covered expense,24136.0,synthetic_for_visualization
+CLM10068,Policy limit,22500.0,synthetic_for_visualization
+CLM10069,Deductible,25000.0,synthetic_for_visualization
+CLM10069,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10069,Non-covered expense,8814.0,synthetic_for_visualization
+CLM10069,Policy limit,200.0,synthetic_for_visualization
+CLM10070,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10070,Non-covered expense,19030.0,synthetic_for_visualization
+CLM10070,Policy limit,16100.0,synthetic_for_visualization
+CLM10071,Co-pay,114800.0,synthetic_for_visualization
+CLM10071,Non-covered expense,16203.0,synthetic_for_visualization
+CLM10071,Policy limit,56600.0,synthetic_for_visualization
+CLM10072,Deductible,10000.0,synthetic_for_visualization
+CLM10072,Co-pay,46500.0,synthetic_for_visualization
+CLM10072,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10072,Non-covered expense,15264.0,synthetic_for_visualization
+CLM10072,Policy limit,11700.0,synthetic_for_visualization
+CLM10073,Deductible,50000.0,synthetic_for_visualization
+CLM10073,Co-pay,31000.0,synthetic_for_visualization
+CLM10073,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10073,Non-covered expense,19652.0,synthetic_for_visualization
+CLM10073,Policy limit,17600.0,synthetic_for_visualization
+CLM10074,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10074,Non-covered expense,12733.0,synthetic_for_visualization
+CLM10074,Policy limit,13800.0,synthetic_for_visualization
+CLM10075,Deductible,5000.0,synthetic_for_visualization
+CLM10075,Co-pay,45300.0,synthetic_for_visualization
+CLM10075,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10075,Non-covered expense,58533.0,synthetic_for_visualization
+CLM10075,Policy limit,48200.0,synthetic_for_visualization
+CLM10076,Deductible,25000.0,synthetic_for_visualization
+CLM10076,Non-covered expense,8874.0,synthetic_for_visualization
+CLM10076,Policy limit,13100.0,synthetic_for_visualization
+CLM10077,Deductible,50000.0,synthetic_for_visualization
+CLM10077,Co-pay,41600.0,synthetic_for_visualization
+CLM10077,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10077,Non-covered expense,23684.0,synthetic_for_visualization
+CLM10077,Policy limit,16200.0,synthetic_for_visualization
+CLM10078,Deductible,10000.0,synthetic_for_visualization
+CLM10078,Co-pay,38000.0,synthetic_for_visualization
+CLM10078,Non-covered expense,9496.0,synthetic_for_visualization
+CLM10078,Policy limit,10800.0,synthetic_for_visualization
+CLM10079,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10079,Non-covered expense,50835.0,synthetic_for_visualization
+CLM10079,Policy limit,29900.0,synthetic_for_visualization
+CLM10080,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10080,Non-covered expense,25059.0,synthetic_for_visualization
+CLM10080,Policy limit,18500.0,synthetic_for_visualization
+CLM10081,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10081,Non-covered expense,61232.0,synthetic_for_visualization
+CLM10081,Policy limit,18400.0,synthetic_for_visualization
+CLM10082,Co-pay,94500.0,synthetic_for_visualization
+CLM10082,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10082,Non-covered expense,28474.0,synthetic_for_visualization
+CLM10082,Policy limit,34500.0,synthetic_for_visualization
+CLM10083,Deductible,10000.0,synthetic_for_visualization
+CLM10083,Co-pay,13500.0,synthetic_for_visualization
+CLM10083,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10083,Non-covered expense,10166.0,synthetic_for_visualization
+CLM10083,Policy limit,15800.0,synthetic_for_visualization
+CLM10084,Co-pay,111700.0,synthetic_for_visualization
+CLM10084,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10084,Non-covered expense,59196.0,synthetic_for_visualization
+CLM10084,Policy limit,56900.0,synthetic_for_visualization
+CLM10085,Deductible,10000.0,synthetic_for_visualization
+CLM10085,Co-pay,41300.0,synthetic_for_visualization
+CLM10085,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10085,Non-covered expense,48355.0,synthetic_for_visualization
+CLM10085,Policy limit,51100.0,synthetic_for_visualization
+CLM10086,Deductible,10000.0,synthetic_for_visualization
+CLM10086,Co-pay,47800.0,synthetic_for_visualization
+CLM10086,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10086,Non-covered expense,44114.0,synthetic_for_visualization
+CLM10086,Policy limit,42900.0,synthetic_for_visualization
+CLM10087,Deductible,10000.0,synthetic_for_visualization
+CLM10087,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10087,Non-covered expense,11781.0,synthetic_for_visualization
+CLM10087,Policy limit,9400.0,synthetic_for_visualization
+CLM10088,Co-pay,68700.0,synthetic_for_visualization
+CLM10088,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10088,Non-covered expense,33641.0,synthetic_for_visualization
+CLM10088,Policy limit,21700.0,synthetic_for_visualization
+CLM10089,Deductible,25000.0,synthetic_for_visualization
+CLM10089,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10089,Non-covered expense,38759.0,synthetic_for_visualization
+CLM10089,Policy limit,30100.0,synthetic_for_visualization
+CLM10090,Deductible,25000.0,synthetic_for_visualization
+CLM10090,Co-pay,57000.0,synthetic_for_visualization
+CLM10090,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10090,Non-covered expense,48177.0,synthetic_for_visualization
+CLM10090,Policy limit,30800.0,synthetic_for_visualization
+CLM10091,Deductible,25000.0,synthetic_for_visualization
+CLM10091,Co-pay,33400.0,synthetic_for_visualization
+CLM10091,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10091,Non-covered expense,7998.0,synthetic_for_visualization
+CLM10091,Policy limit,9000.0,synthetic_for_visualization
+CLM10092,Co-pay,54600.0,synthetic_for_visualization
+CLM10092,Non-covered expense,65098.0,synthetic_for_visualization
+CLM10092,Policy limit,42100.0,synthetic_for_visualization
+CLM10093,Co-pay,183800.0,synthetic_for_visualization
+CLM10093,Non-covered expense,49067.0,synthetic_for_visualization
+CLM10093,Policy limit,19700.0,synthetic_for_visualization
+CLM10094,Deductible,50000.0,synthetic_for_visualization
+CLM10094,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10094,Non-covered expense,20708.0,synthetic_for_visualization
+CLM10094,Policy limit,8800.0,synthetic_for_visualization
+CLM10095,Deductible,5000.0,synthetic_for_visualization
+CLM10095,Co-pay,65500.0,synthetic_for_visualization
+CLM10095,Non-covered expense,21278.0,synthetic_for_visualization
+CLM10095,Policy limit,42400.0,synthetic_for_visualization
+CLM10096,Deductible,5000.0,synthetic_for_visualization
+CLM10096,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10096,Non-covered expense,29012.0,synthetic_for_visualization
+CLM10096,Policy limit,10900.0,synthetic_for_visualization
+CLM10097,Deductible,5000.0,synthetic_for_visualization
+CLM10097,Co-pay,20600.0,synthetic_for_visualization
+CLM10097,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10097,Non-covered expense,13665.0,synthetic_for_visualization
+CLM10097,Policy limit,5000.0,synthetic_for_visualization
+CLM10098,Deductible,10000.0,synthetic_for_visualization
+CLM10098,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10098,Non-covered expense,49590.0,synthetic_for_visualization
+CLM10098,Policy limit,45900.0,synthetic_for_visualization
+CLM10099,Deductible,50000.0,synthetic_for_visualization
+CLM10099,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10099,Non-covered expense,18432.0,synthetic_for_visualization
+CLM10099,Policy limit,45400.0,synthetic_for_visualization
+CLM10100,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10100,Non-covered expense,17982.0,synthetic_for_visualization
+CLM10100,Policy limit,2600.0,synthetic_for_visualization
+CLM10101,Deductible,50000.0,synthetic_for_visualization
+CLM10101,Non-covered expense,25528.0,synthetic_for_visualization
+CLM10101,Policy limit,500.0,synthetic_for_visualization
+CLM10102,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10102,Non-covered expense,7988.0,synthetic_for_visualization
+CLM10102,Policy limit,6700.0,synthetic_for_visualization
+CLM10103,Deductible,10000.0,synthetic_for_visualization
+CLM10103,Co-pay,52200.0,synthetic_for_visualization
+CLM10103,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10103,Non-covered expense,69223.0,synthetic_for_visualization
+CLM10103,Policy limit,52100.0,synthetic_for_visualization
+CLM10104,Deductible,10000.0,synthetic_for_visualization
+CLM10104,Co-pay,3500.0,synthetic_for_visualization
+CLM10104,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10104,Non-covered expense,6177.0,synthetic_for_visualization
+CLM10104,Policy limit,4700.0,synthetic_for_visualization
+CLM10105,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10105,Non-covered expense,26692.0,synthetic_for_visualization
+CLM10105,Policy limit,9000.0,synthetic_for_visualization
+CLM10106,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10106,Non-covered expense,42880.0,synthetic_for_visualization
+CLM10106,Policy limit,49600.0,synthetic_for_visualization
+CLM10107,Deductible,5000.0,synthetic_for_visualization
+CLM10107,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10107,Non-covered expense,59302.0,synthetic_for_visualization
+CLM10107,Policy limit,7400.0,synthetic_for_visualization
+CLM10108,Deductible,50000.0,synthetic_for_visualization
+CLM10108,Co-pay,41800.0,synthetic_for_visualization
+CLM10108,Non-covered expense,59163.0,synthetic_for_visualization
+CLM10108,Policy limit,21400.0,synthetic_for_visualization
+CLM10109,Deductible,10000.0,synthetic_for_visualization
+CLM10109,Non-covered expense,23375.0,synthetic_for_visualization
+CLM10109,Policy limit,40300.0,synthetic_for_visualization
+CLM10110,Deductible,50000.0,synthetic_for_visualization
+CLM10110,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10110,Non-covered expense,41506.0,synthetic_for_visualization
+CLM10110,Policy limit,11100.0,synthetic_for_visualization
+CLM10111,Deductible,25000.0,synthetic_for_visualization
+CLM10111,Non-covered expense,24281.0,synthetic_for_visualization
+CLM10111,Policy limit,4000.0,synthetic_for_visualization
+CLM10112,Deductible,5000.0,synthetic_for_visualization
+CLM10112,Co-pay,54400.0,synthetic_for_visualization
+CLM10112,Non-covered expense,59178.0,synthetic_for_visualization
+CLM10112,Policy limit,26900.0,synthetic_for_visualization
+CLM10113,Deductible,25000.0,synthetic_for_visualization
+CLM10113,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10113,Non-covered expense,45878.0,synthetic_for_visualization
+CLM10113,Policy limit,28900.0,synthetic_for_visualization
+CLM10114,Co-pay,32700.0,synthetic_for_visualization
+CLM10114,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10114,Non-covered expense,30350.0,synthetic_for_visualization
+CLM10114,Policy limit,36800.0,synthetic_for_visualization
+CLM10115,Co-pay,37400.0,synthetic_for_visualization
+CLM10115,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10115,Non-covered expense,13074.0,synthetic_for_visualization
+CLM10115,Policy limit,42100.0,synthetic_for_visualization
+CLM10116,Deductible,25000.0,synthetic_for_visualization
+CLM10116,Co-pay,79100.0,synthetic_for_visualization
+CLM10116,Non-covered expense,52610.0,synthetic_for_visualization
+CLM10116,Policy limit,3300.0,synthetic_for_visualization
+CLM10117,Deductible,25000.0,synthetic_for_visualization
+CLM10117,Co-pay,4400.0,synthetic_for_visualization
+CLM10117,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10117,Non-covered expense,8306.0,synthetic_for_visualization
+CLM10117,Policy limit,1100.0,synthetic_for_visualization
+CLM10118,Co-pay,12700.0,synthetic_for_visualization
+CLM10118,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10118,Non-covered expense,15455.0,synthetic_for_visualization
+CLM10118,Policy limit,12200.0,synthetic_for_visualization
+CLM10119,Deductible,10000.0,synthetic_for_visualization
+CLM10119,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10119,Non-covered expense,7020.0,synthetic_for_visualization
+CLM10119,Policy limit,6300.0,synthetic_for_visualization
+CLM10120,Deductible,10000.0,synthetic_for_visualization
+CLM10120,Co-pay,21700.0,synthetic_for_visualization
+CLM10120,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10120,Non-covered expense,5496.0,synthetic_for_visualization
+CLM10120,Policy limit,12000.0,synthetic_for_visualization
+CLM10121,Deductible,50000.0,synthetic_for_visualization
+CLM10121,Co-pay,26900.0,synthetic_for_visualization
+CLM10121,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10121,Non-covered expense,35829.0,synthetic_for_visualization
+CLM10121,Policy limit,25200.0,synthetic_for_visualization
+CLM10122,Deductible,10000.0,synthetic_for_visualization
+CLM10122,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10122,Non-covered expense,12302.0,synthetic_for_visualization
+CLM10122,Policy limit,6200.0,synthetic_for_visualization
+CLM10123,Deductible,5000.0,synthetic_for_visualization
+CLM10123,Co-pay,42700.0,synthetic_for_visualization
+CLM10123,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10123,Non-covered expense,63775.0,synthetic_for_visualization
+CLM10123,Policy limit,45000.0,synthetic_for_visualization
+CLM10124,Deductible,5000.0,synthetic_for_visualization
+CLM10124,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10124,Non-covered expense,23278.0,synthetic_for_visualization
+CLM10124,Policy limit,7100.0,synthetic_for_visualization
+CLM10125,Deductible,5000.0,synthetic_for_visualization
+CLM10125,Co-pay,59300.0,synthetic_for_visualization
+CLM10125,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10125,Non-covered expense,63553.0,synthetic_for_visualization
+CLM10125,Policy limit,29300.0,synthetic_for_visualization
+CLM10126,Deductible,10000.0,synthetic_for_visualization
+CLM10126,Co-pay,77200.0,synthetic_for_visualization
+CLM10126,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10126,Non-covered expense,51543.0,synthetic_for_visualization
+CLM10126,Policy limit,26200.0,synthetic_for_visualization
+CLM10127,Deductible,50000.0,synthetic_for_visualization
+CLM10127,Co-pay,9500.0,synthetic_for_visualization
+CLM10127,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10127,Non-covered expense,6505.0,synthetic_for_visualization
+CLM10127,Policy limit,5500.0,synthetic_for_visualization
+CLM10128,Deductible,5000.0,synthetic_for_visualization
+CLM10128,Co-pay,163100.0,synthetic_for_visualization
+CLM10128,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10128,Non-covered expense,32381.0,synthetic_for_visualization
+CLM10128,Policy limit,42800.0,synthetic_for_visualization
+CLM10129,Co-pay,41100.0,synthetic_for_visualization
+CLM10129,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10129,Non-covered expense,38896.0,synthetic_for_visualization
+CLM10129,Policy limit,31400.0,synthetic_for_visualization
+CLM10130,Co-pay,43300.0,synthetic_for_visualization
+CLM10130,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10130,Non-covered expense,41083.0,synthetic_for_visualization
+CLM10130,Policy limit,52200.0,synthetic_for_visualization
+CLM10131,Deductible,25000.0,synthetic_for_visualization
+CLM10131,Co-pay,74600.0,synthetic_for_visualization
+CLM10131,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10131,Non-covered expense,28875.0,synthetic_for_visualization
+CLM10131,Policy limit,47400.0,synthetic_for_visualization
+CLM10132,Deductible,25000.0,synthetic_for_visualization
+CLM10132,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10132,Non-covered expense,37297.0,synthetic_for_visualization
+CLM10132,Policy limit,24000.0,synthetic_for_visualization
+CLM10133,Co-pay,20700.0,synthetic_for_visualization
+CLM10133,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10133,Non-covered expense,13389.0,synthetic_for_visualization
+CLM10133,Policy limit,1100.0,synthetic_for_visualization
+CLM10134,Co-pay,40400.0,synthetic_for_visualization
+CLM10134,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10134,Non-covered expense,31339.0,synthetic_for_visualization
+CLM10134,Policy limit,34200.0,synthetic_for_visualization
+CLM10135,Deductible,10000.0,synthetic_for_visualization
+CLM10135,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10135,Non-covered expense,25637.0,synthetic_for_visualization
+CLM10135,Policy limit,63100.0,synthetic_for_visualization
+CLM10136,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10136,Non-covered expense,16044.0,synthetic_for_visualization
+CLM10136,Policy limit,8800.0,synthetic_for_visualization
+CLM10137,Deductible,25000.0,synthetic_for_visualization
+CLM10137,Co-pay,84800.0,synthetic_for_visualization
+CLM10137,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10137,Non-covered expense,29832.0,synthetic_for_visualization
+CLM10137,Policy limit,23200.0,synthetic_for_visualization
+CLM10138,Deductible,5000.0,synthetic_for_visualization
+CLM10138,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10138,Non-covered expense,2421.0,synthetic_for_visualization
+CLM10138,Policy limit,3100.0,synthetic_for_visualization
+CLM10139,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10139,Non-covered expense,11272.0,synthetic_for_visualization
+CLM10139,Policy limit,1600.0,synthetic_for_visualization
+CLM10140,Deductible,50000.0,synthetic_for_visualization
+CLM10140,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10140,Non-covered expense,33396.0,synthetic_for_visualization
+CLM10140,Policy limit,25400.0,synthetic_for_visualization
+CLM10141,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10141,Non-covered expense,42460.0,synthetic_for_visualization
+CLM10141,Policy limit,27800.0,synthetic_for_visualization
+CLM10142,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10142,Non-covered expense,24361.0,synthetic_for_visualization
+CLM10142,Policy limit,16600.0,synthetic_for_visualization
+CLM10143,Co-pay,44900.0,synthetic_for_visualization
+CLM10143,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10143,Non-covered expense,11419.0,synthetic_for_visualization
+CLM10143,Policy limit,21400.0,synthetic_for_visualization
+CLM10144,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10144,Non-covered expense,10654.0,synthetic_for_visualization
+CLM10144,Policy limit,29300.0,synthetic_for_visualization
+CLM10145,Co-pay,137100.0,synthetic_for_visualization
+CLM10145,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10145,Non-covered expense,75756.0,synthetic_for_visualization
+CLM10145,Policy limit,33100.0,synthetic_for_visualization
+CLM10146,Co-pay,118700.0,synthetic_for_visualization
+CLM10146,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10146,Non-covered expense,74597.0,synthetic_for_visualization
+CLM10146,Policy limit,22200.0,synthetic_for_visualization
+CLM10147,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10147,Non-covered expense,3635.0,synthetic_for_visualization
+CLM10147,Policy limit,5700.0,synthetic_for_visualization
+CLM10148,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10148,Non-covered expense,9065.0,synthetic_for_visualization
+CLM10148,Policy limit,18100.0,synthetic_for_visualization
+CLM10149,Deductible,10000.0,synthetic_for_visualization
+CLM10149,Co-pay,59800.0,synthetic_for_visualization
+CLM10149,Non-covered expense,25702.0,synthetic_for_visualization
+CLM10149,Policy limit,32700.0,synthetic_for_visualization
+CLM10150,Deductible,10000.0,synthetic_for_visualization
+CLM10150,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10150,Non-covered expense,6767.0,synthetic_for_visualization
+CLM10150,Policy limit,8400.0,synthetic_for_visualization
+CLM10151,Deductible,5000.0,synthetic_for_visualization
+CLM10151,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10151,Non-covered expense,46238.0,synthetic_for_visualization
+CLM10151,Policy limit,10000.0,synthetic_for_visualization
+CLM10152,Deductible,5000.0,synthetic_for_visualization
+CLM10152,Co-pay,66300.0,synthetic_for_visualization
+CLM10152,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10152,Non-covered expense,11993.0,synthetic_for_visualization
+CLM10152,Policy limit,22900.0,synthetic_for_visualization
+CLM10153,Deductible,10000.0,synthetic_for_visualization
+CLM10153,Co-pay,210900.0,synthetic_for_visualization
+CLM10153,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10153,Non-covered expense,18100.0,synthetic_for_visualization
+CLM10153,Policy limit,7100.0,synthetic_for_visualization
+CLM10154,Deductible,50000.0,synthetic_for_visualization
+CLM10154,Co-pay,39500.0,synthetic_for_visualization
+CLM10154,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10154,Non-covered expense,18414.0,synthetic_for_visualization
+CLM10154,Policy limit,4100.0,synthetic_for_visualization
+CLM10155,Deductible,50000.0,synthetic_for_visualization
+CLM10155,Non-covered expense,43560.0,synthetic_for_visualization
+CLM10155,Policy limit,20100.0,synthetic_for_visualization
+CLM10156,Co-pay,49600.0,synthetic_for_visualization
+CLM10156,Non-covered expense,46585.0,synthetic_for_visualization
+CLM10156,Policy limit,3700.0,synthetic_for_visualization
+CLM10157,Co-pay,26800.0,synthetic_for_visualization
+CLM10157,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10157,Non-covered expense,10065.0,synthetic_for_visualization
+CLM10157,Policy limit,800.0,synthetic_for_visualization
+CLM10158,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10158,Non-covered expense,14533.0,synthetic_for_visualization
+CLM10159,Co-pay,39100.0,synthetic_for_visualization
+CLM10159,Non-covered expense,19399.0,synthetic_for_visualization
+CLM10159,Policy limit,18700.0,synthetic_for_visualization
+CLM10160,Deductible,10000.0,synthetic_for_visualization
+CLM10160,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10160,Non-covered expense,31563.0,synthetic_for_visualization
+CLM10160,Policy limit,49400.0,synthetic_for_visualization
+CLM10161,Deductible,5000.0,synthetic_for_visualization
+CLM10161,Non-covered expense,76903.0,synthetic_for_visualization
+CLM10161,Policy limit,2800.0,synthetic_for_visualization
+CLM10162,Co-pay,45300.0,synthetic_for_visualization
+CLM10162,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10162,Non-covered expense,59029.0,synthetic_for_visualization
+CLM10162,Policy limit,35800.0,synthetic_for_visualization
+CLM10163,Deductible,5000.0,synthetic_for_visualization
+CLM10163,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10163,Non-covered expense,39316.0,synthetic_for_visualization
+CLM10163,Policy limit,29400.0,synthetic_for_visualization
+CLM10164,Deductible,10000.0,synthetic_for_visualization
+CLM10164,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10164,Non-covered expense,42027.0,synthetic_for_visualization
+CLM10164,Policy limit,6000.0,synthetic_for_visualization
+CLM10165,Co-pay,63000.0,synthetic_for_visualization
+CLM10165,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10165,Non-covered expense,42975.0,synthetic_for_visualization
+CLM10165,Policy limit,5300.0,synthetic_for_visualization
+CLM10166,Deductible,25000.0,synthetic_for_visualization
+CLM10166,Co-pay,150700.0,synthetic_for_visualization
+CLM10166,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10166,Non-covered expense,76157.0,synthetic_for_visualization
+CLM10166,Policy limit,56900.0,synthetic_for_visualization
+CLM10167,Co-pay,25900.0,synthetic_for_visualization
+CLM10167,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10167,Non-covered expense,7908.0,synthetic_for_visualization
+CLM10167,Policy limit,23900.0,synthetic_for_visualization
+CLM10168,Deductible,50000.0,synthetic_for_visualization
+CLM10168,Co-pay,22000.0,synthetic_for_visualization
+CLM10168,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10168,Non-covered expense,5919.0,synthetic_for_visualization
+CLM10168,Policy limit,9400.0,synthetic_for_visualization
+CLM10169,Co-pay,78300.0,synthetic_for_visualization
+CLM10169,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10169,Non-covered expense,15170.0,synthetic_for_visualization
+CLM10169,Policy limit,24600.0,synthetic_for_visualization
+CLM10170,Deductible,25000.0,synthetic_for_visualization
+CLM10170,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10170,Non-covered expense,5047.0,synthetic_for_visualization
+CLM10170,Policy limit,600.0,synthetic_for_visualization
+CLM10171,Deductible,50000.0,synthetic_for_visualization
+CLM10171,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10171,Non-covered expense,3849.0,synthetic_for_visualization
+CLM10171,Policy limit,5100.0,synthetic_for_visualization
+CLM10172,Deductible,50000.0,synthetic_for_visualization
+CLM10172,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10172,Non-covered expense,12292.0,synthetic_for_visualization
+CLM10172,Policy limit,8700.0,synthetic_for_visualization
+CLM10173,Deductible,25000.0,synthetic_for_visualization
+CLM10173,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10173,Non-covered expense,51347.0,synthetic_for_visualization
+CLM10173,Policy limit,16200.0,synthetic_for_visualization
+CLM10174,Deductible,25000.0,synthetic_for_visualization
+CLM10174,Co-pay,95700.0,synthetic_for_visualization
+CLM10174,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10174,Non-covered expense,43931.0,synthetic_for_visualization
+CLM10174,Policy limit,44500.0,synthetic_for_visualization
+CLM10175,Deductible,10000.0,synthetic_for_visualization
+CLM10175,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10175,Non-covered expense,20917.0,synthetic_for_visualization
+CLM10175,Policy limit,28900.0,synthetic_for_visualization
+CLM10176,Deductible,25000.0,synthetic_for_visualization
+CLM10176,Co-pay,32400.0,synthetic_for_visualization
+CLM10176,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10176,Non-covered expense,17967.0,synthetic_for_visualization
+CLM10176,Policy limit,29700.0,synthetic_for_visualization
+CLM10177,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10177,Non-covered expense,21179.0,synthetic_for_visualization
+CLM10177,Policy limit,27300.0,synthetic_for_visualization
+CLM10178,Deductible,10000.0,synthetic_for_visualization
+CLM10178,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10178,Non-covered expense,17983.0,synthetic_for_visualization
+CLM10178,Policy limit,6300.0,synthetic_for_visualization
+CLM10179,Deductible,10000.0,synthetic_for_visualization
+CLM10179,Co-pay,192800.0,synthetic_for_visualization
+CLM10179,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10179,Non-covered expense,56893.0,synthetic_for_visualization
+CLM10179,Policy limit,15900.0,synthetic_for_visualization
+CLM10180,Deductible,50000.0,synthetic_for_visualization
+CLM10180,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10180,Non-covered expense,39816.0,synthetic_for_visualization
+CLM10180,Policy limit,8900.0,synthetic_for_visualization
+CLM10181,Deductible,5000.0,synthetic_for_visualization
+CLM10181,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10181,Non-covered expense,37378.0,synthetic_for_visualization
+CLM10181,Policy limit,56600.0,synthetic_for_visualization
+CLM10182,Deductible,5000.0,synthetic_for_visualization
+CLM10182,Non-covered expense,9382.0,synthetic_for_visualization
+CLM10182,Policy limit,2000.0,synthetic_for_visualization
+CLM10183,Deductible,10000.0,synthetic_for_visualization
+CLM10183,Co-pay,38400.0,synthetic_for_visualization
+CLM10183,Non-covered expense,25585.0,synthetic_for_visualization
+CLM10183,Policy limit,3600.0,synthetic_for_visualization
+CLM10184,Co-pay,50700.0,synthetic_for_visualization
+CLM10184,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10184,Non-covered expense,54936.0,synthetic_for_visualization
+CLM10184,Policy limit,10100.0,synthetic_for_visualization
+CLM10185,Co-pay,37300.0,synthetic_for_visualization
+CLM10185,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10185,Non-covered expense,41006.0,synthetic_for_visualization
+CLM10185,Policy limit,7400.0,synthetic_for_visualization
+CLM10186,Deductible,5000.0,synthetic_for_visualization
+CLM10186,Non-covered expense,15647.0,synthetic_for_visualization
+CLM10186,Policy limit,31700.0,synthetic_for_visualization
+CLM10187,Deductible,5000.0,synthetic_for_visualization
+CLM10187,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10187,Non-covered expense,19938.0,synthetic_for_visualization
+CLM10187,Policy limit,7000.0,synthetic_for_visualization
+CLM10188,Co-pay,58300.0,synthetic_for_visualization
+CLM10188,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10188,Non-covered expense,10766.0,synthetic_for_visualization
+CLM10188,Policy limit,33300.0,synthetic_for_visualization
+CLM10189,Deductible,5000.0,synthetic_for_visualization
+CLM10189,Co-pay,19600.0,synthetic_for_visualization
+CLM10189,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10189,Non-covered expense,25109.0,synthetic_for_visualization
+CLM10189,Policy limit,3100.0,synthetic_for_visualization
+CLM10190,Deductible,5000.0,synthetic_for_visualization
+CLM10190,Co-pay,24500.0,synthetic_for_visualization
+CLM10190,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10190,Non-covered expense,8295.0,synthetic_for_visualization
+CLM10190,Policy limit,18000.0,synthetic_for_visualization
+CLM10191,Deductible,5000.0,synthetic_for_visualization
+CLM10191,Co-pay,50600.0,synthetic_for_visualization
+CLM10191,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10191,Non-covered expense,26143.0,synthetic_for_visualization
+CLM10191,Policy limit,25300.0,synthetic_for_visualization
+CLM10192,Deductible,5000.0,synthetic_for_visualization
+CLM10192,Co-pay,88500.0,synthetic_for_visualization
+CLM10192,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10192,Non-covered expense,54701.0,synthetic_for_visualization
+CLM10192,Policy limit,20500.0,synthetic_for_visualization
+CLM10193,Deductible,10000.0,synthetic_for_visualization
+CLM10193,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10193,Non-covered expense,19179.0,synthetic_for_visualization
+CLM10193,Policy limit,44200.0,synthetic_for_visualization
+CLM10194,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10194,Non-covered expense,19718.0,synthetic_for_visualization
+CLM10194,Policy limit,31400.0,synthetic_for_visualization
+CLM10195,Deductible,50000.0,synthetic_for_visualization
+CLM10195,Co-pay,60300.0,synthetic_for_visualization
+CLM10195,Non-covered expense,50024.0,synthetic_for_visualization
+CLM10195,Policy limit,67200.0,synthetic_for_visualization
+CLM10196,Deductible,50000.0,synthetic_for_visualization
+CLM10196,Non-covered expense,5153.0,synthetic_for_visualization
+CLM10196,Policy limit,2200.0,synthetic_for_visualization
+CLM10197,Deductible,5000.0,synthetic_for_visualization
+CLM10197,Co-pay,53400.0,synthetic_for_visualization
+CLM10197,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10197,Non-covered expense,27939.0,synthetic_for_visualization
+CLM10197,Policy limit,6800.0,synthetic_for_visualization
+CLM10198,Deductible,5000.0,synthetic_for_visualization
+CLM10198,Co-pay,11000.0,synthetic_for_visualization
+CLM10198,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10198,Non-covered expense,14561.0,synthetic_for_visualization
+CLM10198,Policy limit,9100.0,synthetic_for_visualization
+CLM10199,Deductible,10000.0,synthetic_for_visualization
+CLM10199,Co-pay,50500.0,synthetic_for_visualization
+CLM10199,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10199,Non-covered expense,32689.0,synthetic_for_visualization
+CLM10199,Policy limit,8800.0,synthetic_for_visualization
+CLM10200,Deductible,25000.0,synthetic_for_visualization
+CLM10200,Co-pay,129600.0,synthetic_for_visualization
+CLM10200,Non-covered expense,41605.0,synthetic_for_visualization
+CLM10200,Policy limit,56700.0,synthetic_for_visualization
+CLM10201,Deductible,10000.0,synthetic_for_visualization
+CLM10201,Co-pay,27300.0,synthetic_for_visualization
+CLM10201,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10201,Non-covered expense,23730.0,synthetic_for_visualization
+CLM10201,Policy limit,18400.0,synthetic_for_visualization
+CLM10202,Deductible,25000.0,synthetic_for_visualization
+CLM10202,Co-pay,190000.0,synthetic_for_visualization
+CLM10202,Non-covered expense,32798.0,synthetic_for_visualization
+CLM10202,Policy limit,40300.0,synthetic_for_visualization
+CLM10203,Deductible,10000.0,synthetic_for_visualization
+CLM10203,Co-pay,35800.0,synthetic_for_visualization
+CLM10203,Non-covered expense,18739.0,synthetic_for_visualization
+CLM10203,Policy limit,34900.0,synthetic_for_visualization
+CLM10204,Deductible,10000.0,synthetic_for_visualization
+CLM10204,Co-pay,100600.0,synthetic_for_visualization
+CLM10204,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10204,Non-covered expense,20764.0,synthetic_for_visualization
+CLM10204,Policy limit,40800.0,synthetic_for_visualization
+CLM10205,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10205,Non-covered expense,44810.0,synthetic_for_visualization
+CLM10205,Policy limit,1000.0,synthetic_for_visualization
+CLM10206,Deductible,25000.0,synthetic_for_visualization
+CLM10206,Co-pay,19600.0,synthetic_for_visualization
+CLM10206,Non-covered expense,27135.0,synthetic_for_visualization
+CLM10206,Policy limit,1200.0,synthetic_for_visualization
+CLM10207,Co-pay,52500.0,synthetic_for_visualization
+CLM10207,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10207,Non-covered expense,60906.0,synthetic_for_visualization
+CLM10207,Policy limit,37500.0,synthetic_for_visualization
+CLM10208,Deductible,10000.0,synthetic_for_visualization
+CLM10208,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10208,Non-covered expense,55754.0,synthetic_for_visualization
+CLM10208,Policy limit,37800.0,synthetic_for_visualization
+CLM10209,Deductible,50000.0,synthetic_for_visualization
+CLM10209,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10209,Non-covered expense,17102.0,synthetic_for_visualization
+CLM10209,Policy limit,6400.0,synthetic_for_visualization
+CLM10210,Co-pay,168400.0,synthetic_for_visualization
+CLM10210,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10210,Non-covered expense,46270.0,synthetic_for_visualization
+CLM10210,Policy limit,26500.0,synthetic_for_visualization
+CLM10211,Deductible,10000.0,synthetic_for_visualization
+CLM10211,Co-pay,19900.0,synthetic_for_visualization
+CLM10211,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10211,Non-covered expense,18109.0,synthetic_for_visualization
+CLM10211,Policy limit,18600.0,synthetic_for_visualization
+CLM10212,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10212,Non-covered expense,37291.0,synthetic_for_visualization
+CLM10212,Policy limit,48600.0,synthetic_for_visualization
+CLM10213,Deductible,25000.0,synthetic_for_visualization
+CLM10213,Non-covered expense,21290.0,synthetic_for_visualization
+CLM10213,Policy limit,36000.0,synthetic_for_visualization
+CLM10214,Non-covered expense,12604.0,synthetic_for_visualization
+CLM10214,Policy limit,14900.0,synthetic_for_visualization
+CLM10215,Deductible,50000.0,synthetic_for_visualization
+CLM10215,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10215,Non-covered expense,69445.0,synthetic_for_visualization
+CLM10215,Policy limit,16300.0,synthetic_for_visualization
+CLM10216,Co-pay,67100.0,synthetic_for_visualization
+CLM10216,Non-covered expense,17336.0,synthetic_for_visualization
+CLM10216,Policy limit,13300.0,synthetic_for_visualization
+CLM10217,Deductible,50000.0,synthetic_for_visualization
+CLM10217,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10217,Non-covered expense,12621.0,synthetic_for_visualization
+CLM10217,Policy limit,3400.0,synthetic_for_visualization
+CLM10218,Deductible,25000.0,synthetic_for_visualization
+CLM10218,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10218,Non-covered expense,4446.0,synthetic_for_visualization
+CLM10218,Policy limit,6900.0,synthetic_for_visualization
+CLM10219,Deductible,10000.0,synthetic_for_visualization
+CLM10219,Co-pay,32000.0,synthetic_for_visualization
+CLM10219,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10219,Non-covered expense,29065.0,synthetic_for_visualization
+CLM10219,Policy limit,26100.0,synthetic_for_visualization
+CLM10220,Deductible,25000.0,synthetic_for_visualization
+CLM10220,Non-covered expense,29639.0,synthetic_for_visualization
+CLM10220,Policy limit,4800.0,synthetic_for_visualization
+CLM10221,Deductible,25000.0,synthetic_for_visualization
+CLM10221,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10221,Non-covered expense,6602.0,synthetic_for_visualization
+CLM10222,Deductible,50000.0,synthetic_for_visualization
+CLM10222,Co-pay,64900.0,synthetic_for_visualization
+CLM10222,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10222,Non-covered expense,9014.0,synthetic_for_visualization
+CLM10222,Policy limit,8300.0,synthetic_for_visualization
+CLM10223,Co-pay,50800.0,synthetic_for_visualization
+CLM10223,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10223,Non-covered expense,18436.0,synthetic_for_visualization
+CLM10223,Policy limit,51700.0,synthetic_for_visualization
+CLM10224,Deductible,10000.0,synthetic_for_visualization
+CLM10224,Co-pay,46900.0,synthetic_for_visualization
+CLM10224,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10224,Non-covered expense,22535.0,synthetic_for_visualization
+CLM10224,Policy limit,13000.0,synthetic_for_visualization
+CLM10225,Co-pay,55000.0,synthetic_for_visualization
+CLM10225,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10225,Non-covered expense,30834.0,synthetic_for_visualization
+CLM10225,Policy limit,10200.0,synthetic_for_visualization
+CLM10226,Deductible,10000.0,synthetic_for_visualization
+CLM10226,Co-pay,22200.0,synthetic_for_visualization
+CLM10226,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10226,Non-covered expense,22585.0,synthetic_for_visualization
+CLM10226,Policy limit,24900.0,synthetic_for_visualization
+CLM10227,Co-pay,116400.0,synthetic_for_visualization
+CLM10227,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10227,Non-covered expense,43658.0,synthetic_for_visualization
+CLM10227,Policy limit,30900.0,synthetic_for_visualization
+CLM10228,Deductible,10000.0,synthetic_for_visualization
+CLM10228,Co-pay,126700.0,synthetic_for_visualization
+CLM10228,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10228,Non-covered expense,29087.0,synthetic_for_visualization
+CLM10228,Policy limit,23100.0,synthetic_for_visualization
+CLM10229,Deductible,10000.0,synthetic_for_visualization
+CLM10229,Co-pay,74700.0,synthetic_for_visualization
+CLM10229,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10229,Non-covered expense,33680.0,synthetic_for_visualization
+CLM10229,Policy limit,43100.0,synthetic_for_visualization
+CLM10230,Deductible,5000.0,synthetic_for_visualization
+CLM10230,Co-pay,50800.0,synthetic_for_visualization
+CLM10230,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10230,Non-covered expense,7070.0,synthetic_for_visualization
+CLM10230,Policy limit,1100.0,synthetic_for_visualization
+CLM10231,Deductible,10000.0,synthetic_for_visualization
+CLM10231,Co-pay,66300.0,synthetic_for_visualization
+CLM10231,Non-covered expense,47236.0,synthetic_for_visualization
+CLM10231,Policy limit,8600.0,synthetic_for_visualization
+CLM10232,Deductible,25000.0,synthetic_for_visualization
+CLM10232,Co-pay,111300.0,synthetic_for_visualization
+CLM10232,Non-covered expense,70514.0,synthetic_for_visualization
+CLM10232,Policy limit,40600.0,synthetic_for_visualization
+CLM10233,Deductible,25000.0,synthetic_for_visualization
+CLM10233,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10233,Non-covered expense,6087.0,synthetic_for_visualization
+CLM10233,Policy limit,1300.0,synthetic_for_visualization
+CLM10234,Deductible,5000.0,synthetic_for_visualization
+CLM10234,Co-pay,106100.0,synthetic_for_visualization
+CLM10234,Non-covered expense,41389.0,synthetic_for_visualization
+CLM10234,Policy limit,42100.0,synthetic_for_visualization
+CLM10235,Deductible,10000.0,synthetic_for_visualization
+CLM10235,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10235,Non-covered expense,14806.0,synthetic_for_visualization
+CLM10235,Policy limit,9000.0,synthetic_for_visualization
+CLM10236,Deductible,50000.0,synthetic_for_visualization
+CLM10236,Co-pay,46800.0,synthetic_for_visualization
+CLM10236,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10236,Non-covered expense,66074.0,synthetic_for_visualization
+CLM10236,Policy limit,5800.0,synthetic_for_visualization
+CLM10237,Co-pay,50700.0,synthetic_for_visualization
+CLM10237,Non-covered expense,29639.0,synthetic_for_visualization
+CLM10237,Policy limit,11300.0,synthetic_for_visualization
+CLM10238,Co-pay,104700.0,synthetic_for_visualization
+CLM10238,Non-covered expense,9356.0,synthetic_for_visualization
+CLM10238,Policy limit,15800.0,synthetic_for_visualization
+CLM10239,Co-pay,78400.0,synthetic_for_visualization
+CLM10239,Non-covered expense,15269.0,synthetic_for_visualization
+CLM10239,Policy limit,5000.0,synthetic_for_visualization
+CLM10240,Deductible,10000.0,synthetic_for_visualization
+CLM10240,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10240,Non-covered expense,51760.0,synthetic_for_visualization
+CLM10240,Policy limit,7000.0,synthetic_for_visualization
+CLM10241,Deductible,5000.0,synthetic_for_visualization
+CLM10241,Co-pay,24800.0,synthetic_for_visualization
+CLM10241,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10241,Non-covered expense,12766.0,synthetic_for_visualization
+CLM10241,Policy limit,13300.0,synthetic_for_visualization
+CLM10242,Deductible,25000.0,synthetic_for_visualization
+CLM10242,Co-pay,80200.0,synthetic_for_visualization
+CLM10242,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10242,Non-covered expense,46408.0,synthetic_for_visualization
+CLM10242,Policy limit,15600.0,synthetic_for_visualization
+CLM10243,Deductible,10000.0,synthetic_for_visualization
+CLM10243,Non-covered expense,12025.0,synthetic_for_visualization
+CLM10243,Policy limit,4400.0,synthetic_for_visualization
+CLM10244,Deductible,5000.0,synthetic_for_visualization
+CLM10244,Room/rent limit,5000.0,synthetic_for_visualization
+CLM10244,Non-covered expense,22138.0,synthetic_for_visualization
+CLM10244,Policy limit,3000.0,synthetic_for_visualization
+CLM10245,Deductible,50000.0,synthetic_for_visualization
+CLM10245,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10245,Non-covered expense,58612.0,synthetic_for_visualization
+CLM10245,Policy limit,18600.0,synthetic_for_visualization
+CLM10246,Deductible,25000.0,synthetic_for_visualization
+CLM10246,Co-pay,15600.0,synthetic_for_visualization
+CLM10246,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10246,Non-covered expense,7231.0,synthetic_for_visualization
+CLM10246,Policy limit,3000.0,synthetic_for_visualization
+CLM10247,Co-pay,52900.0,synthetic_for_visualization
+CLM10247,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10247,Non-covered expense,51861.0,synthetic_for_visualization
+CLM10247,Policy limit,37700.0,synthetic_for_visualization
+CLM10248,Deductible,5000.0,synthetic_for_visualization
+CLM10248,Co-pay,102600.0,synthetic_for_visualization
+CLM10248,Room/rent limit,10000.0,synthetic_for_visualization
+CLM10248,Non-covered expense,7321.0,synthetic_for_visualization
+CLM10248,Policy limit,7400.0,synthetic_for_visualization
+CLM10249,Deductible,5000.0,synthetic_for_visualization
+CLM10249,Co-pay,50200.0,synthetic_for_visualization
+CLM10249,Room/rent limit,7500.0,synthetic_for_visualization
+CLM10249,Non-covered expense,76395.0,synthetic_for_visualization
+CLM10249,Policy limit,56900.0,synthetic_for_visualization
+CLM10250,Co-pay,20900.0,synthetic_for_visualization
+CLM10250,Room/rent limit,15000.0,synthetic_for_visualization
+CLM10250,Non-covered expense,3905.0,synthetic_for_visualization
+CLM10250,Policy limit,7500.0,synthetic_for_visualization

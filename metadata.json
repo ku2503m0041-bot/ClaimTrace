@@ -1,0 +1,6 @@
+{
+  "name": "ClaimTrace",
+  "description": "Interactive health-insurance data storytelling and claim intelligence platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

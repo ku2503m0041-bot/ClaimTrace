@@ -1,0 +1,6098 @@
+[
+  {
+    "claim_id": "CLM10001",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5383.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "deduction_type": "Policy limit",
+    "amount_inr": "700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "deduction_type": "Co-pay",
+    "amount_inr": "169100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "32941.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "deduction_type": "Policy limit",
+    "amount_inr": "28900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "23935.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25778.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "deduction_type": "Co-pay",
+    "amount_inr": "61600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "33101.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "deduction_type": "Policy limit",
+    "amount_inr": "23700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "deduction_type": "Co-pay",
+    "amount_inr": "63700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29719.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "deduction_type": "Policy limit",
+    "amount_inr": "27300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "deduction_type": "Co-pay",
+    "amount_inr": "14300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6075.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "deduction_type": "Co-pay",
+    "amount_inr": "96000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "64774.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "deduction_type": "Co-pay",
+    "amount_inr": "17700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "4999.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "deduction_type": "Policy limit",
+    "amount_inr": "14600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7971.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "deduction_type": "Co-pay",
+    "amount_inr": "112500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "40551.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "deduction_type": "Co-pay",
+    "amount_inr": "131500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "27396.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "deduction_type": "Policy limit",
+    "amount_inr": "46900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "deduction_type": "Co-pay",
+    "amount_inr": "166000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "14887.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "deduction_type": "Policy limit",
+    "amount_inr": "28500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "20998.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "deduction_type": "Policy limit",
+    "amount_inr": "59000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "deduction_type": "Co-pay",
+    "amount_inr": "100400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "65799.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "deduction_type": "Policy limit",
+    "amount_inr": "20200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "deduction_type": "Co-pay",
+    "amount_inr": "61000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13383.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "16889.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "deduction_type": "Co-pay",
+    "amount_inr": "8000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "3379.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "deduction_type": "Policy limit",
+    "amount_inr": "12400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "deduction_type": "Co-pay",
+    "amount_inr": "64600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "21117.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "31804.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "deduction_type": "Policy limit",
+    "amount_inr": "17400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "deduction_type": "Co-pay",
+    "amount_inr": "36800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18781.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "deduction_type": "Policy limit",
+    "amount_inr": "38000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "deduction_type": "Co-pay",
+    "amount_inr": "54700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25238.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "deduction_type": "Policy limit",
+    "amount_inr": "24600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "14770.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "deduction_type": "Co-pay",
+    "amount_inr": "62200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "78191.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "deduction_type": "Policy limit",
+    "amount_inr": "39600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13025.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "56134.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "deduction_type": "Co-pay",
+    "amount_inr": "71900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "28817.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "deduction_type": "Policy limit",
+    "amount_inr": "33300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "deduction_type": "Co-pay",
+    "amount_inr": "123700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "24198.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "deduction_type": "Policy limit",
+    "amount_inr": "24400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "44665.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "deduction_type": "Policy limit",
+    "amount_inr": "33900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "deduction_type": "Co-pay",
+    "amount_inr": "98000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "40379.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "deduction_type": "Co-pay",
+    "amount_inr": "67700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17618.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "deduction_type": "Policy limit",
+    "amount_inr": "21800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "24661.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "deduction_type": "Co-pay",
+    "amount_inr": "19000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7795.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "37435.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "deduction_type": "Co-pay",
+    "amount_inr": "172800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "84811.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "deduction_type": "Policy limit",
+    "amount_inr": "30000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "deduction_type": "Co-pay",
+    "amount_inr": "8600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5495.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "deduction_type": "Co-pay",
+    "amount_inr": "55000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "70285.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "deduction_type": "Policy limit",
+    "amount_inr": "23800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "34770.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "deduction_type": "Policy limit",
+    "amount_inr": "27400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "deduction_type": "Co-pay",
+    "amount_inr": "44100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25737.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41938.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7241.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "37982.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "deduction_type": "Policy limit",
+    "amount_inr": "41300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "deduction_type": "Co-pay",
+    "amount_inr": "96600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29784.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "deduction_type": "Policy limit",
+    "amount_inr": "37700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8785.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "deduction_type": "Policy limit",
+    "amount_inr": "20900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "deduction_type": "Co-pay",
+    "amount_inr": "14500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "2320.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "deduction_type": "Policy limit",
+    "amount_inr": "200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "deduction_type": "Co-pay",
+    "amount_inr": "71000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42517.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "deduction_type": "Policy limit",
+    "amount_inr": "25400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8417.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "26309.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "51666.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "deduction_type": "Policy limit",
+    "amount_inr": "48100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "deduction_type": "Co-pay",
+    "amount_inr": "56100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "57554.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "deduction_type": "Co-pay",
+    "amount_inr": "104100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "58185.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "deduction_type": "Policy limit",
+    "amount_inr": "41400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "10135.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "deduction_type": "Co-pay",
+    "amount_inr": "45800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "35200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "31756.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "deduction_type": "Co-pay",
+    "amount_inr": "74500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13802.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "deduction_type": "Policy limit",
+    "amount_inr": "12000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "deduction_type": "Co-pay",
+    "amount_inr": "7300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "2848.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "deduction_type": "Co-pay",
+    "amount_inr": "65400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41076.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "deduction_type": "Policy limit",
+    "amount_inr": "41900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "deduction_type": "Co-pay",
+    "amount_inr": "14600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6180.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "deduction_type": "Co-pay",
+    "amount_inr": "105300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42970.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "deduction_type": "Policy limit",
+    "amount_inr": "32900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "67012.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "deduction_type": "Policy limit",
+    "amount_inr": "39400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15135.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "deduction_type": "Policy limit",
+    "amount_inr": "70700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13180.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "deduction_type": "Policy limit",
+    "amount_inr": "37100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "deduction_type": "Co-pay",
+    "amount_inr": "27800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "38773.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "deduction_type": "Co-pay",
+    "amount_inr": "128300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "60859.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "deduction_type": "Policy limit",
+    "amount_inr": "48500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "deduction_type": "Co-pay",
+    "amount_inr": "33500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "11708.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "deduction_type": "Co-pay",
+    "amount_inr": "36700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "32301.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "deduction_type": "Policy limit",
+    "amount_inr": "28700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "78776.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "deduction_type": "Co-pay",
+    "amount_inr": "56200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "24136.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "deduction_type": "Policy limit",
+    "amount_inr": "22500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8814.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "deduction_type": "Policy limit",
+    "amount_inr": "200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19030.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "deduction_type": "Co-pay",
+    "amount_inr": "114800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "16203.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "deduction_type": "Co-pay",
+    "amount_inr": "46500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15264.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "deduction_type": "Co-pay",
+    "amount_inr": "31000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19652.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "deduction_type": "Policy limit",
+    "amount_inr": "17600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12733.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "deduction_type": "Policy limit",
+    "amount_inr": "13800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "deduction_type": "Co-pay",
+    "amount_inr": "45300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "58533.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "deduction_type": "Policy limit",
+    "amount_inr": "48200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8874.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "deduction_type": "Policy limit",
+    "amount_inr": "13100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "deduction_type": "Co-pay",
+    "amount_inr": "41600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "23684.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "deduction_type": "Co-pay",
+    "amount_inr": "38000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "9496.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "50835.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25059.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "61232.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "deduction_type": "Co-pay",
+    "amount_inr": "94500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "28474.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "deduction_type": "Policy limit",
+    "amount_inr": "34500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "deduction_type": "Co-pay",
+    "amount_inr": "13500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "10166.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "deduction_type": "Co-pay",
+    "amount_inr": "111700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "59196.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "deduction_type": "Co-pay",
+    "amount_inr": "41300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "48355.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "deduction_type": "Policy limit",
+    "amount_inr": "51100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "deduction_type": "Co-pay",
+    "amount_inr": "47800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "44114.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "11781.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "deduction_type": "Co-pay",
+    "amount_inr": "68700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "33641.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "deduction_type": "Policy limit",
+    "amount_inr": "21700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "38759.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "deduction_type": "Policy limit",
+    "amount_inr": "30100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "deduction_type": "Co-pay",
+    "amount_inr": "57000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "48177.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "deduction_type": "Policy limit",
+    "amount_inr": "30800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "deduction_type": "Co-pay",
+    "amount_inr": "33400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7998.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "deduction_type": "Co-pay",
+    "amount_inr": "54600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "65098.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "deduction_type": "Co-pay",
+    "amount_inr": "183800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "49067.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "deduction_type": "Policy limit",
+    "amount_inr": "19700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "20708.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "deduction_type": "Co-pay",
+    "amount_inr": "65500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "21278.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29012.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "deduction_type": "Co-pay",
+    "amount_inr": "20600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13665.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "49590.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "deduction_type": "Policy limit",
+    "amount_inr": "45900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18432.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "deduction_type": "Policy limit",
+    "amount_inr": "45400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17982.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25528.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "deduction_type": "Policy limit",
+    "amount_inr": "500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7988.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "deduction_type": "Co-pay",
+    "amount_inr": "52200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "69223.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "deduction_type": "Policy limit",
+    "amount_inr": "52100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "deduction_type": "Co-pay",
+    "amount_inr": "3500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6177.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "deduction_type": "Policy limit",
+    "amount_inr": "4700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "26692.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42880.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "deduction_type": "Policy limit",
+    "amount_inr": "49600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "59302.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "deduction_type": "Co-pay",
+    "amount_inr": "41800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "59163.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "deduction_type": "Policy limit",
+    "amount_inr": "21400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "23375.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "deduction_type": "Policy limit",
+    "amount_inr": "40300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41506.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "24281.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "deduction_type": "Policy limit",
+    "amount_inr": "4000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "deduction_type": "Co-pay",
+    "amount_inr": "54400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "59178.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "deduction_type": "Policy limit",
+    "amount_inr": "26900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "45878.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "deduction_type": "Policy limit",
+    "amount_inr": "28900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "deduction_type": "Co-pay",
+    "amount_inr": "32700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "30350.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "deduction_type": "Policy limit",
+    "amount_inr": "36800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "deduction_type": "Co-pay",
+    "amount_inr": "37400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13074.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "deduction_type": "Co-pay",
+    "amount_inr": "79100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "52610.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "deduction_type": "Co-pay",
+    "amount_inr": "4400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8306.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "deduction_type": "Co-pay",
+    "amount_inr": "12700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15455.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "deduction_type": "Policy limit",
+    "amount_inr": "12200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7020.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "deduction_type": "Co-pay",
+    "amount_inr": "21700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5496.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "deduction_type": "Policy limit",
+    "amount_inr": "12000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "deduction_type": "Co-pay",
+    "amount_inr": "26900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "35829.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "deduction_type": "Policy limit",
+    "amount_inr": "25200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12302.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "deduction_type": "Co-pay",
+    "amount_inr": "42700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "63775.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "deduction_type": "Policy limit",
+    "amount_inr": "45000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "23278.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "deduction_type": "Co-pay",
+    "amount_inr": "59300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "63553.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "deduction_type": "Co-pay",
+    "amount_inr": "77200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "51543.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "deduction_type": "Policy limit",
+    "amount_inr": "26200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "deduction_type": "Co-pay",
+    "amount_inr": "9500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6505.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "deduction_type": "Co-pay",
+    "amount_inr": "163100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "32381.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "deduction_type": "Co-pay",
+    "amount_inr": "41100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "38896.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "deduction_type": "Policy limit",
+    "amount_inr": "31400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "deduction_type": "Co-pay",
+    "amount_inr": "43300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41083.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "deduction_type": "Policy limit",
+    "amount_inr": "52200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "deduction_type": "Co-pay",
+    "amount_inr": "74600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "28875.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "deduction_type": "Policy limit",
+    "amount_inr": "47400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "37297.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "deduction_type": "Policy limit",
+    "amount_inr": "24000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "deduction_type": "Co-pay",
+    "amount_inr": "20700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "13389.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "deduction_type": "Co-pay",
+    "amount_inr": "40400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "31339.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "deduction_type": "Policy limit",
+    "amount_inr": "34200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25637.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "deduction_type": "Policy limit",
+    "amount_inr": "63100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "16044.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "deduction_type": "Co-pay",
+    "amount_inr": "84800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29832.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "deduction_type": "Policy limit",
+    "amount_inr": "23200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "2421.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "11272.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "33396.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "deduction_type": "Policy limit",
+    "amount_inr": "25400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42460.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "deduction_type": "Policy limit",
+    "amount_inr": "27800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "24361.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "deduction_type": "Co-pay",
+    "amount_inr": "44900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "11419.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "deduction_type": "Policy limit",
+    "amount_inr": "21400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "10654.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "deduction_type": "Co-pay",
+    "amount_inr": "137100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "75756.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "deduction_type": "Policy limit",
+    "amount_inr": "33100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "deduction_type": "Co-pay",
+    "amount_inr": "118700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "74597.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "deduction_type": "Policy limit",
+    "amount_inr": "22200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "3635.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "9065.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "deduction_type": "Co-pay",
+    "amount_inr": "59800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25702.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "deduction_type": "Policy limit",
+    "amount_inr": "32700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6767.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10151",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10151",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10151",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "46238.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10151",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10152",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10152",
+    "deduction_type": "Co-pay",
+    "amount_inr": "66300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10152",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10152",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "11993.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10152",
+    "deduction_type": "Policy limit",
+    "amount_inr": "22900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10153",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10153",
+    "deduction_type": "Co-pay",
+    "amount_inr": "210900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10153",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10153",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10153",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10154",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10154",
+    "deduction_type": "Co-pay",
+    "amount_inr": "39500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10154",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10154",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18414.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10154",
+    "deduction_type": "Policy limit",
+    "amount_inr": "4100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10155",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10155",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "43560.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10155",
+    "deduction_type": "Policy limit",
+    "amount_inr": "20100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10156",
+    "deduction_type": "Co-pay",
+    "amount_inr": "49600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10156",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "46585.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10156",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10157",
+    "deduction_type": "Co-pay",
+    "amount_inr": "26800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10157",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10157",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "10065.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10157",
+    "deduction_type": "Policy limit",
+    "amount_inr": "800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10158",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10158",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "14533.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10159",
+    "deduction_type": "Co-pay",
+    "amount_inr": "39100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10159",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19399.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10159",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10160",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10160",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10160",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "31563.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10160",
+    "deduction_type": "Policy limit",
+    "amount_inr": "49400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10161",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10161",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "76903.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10161",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10162",
+    "deduction_type": "Co-pay",
+    "amount_inr": "45300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10162",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10162",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "59029.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10162",
+    "deduction_type": "Policy limit",
+    "amount_inr": "35800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10163",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10163",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10163",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "39316.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10163",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10164",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10164",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10164",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42027.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10164",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10165",
+    "deduction_type": "Co-pay",
+    "amount_inr": "63000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10165",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10165",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "42975.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10165",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10166",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10166",
+    "deduction_type": "Co-pay",
+    "amount_inr": "150700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10166",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10166",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "76157.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10166",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10167",
+    "deduction_type": "Co-pay",
+    "amount_inr": "25900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10167",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10167",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7908.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10167",
+    "deduction_type": "Policy limit",
+    "amount_inr": "23900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10168",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10168",
+    "deduction_type": "Co-pay",
+    "amount_inr": "22000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10168",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10168",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5919.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10168",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10169",
+    "deduction_type": "Co-pay",
+    "amount_inr": "78300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10169",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10169",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15170.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10169",
+    "deduction_type": "Policy limit",
+    "amount_inr": "24600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10170",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10170",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10170",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5047.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10170",
+    "deduction_type": "Policy limit",
+    "amount_inr": "600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10171",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10171",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10171",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "3849.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10171",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10172",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10172",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10172",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12292.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10172",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10173",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10173",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10173",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "51347.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10173",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10174",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10174",
+    "deduction_type": "Co-pay",
+    "amount_inr": "95700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10174",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10174",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "43931.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10174",
+    "deduction_type": "Policy limit",
+    "amount_inr": "44500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10175",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10175",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10175",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "20917.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10175",
+    "deduction_type": "Policy limit",
+    "amount_inr": "28900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10176",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10176",
+    "deduction_type": "Co-pay",
+    "amount_inr": "32400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10176",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10176",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17967.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10176",
+    "deduction_type": "Policy limit",
+    "amount_inr": "29700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10177",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10177",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "21179.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10177",
+    "deduction_type": "Policy limit",
+    "amount_inr": "27300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10178",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10178",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10178",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17983.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10178",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10179",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10179",
+    "deduction_type": "Co-pay",
+    "amount_inr": "192800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10179",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10179",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "56893.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10179",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10180",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10180",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10180",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "39816.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10180",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10181",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10181",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10181",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "37378.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10181",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10182",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10182",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "9382.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10182",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10183",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10183",
+    "deduction_type": "Co-pay",
+    "amount_inr": "38400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10183",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25585.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10183",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10184",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10184",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10184",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "54936.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10184",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10185",
+    "deduction_type": "Co-pay",
+    "amount_inr": "37300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10185",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10185",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41006.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10185",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10186",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10186",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15647.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10186",
+    "deduction_type": "Policy limit",
+    "amount_inr": "31700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10187",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10187",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10187",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19938.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10187",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10188",
+    "deduction_type": "Co-pay",
+    "amount_inr": "58300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10188",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10188",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "10766.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10188",
+    "deduction_type": "Policy limit",
+    "amount_inr": "33300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10189",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10189",
+    "deduction_type": "Co-pay",
+    "amount_inr": "19600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10189",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10189",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "25109.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10189",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10190",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10190",
+    "deduction_type": "Co-pay",
+    "amount_inr": "24500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10190",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10190",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "8295.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10190",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10191",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10191",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10191",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10191",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "26143.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10191",
+    "deduction_type": "Policy limit",
+    "amount_inr": "25300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10192",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10192",
+    "deduction_type": "Co-pay",
+    "amount_inr": "88500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10192",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10192",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "54701.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10192",
+    "deduction_type": "Policy limit",
+    "amount_inr": "20500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10193",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10193",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10193",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19179.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10193",
+    "deduction_type": "Policy limit",
+    "amount_inr": "44200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10194",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10194",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "19718.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10194",
+    "deduction_type": "Policy limit",
+    "amount_inr": "31400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10195",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10195",
+    "deduction_type": "Co-pay",
+    "amount_inr": "60300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10195",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "50024.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10195",
+    "deduction_type": "Policy limit",
+    "amount_inr": "67200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10196",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10196",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "5153.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10196",
+    "deduction_type": "Policy limit",
+    "amount_inr": "2200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10197",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10197",
+    "deduction_type": "Co-pay",
+    "amount_inr": "53400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10197",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10197",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "27939.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10197",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10198",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10198",
+    "deduction_type": "Co-pay",
+    "amount_inr": "11000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10198",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10198",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "14561.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10198",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10199",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10199",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10199",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10199",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "32689.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10199",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10200",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10200",
+    "deduction_type": "Co-pay",
+    "amount_inr": "129600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10200",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41605.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10200",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10201",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10201",
+    "deduction_type": "Co-pay",
+    "amount_inr": "27300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10201",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10201",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "23730.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10201",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10202",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10202",
+    "deduction_type": "Co-pay",
+    "amount_inr": "190000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10202",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "32798.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10202",
+    "deduction_type": "Policy limit",
+    "amount_inr": "40300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10203",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10203",
+    "deduction_type": "Co-pay",
+    "amount_inr": "35800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10203",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18739.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10203",
+    "deduction_type": "Policy limit",
+    "amount_inr": "34900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10204",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10204",
+    "deduction_type": "Co-pay",
+    "amount_inr": "100600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10204",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10204",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "20764.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10204",
+    "deduction_type": "Policy limit",
+    "amount_inr": "40800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10205",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10205",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "44810.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10205",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10206",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10206",
+    "deduction_type": "Co-pay",
+    "amount_inr": "19600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10206",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "27135.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10206",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10207",
+    "deduction_type": "Co-pay",
+    "amount_inr": "52500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10207",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10207",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "60906.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10207",
+    "deduction_type": "Policy limit",
+    "amount_inr": "37500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10208",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10208",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10208",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "55754.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10208",
+    "deduction_type": "Policy limit",
+    "amount_inr": "37800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10209",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10209",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10209",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17102.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10209",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10210",
+    "deduction_type": "Co-pay",
+    "amount_inr": "168400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10210",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10210",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "46270.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10210",
+    "deduction_type": "Policy limit",
+    "amount_inr": "26500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10211",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10211",
+    "deduction_type": "Co-pay",
+    "amount_inr": "19900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10211",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10211",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18109.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10211",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10212",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10212",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "37291.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10212",
+    "deduction_type": "Policy limit",
+    "amount_inr": "48600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10213",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10213",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "21290.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10213",
+    "deduction_type": "Policy limit",
+    "amount_inr": "36000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10214",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12604.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10214",
+    "deduction_type": "Policy limit",
+    "amount_inr": "14900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10215",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10215",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10215",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "69445.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10215",
+    "deduction_type": "Policy limit",
+    "amount_inr": "16300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10216",
+    "deduction_type": "Co-pay",
+    "amount_inr": "67100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10216",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "17336.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10216",
+    "deduction_type": "Policy limit",
+    "amount_inr": "13300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10217",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10217",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10217",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12621.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10217",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10218",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10218",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10218",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "4446.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10218",
+    "deduction_type": "Policy limit",
+    "amount_inr": "6900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10219",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10219",
+    "deduction_type": "Co-pay",
+    "amount_inr": "32000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10219",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10219",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29065.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10219",
+    "deduction_type": "Policy limit",
+    "amount_inr": "26100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10220",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10220",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29639.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10220",
+    "deduction_type": "Policy limit",
+    "amount_inr": "4800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10221",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10221",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10221",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6602.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10222",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10222",
+    "deduction_type": "Co-pay",
+    "amount_inr": "64900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10222",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10222",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "9014.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10222",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10223",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10223",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10223",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "18436.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10223",
+    "deduction_type": "Policy limit",
+    "amount_inr": "51700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10224",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10224",
+    "deduction_type": "Co-pay",
+    "amount_inr": "46900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10224",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10224",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "22535.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10224",
+    "deduction_type": "Policy limit",
+    "amount_inr": "13000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10225",
+    "deduction_type": "Co-pay",
+    "amount_inr": "55000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10225",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10225",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "30834.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10225",
+    "deduction_type": "Policy limit",
+    "amount_inr": "10200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10226",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10226",
+    "deduction_type": "Co-pay",
+    "amount_inr": "22200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10226",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10226",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "22585.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10226",
+    "deduction_type": "Policy limit",
+    "amount_inr": "24900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10227",
+    "deduction_type": "Co-pay",
+    "amount_inr": "116400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10227",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10227",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "43658.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10227",
+    "deduction_type": "Policy limit",
+    "amount_inr": "30900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10228",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10228",
+    "deduction_type": "Co-pay",
+    "amount_inr": "126700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10228",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10228",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29087.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10228",
+    "deduction_type": "Policy limit",
+    "amount_inr": "23100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10229",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10229",
+    "deduction_type": "Co-pay",
+    "amount_inr": "74700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10229",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10229",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "33680.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10229",
+    "deduction_type": "Policy limit",
+    "amount_inr": "43100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10230",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10230",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10230",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10230",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7070.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10230",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10231",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10231",
+    "deduction_type": "Co-pay",
+    "amount_inr": "66300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10231",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "47236.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10231",
+    "deduction_type": "Policy limit",
+    "amount_inr": "8600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10232",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10232",
+    "deduction_type": "Co-pay",
+    "amount_inr": "111300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10232",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "70514.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10232",
+    "deduction_type": "Policy limit",
+    "amount_inr": "40600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10233",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10233",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10233",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "6087.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10233",
+    "deduction_type": "Policy limit",
+    "amount_inr": "1300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10234",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10234",
+    "deduction_type": "Co-pay",
+    "amount_inr": "106100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10234",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "41389.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10234",
+    "deduction_type": "Policy limit",
+    "amount_inr": "42100.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10235",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10235",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10235",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "14806.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10235",
+    "deduction_type": "Policy limit",
+    "amount_inr": "9000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10236",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10236",
+    "deduction_type": "Co-pay",
+    "amount_inr": "46800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10236",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10236",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "66074.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10236",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10237",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10237",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "29639.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10237",
+    "deduction_type": "Policy limit",
+    "amount_inr": "11300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10238",
+    "deduction_type": "Co-pay",
+    "amount_inr": "104700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10238",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "9356.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10238",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10239",
+    "deduction_type": "Co-pay",
+    "amount_inr": "78400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10239",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "15269.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10239",
+    "deduction_type": "Policy limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10240",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10240",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10240",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "51760.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10240",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10241",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10241",
+    "deduction_type": "Co-pay",
+    "amount_inr": "24800.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10241",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10241",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12766.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10241",
+    "deduction_type": "Policy limit",
+    "amount_inr": "13300.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10242",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10242",
+    "deduction_type": "Co-pay",
+    "amount_inr": "80200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10242",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10242",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "46408.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10242",
+    "deduction_type": "Policy limit",
+    "amount_inr": "15600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10243",
+    "deduction_type": "Deductible",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10243",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "12025.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10243",
+    "deduction_type": "Policy limit",
+    "amount_inr": "4400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10244",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10244",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10244",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "22138.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10244",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10245",
+    "deduction_type": "Deductible",
+    "amount_inr": "50000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10245",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10245",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "58612.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10245",
+    "deduction_type": "Policy limit",
+    "amount_inr": "18600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10246",
+    "deduction_type": "Deductible",
+    "amount_inr": "25000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10246",
+    "deduction_type": "Co-pay",
+    "amount_inr": "15600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10246",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10246",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7231.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10246",
+    "deduction_type": "Policy limit",
+    "amount_inr": "3000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10247",
+    "deduction_type": "Co-pay",
+    "amount_inr": "52900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10247",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10247",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "51861.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10247",
+    "deduction_type": "Policy limit",
+    "amount_inr": "37700.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10248",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10248",
+    "deduction_type": "Co-pay",
+    "amount_inr": "102600.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10248",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "10000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10248",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "7321.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10248",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7400.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10249",
+    "deduction_type": "Deductible",
+    "amount_inr": "5000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10249",
+    "deduction_type": "Co-pay",
+    "amount_inr": "50200.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10249",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10249",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "76395.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10249",
+    "deduction_type": "Policy limit",
+    "amount_inr": "56900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10250",
+    "deduction_type": "Co-pay",
+    "amount_inr": "20900.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10250",
+    "deduction_type": "Room/rent limit",
+    "amount_inr": "15000.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10250",
+    "deduction_type": "Non-covered expense",
+    "amount_inr": "3905.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10250",
+    "deduction_type": "Policy limit",
+    "amount_inr": "7500.0",
+    "data_status": "synthetic_for_visualization"
+  }
+]

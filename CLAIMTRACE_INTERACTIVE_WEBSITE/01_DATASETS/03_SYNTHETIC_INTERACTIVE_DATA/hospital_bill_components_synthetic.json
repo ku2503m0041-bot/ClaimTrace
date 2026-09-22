@@ -1,0 +1,7202 @@
+[
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Room",
+    "amount_inr": "9124.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "18207.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Medicines",
+    "amount_inr": "12296.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Diagnostics",
+    "amount_inr": "29555.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "4044.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Nursing",
+    "amount_inr": "21210.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Consumables",
+    "amount_inr": "14941.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "bill_component": "Other",
+    "amount_inr": "7556.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Room",
+    "amount_inr": "171661.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "61129.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Medicines",
+    "amount_inr": "114754.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Diagnostics",
+    "amount_inr": "28880.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "4284.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Nursing",
+    "amount_inr": "81622.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Consumables",
+    "amount_inr": "80517.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "bill_component": "Other",
+    "amount_inr": "87618.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Room",
+    "amount_inr": "98643.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "116273.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Medicines",
+    "amount_inr": "72889.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Diagnostics",
+    "amount_inr": "93794.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "30276.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Nursing",
+    "amount_inr": "24020.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Consumables",
+    "amount_inr": "84087.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "bill_component": "Other",
+    "amount_inr": "20942.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Room",
+    "amount_inr": "11968.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "196460.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Medicines",
+    "amount_inr": "39017.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Diagnostics",
+    "amount_inr": "24885.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "22537.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Nursing",
+    "amount_inr": "9200.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Consumables",
+    "amount_inr": "45918.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "bill_component": "Other",
+    "amount_inr": "29170.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Room",
+    "amount_inr": "94249.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "71097.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Medicines",
+    "amount_inr": "36646.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Diagnostics",
+    "amount_inr": "5667.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50514.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Nursing",
+    "amount_inr": "47086.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Consumables",
+    "amount_inr": "4214.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "bill_component": "Other",
+    "amount_inr": "65285.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Room",
+    "amount_inr": "26517.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "154707.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Medicines",
+    "amount_inr": "71093.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Diagnostics",
+    "amount_inr": "45003.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "88781.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Nursing",
+    "amount_inr": "84705.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Consumables",
+    "amount_inr": "82361.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "bill_component": "Other",
+    "amount_inr": "140776.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Room",
+    "amount_inr": "13567.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "6074.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Medicines",
+    "amount_inr": "8938.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Diagnostics",
+    "amount_inr": "28259.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "5600.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Nursing",
+    "amount_inr": "14929.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Consumables",
+    "amount_inr": "21096.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "bill_component": "Other",
+    "amount_inr": "15993.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Room",
+    "amount_inr": "52272.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "58583.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Medicines",
+    "amount_inr": "74452.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Diagnostics",
+    "amount_inr": "24661.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "48740.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Nursing",
+    "amount_inr": "192673.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Consumables",
+    "amount_inr": "67949.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "bill_component": "Other",
+    "amount_inr": "53692.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Room",
+    "amount_inr": "14064.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "9571.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Medicines",
+    "amount_inr": "23073.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Diagnostics",
+    "amount_inr": "24271.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "17766.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Nursing",
+    "amount_inr": "93732.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Consumables",
+    "amount_inr": "10332.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "bill_component": "Other",
+    "amount_inr": "8289.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Room",
+    "amount_inr": "9653.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "12355.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Medicines",
+    "amount_inr": "6194.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Diagnostics",
+    "amount_inr": "15373.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "16624.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Nursing",
+    "amount_inr": "21059.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Consumables",
+    "amount_inr": "8413.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "bill_component": "Other",
+    "amount_inr": "30959.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Room",
+    "amount_inr": "60900.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "20889.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Medicines",
+    "amount_inr": "18720.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Diagnostics",
+    "amount_inr": "30945.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50536.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Nursing",
+    "amount_inr": "55981.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Consumables",
+    "amount_inr": "60819.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "bill_component": "Other",
+    "amount_inr": "146066.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Room",
+    "amount_inr": "13715.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "74652.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Medicines",
+    "amount_inr": "288096.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Diagnostics",
+    "amount_inr": "137579.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "33568.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Nursing",
+    "amount_inr": "93673.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Consumables",
+    "amount_inr": "71213.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "bill_component": "Other",
+    "amount_inr": "69216.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Room",
+    "amount_inr": "36112.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "60717.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Medicines",
+    "amount_inr": "118524.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Diagnostics",
+    "amount_inr": "38891.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "87887.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Nursing",
+    "amount_inr": "98874.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Consumables",
+    "amount_inr": "134310.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "bill_component": "Other",
+    "amount_inr": "26496.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Room",
+    "amount_inr": "59823.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "34199.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Medicines",
+    "amount_inr": "63663.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Diagnostics",
+    "amount_inr": "63342.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "21774.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Nursing",
+    "amount_inr": "66510.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Consumables",
+    "amount_inr": "227046.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "bill_component": "Other",
+    "amount_inr": "84494.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Room",
+    "amount_inr": "27579.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40917.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Medicines",
+    "amount_inr": "89863.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Diagnostics",
+    "amount_inr": "41797.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "211826.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Nursing",
+    "amount_inr": "24302.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Consumables",
+    "amount_inr": "132648.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "bill_component": "Other",
+    "amount_inr": "19170.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Room",
+    "amount_inr": "64172.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "26305.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Medicines",
+    "amount_inr": "108454.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Diagnostics",
+    "amount_inr": "136186.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "85711.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Nursing",
+    "amount_inr": "140460.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Consumables",
+    "amount_inr": "3857.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "bill_component": "Other",
+    "amount_inr": "74399.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Room",
+    "amount_inr": "60271.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "65874.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Medicines",
+    "amount_inr": "57761.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Diagnostics",
+    "amount_inr": "66885.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "46837.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Nursing",
+    "amount_inr": "12788.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Consumables",
+    "amount_inr": "26940.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "bill_component": "Other",
+    "amount_inr": "97560.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Room",
+    "amount_inr": "17653.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "11630.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Medicines",
+    "amount_inr": "13663.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Diagnostics",
+    "amount_inr": "16266.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "11535.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Nursing",
+    "amount_inr": "18713.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Consumables",
+    "amount_inr": "18299.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "bill_component": "Other",
+    "amount_inr": "38322.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Room",
+    "amount_inr": "31680.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "32167.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Medicines",
+    "amount_inr": "63448.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Diagnostics",
+    "amount_inr": "162841.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "114436.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Nursing",
+    "amount_inr": "86244.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Consumables",
+    "amount_inr": "119684.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "bill_component": "Other",
+    "amount_inr": "69307.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Room",
+    "amount_inr": "30848.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "152558.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Medicines",
+    "amount_inr": "52964.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Diagnostics",
+    "amount_inr": "84377.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "2213.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Nursing",
+    "amount_inr": "3027.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Consumables",
+    "amount_inr": "44239.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "bill_component": "Other",
+    "amount_inr": "17559.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Room",
+    "amount_inr": "36015.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "19713.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Medicines",
+    "amount_inr": "149294.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Diagnostics",
+    "amount_inr": "60814.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "78183.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Nursing",
+    "amount_inr": "3064.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Consumables",
+    "amount_inr": "52421.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "bill_component": "Other",
+    "amount_inr": "25755.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Room",
+    "amount_inr": "70271.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "41913.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Medicines",
+    "amount_inr": "25537.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Diagnostics",
+    "amount_inr": "8786.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "29465.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Nursing",
+    "amount_inr": "59402.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Consumables",
+    "amount_inr": "72971.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "bill_component": "Other",
+    "amount_inr": "19748.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Room",
+    "amount_inr": "72674.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "34416.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Medicines",
+    "amount_inr": "7392.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Diagnostics",
+    "amount_inr": "5893.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "14682.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Nursing",
+    "amount_inr": "12046.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Consumables",
+    "amount_inr": "23200.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "bill_component": "Other",
+    "amount_inr": "16605.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Room",
+    "amount_inr": "103757.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "28515.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Medicines",
+    "amount_inr": "210579.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Diagnostics",
+    "amount_inr": "25828.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "277498.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Nursing",
+    "amount_inr": "15557.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Consumables",
+    "amount_inr": "24119.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "bill_component": "Other",
+    "amount_inr": "59215.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Room",
+    "amount_inr": "81577.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "67981.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Medicines",
+    "amount_inr": "81281.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Diagnostics",
+    "amount_inr": "144786.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "54916.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Nursing",
+    "amount_inr": "145788.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Consumables",
+    "amount_inr": "6827.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "bill_component": "Other",
+    "amount_inr": "53015.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Room",
+    "amount_inr": "10035.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "121482.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Medicines",
+    "amount_inr": "30050.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Diagnostics",
+    "amount_inr": "88831.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "7994.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Nursing",
+    "amount_inr": "156582.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Consumables",
+    "amount_inr": "61618.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "bill_component": "Other",
+    "amount_inr": "56300.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Room",
+    "amount_inr": "11074.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "19831.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Medicines",
+    "amount_inr": "40789.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Diagnostics",
+    "amount_inr": "20574.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "98376.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Nursing",
+    "amount_inr": "52264.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Consumables",
+    "amount_inr": "20821.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "bill_component": "Other",
+    "amount_inr": "88076.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Room",
+    "amount_inr": "63508.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "148556.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Medicines",
+    "amount_inr": "55234.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Diagnostics",
+    "amount_inr": "127738.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "61651.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Nursing",
+    "amount_inr": "171431.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Consumables",
+    "amount_inr": "12435.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "bill_component": "Other",
+    "amount_inr": "26515.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Room",
+    "amount_inr": "64992.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40278.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Medicines",
+    "amount_inr": "51123.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Diagnostics",
+    "amount_inr": "117899.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50212.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Nursing",
+    "amount_inr": "93707.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Consumables",
+    "amount_inr": "32963.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "bill_component": "Other",
+    "amount_inr": "7892.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Room",
+    "amount_inr": "48480.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "89661.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Medicines",
+    "amount_inr": "33318.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Diagnostics",
+    "amount_inr": "26141.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "30694.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Nursing",
+    "amount_inr": "70475.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Consumables",
+    "amount_inr": "33621.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "bill_component": "Other",
+    "amount_inr": "50167.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Room",
+    "amount_inr": "48179.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "59021.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Medicines",
+    "amount_inr": "25469.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Diagnostics",
+    "amount_inr": "17739.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "41846.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Nursing",
+    "amount_inr": "56144.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Consumables",
+    "amount_inr": "63671.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "bill_component": "Other",
+    "amount_inr": "75771.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Room",
+    "amount_inr": "46273.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "14851.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Medicines",
+    "amount_inr": "29002.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Diagnostics",
+    "amount_inr": "27079.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "24851.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Nursing",
+    "amount_inr": "36831.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Consumables",
+    "amount_inr": "20757.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "bill_component": "Other",
+    "amount_inr": "20781.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Room",
+    "amount_inr": "34918.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "10018.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Medicines",
+    "amount_inr": "22164.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Diagnostics",
+    "amount_inr": "23060.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "12716.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Nursing",
+    "amount_inr": "9211.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Consumables",
+    "amount_inr": "4932.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "bill_component": "Other",
+    "amount_inr": "2077.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Room",
+    "amount_inr": "64780.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "55607.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Medicines",
+    "amount_inr": "71758.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Diagnostics",
+    "amount_inr": "27516.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "145122.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Nursing",
+    "amount_inr": "59273.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Consumables",
+    "amount_inr": "37826.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "bill_component": "Other",
+    "amount_inr": "4051.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Room",
+    "amount_inr": "42348.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "103998.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Medicines",
+    "amount_inr": "153288.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Diagnostics",
+    "amount_inr": "59813.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "170372.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Nursing",
+    "amount_inr": "25032.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Consumables",
+    "amount_inr": "79698.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "bill_component": "Other",
+    "amount_inr": "81364.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Room",
+    "amount_inr": "12702.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "9221.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Medicines",
+    "amount_inr": "10641.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Diagnostics",
+    "amount_inr": "3402.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "19945.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Nursing",
+    "amount_inr": "15679.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Consumables",
+    "amount_inr": "10333.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "bill_component": "Other",
+    "amount_inr": "15936.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Room",
+    "amount_inr": "111109.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "68531.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Medicines",
+    "amount_inr": "165340.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Diagnostics",
+    "amount_inr": "72672.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "21384.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Nursing",
+    "amount_inr": "54239.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Consumables",
+    "amount_inr": "89259.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "bill_component": "Other",
+    "amount_inr": "111182.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Room",
+    "amount_inr": "101181.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "39312.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Medicines",
+    "amount_inr": "74158.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Diagnostics",
+    "amount_inr": "24515.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "154610.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Nursing",
+    "amount_inr": "62933.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Consumables",
+    "amount_inr": "48625.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "bill_component": "Other",
+    "amount_inr": "165384.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Room",
+    "amount_inr": "71195.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "13662.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Medicines",
+    "amount_inr": "28680.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Diagnostics",
+    "amount_inr": "21630.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "64064.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Nursing",
+    "amount_inr": "23657.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Consumables",
+    "amount_inr": "10125.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "bill_component": "Other",
+    "amount_inr": "24553.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Room",
+    "amount_inr": "109028.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40732.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Medicines",
+    "amount_inr": "29549.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Diagnostics",
+    "amount_inr": "45088.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "20619.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Nursing",
+    "amount_inr": "42684.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Consumables",
+    "amount_inr": "31521.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "bill_component": "Other",
+    "amount_inr": "204523.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Room",
+    "amount_inr": "4663.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "17106.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Medicines",
+    "amount_inr": "21494.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Diagnostics",
+    "amount_inr": "15105.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "48887.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Nursing",
+    "amount_inr": "19331.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Consumables",
+    "amount_inr": "8836.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "bill_component": "Other",
+    "amount_inr": "38494.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Room",
+    "amount_inr": "47972.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "34194.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Medicines",
+    "amount_inr": "153651.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Diagnostics",
+    "amount_inr": "85000.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "78186.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Nursing",
+    "amount_inr": "86380.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Consumables",
+    "amount_inr": "83188.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "bill_component": "Other",
+    "amount_inr": "49989.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Room",
+    "amount_inr": "46861.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "94003.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Medicines",
+    "amount_inr": "69700.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Diagnostics",
+    "amount_inr": "10996.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "33323.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Nursing",
+    "amount_inr": "62700.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Consumables",
+    "amount_inr": "163487.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "bill_component": "Other",
+    "amount_inr": "94317.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Room",
+    "amount_inr": "21613.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "16663.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Medicines",
+    "amount_inr": "102522.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Diagnostics",
+    "amount_inr": "39999.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "819.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Nursing",
+    "amount_inr": "42075.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Consumables",
+    "amount_inr": "76041.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "bill_component": "Other",
+    "amount_inr": "16158.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Room",
+    "amount_inr": "13305.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "14284.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Medicines",
+    "amount_inr": "4706.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Diagnostics",
+    "amount_inr": "29925.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "14473.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Nursing",
+    "amount_inr": "9341.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Consumables",
+    "amount_inr": "11044.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "bill_component": "Other",
+    "amount_inr": "3859.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Room",
+    "amount_inr": "25348.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "59173.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Medicines",
+    "amount_inr": "62327.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Diagnostics",
+    "amount_inr": "71803.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "217683.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Nursing",
+    "amount_inr": "137782.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Consumables",
+    "amount_inr": "13745.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "bill_component": "Other",
+    "amount_inr": "190159.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Room",
+    "amount_inr": "33249.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "83341.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Medicines",
+    "amount_inr": "35534.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Diagnostics",
+    "amount_inr": "53462.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "16155.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Nursing",
+    "amount_inr": "62706.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Consumables",
+    "amount_inr": "90127.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "bill_component": "Other",
+    "amount_inr": "9687.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Room",
+    "amount_inr": "89087.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "26501.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Medicines",
+    "amount_inr": "146869.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Diagnostics",
+    "amount_inr": "82562.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "72678.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Nursing",
+    "amount_inr": "42098.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Consumables",
+    "amount_inr": "227355.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "bill_component": "Other",
+    "amount_inr": "32686.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Room",
+    "amount_inr": "30706.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "43396.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Medicines",
+    "amount_inr": "157787.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Diagnostics",
+    "amount_inr": "81790.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "72807.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Nursing",
+    "amount_inr": "52550.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Consumables",
+    "amount_inr": "69866.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "bill_component": "Other",
+    "amount_inr": "49533.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Room",
+    "amount_inr": "149492.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "75072.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Medicines",
+    "amount_inr": "53501.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Diagnostics",
+    "amount_inr": "180416.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "38385.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Nursing",
+    "amount_inr": "100274.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Consumables",
+    "amount_inr": "11913.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "bill_component": "Other",
+    "amount_inr": "24729.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Room",
+    "amount_inr": "56748.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "48920.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Medicines",
+    "amount_inr": "48856.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Diagnostics",
+    "amount_inr": "132350.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "137826.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Nursing",
+    "amount_inr": "95405.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Consumables",
+    "amount_inr": "30153.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "bill_component": "Other",
+    "amount_inr": "69661.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Room",
+    "amount_inr": "42532.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "56336.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Medicines",
+    "amount_inr": "24957.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Diagnostics",
+    "amount_inr": "5199.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "11653.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Nursing",
+    "amount_inr": "15083.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Consumables",
+    "amount_inr": "13435.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "bill_component": "Other",
+    "amount_inr": "26780.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Room",
+    "amount_inr": "44204.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "10236.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Medicines",
+    "amount_inr": "15572.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Diagnostics",
+    "amount_inr": "51615.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "67548.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Nursing",
+    "amount_inr": "31577.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Consumables",
+    "amount_inr": "73219.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "bill_component": "Other",
+    "amount_inr": "28955.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Room",
+    "amount_inr": "14067.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "48473.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Medicines",
+    "amount_inr": "176541.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Diagnostics",
+    "amount_inr": "9481.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "83542.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Nursing",
+    "amount_inr": "46543.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Consumables",
+    "amount_inr": "17289.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "bill_component": "Other",
+    "amount_inr": "4100.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Room",
+    "amount_inr": "3424.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "29341.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Medicines",
+    "amount_inr": "61515.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Diagnostics",
+    "amount_inr": "85617.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "99629.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Nursing",
+    "amount_inr": "57584.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Consumables",
+    "amount_inr": "51147.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "bill_component": "Other",
+    "amount_inr": "35082.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Room",
+    "amount_inr": "16102.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "6722.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Medicines",
+    "amount_inr": "3837.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Diagnostics",
+    "amount_inr": "12543.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "20858.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Nursing",
+    "amount_inr": "3050.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Consumables",
+    "amount_inr": "7546.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "bill_component": "Other",
+    "amount_inr": "12190.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Room",
+    "amount_inr": "30098.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "43956.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Medicines",
+    "amount_inr": "97534.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Diagnostics",
+    "amount_inr": "2241.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "100441.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Nursing",
+    "amount_inr": "94669.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Consumables",
+    "amount_inr": "55894.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "bill_component": "Other",
+    "amount_inr": "35089.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Room",
+    "amount_inr": "8395.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "27103.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Medicines",
+    "amount_inr": "17829.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Diagnostics",
+    "amount_inr": "11269.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "26614.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Nursing",
+    "amount_inr": "29882.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Consumables",
+    "amount_inr": "37029.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "bill_component": "Other",
+    "amount_inr": "7593.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Room",
+    "amount_inr": "135798.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "45916.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Medicines",
+    "amount_inr": "69003.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Diagnostics",
+    "amount_inr": "79341.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "128336.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Nursing",
+    "amount_inr": "99222.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Consumables",
+    "amount_inr": "44593.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "bill_component": "Other",
+    "amount_inr": "5317.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Room",
+    "amount_inr": "62128.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "48575.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Medicines",
+    "amount_inr": "12839.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Diagnostics",
+    "amount_inr": "53016.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "43183.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Nursing",
+    "amount_inr": "107227.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Consumables",
+    "amount_inr": "149697.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "bill_component": "Other",
+    "amount_inr": "85615.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Room",
+    "amount_inr": "92789.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "104076.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Medicines",
+    "amount_inr": "48204.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Diagnostics",
+    "amount_inr": "56826.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "88581.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Nursing",
+    "amount_inr": "81349.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Consumables",
+    "amount_inr": "27176.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "bill_component": "Other",
+    "amount_inr": "242891.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Room",
+    "amount_inr": "87769.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "78369.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Medicines",
+    "amount_inr": "89781.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Diagnostics",
+    "amount_inr": "132554.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "16174.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Nursing",
+    "amount_inr": "128831.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Consumables",
+    "amount_inr": "23910.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "bill_component": "Other",
+    "amount_inr": "51179.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Room",
+    "amount_inr": "7655.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "24158.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Medicines",
+    "amount_inr": "73120.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Diagnostics",
+    "amount_inr": "59767.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "26555.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Nursing",
+    "amount_inr": "38732.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Consumables",
+    "amount_inr": "22010.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "bill_component": "Other",
+    "amount_inr": "72980.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Room",
+    "amount_inr": "208451.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40426.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Medicines",
+    "amount_inr": "78820.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Diagnostics",
+    "amount_inr": "21356.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "95703.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Nursing",
+    "amount_inr": "117930.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Consumables",
+    "amount_inr": "101651.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "bill_component": "Other",
+    "amount_inr": "111290.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Room",
+    "amount_inr": "38435.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "39169.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Medicines",
+    "amount_inr": "37733.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Diagnostics",
+    "amount_inr": "27560.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "30567.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Nursing",
+    "amount_inr": "60586.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Consumables",
+    "amount_inr": "105982.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "bill_component": "Other",
+    "amount_inr": "18102.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Room",
+    "amount_inr": "37364.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "13956.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Medicines",
+    "amount_inr": "26786.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Diagnostics",
+    "amount_inr": "30717.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "46084.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Nursing",
+    "amount_inr": "45116.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Consumables",
+    "amount_inr": "39773.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "bill_component": "Other",
+    "amount_inr": "54570.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Room",
+    "amount_inr": "49227.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "120532.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Medicines",
+    "amount_inr": "177613.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Diagnostics",
+    "amount_inr": "48651.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "17569.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Nursing",
+    "amount_inr": "211374.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Consumables",
+    "amount_inr": "37461.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "bill_component": "Other",
+    "amount_inr": "66718.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Room",
+    "amount_inr": "72599.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "19337.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Medicines",
+    "amount_inr": "84014.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Diagnostics",
+    "amount_inr": "24425.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "21805.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Nursing",
+    "amount_inr": "15207.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Consumables",
+    "amount_inr": "24622.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "bill_component": "Other",
+    "amount_inr": "65832.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Room",
+    "amount_inr": "6291.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "19986.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Medicines",
+    "amount_inr": "10055.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Diagnostics",
+    "amount_inr": "10742.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "4792.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Nursing",
+    "amount_inr": "22034.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Consumables",
+    "amount_inr": "16842.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "bill_component": "Other",
+    "amount_inr": "16511.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Room",
+    "amount_inr": "41600.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "14607.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Medicines",
+    "amount_inr": "54031.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Diagnostics",
+    "amount_inr": "69751.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "70249.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Nursing",
+    "amount_inr": "63631.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Consumables",
+    "amount_inr": "61727.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "bill_component": "Other",
+    "amount_inr": "26567.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Room",
+    "amount_inr": "24535.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "14840.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Medicines",
+    "amount_inr": "86141.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Diagnostics",
+    "amount_inr": "142816.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "235411.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Nursing",
+    "amount_inr": "50310.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Consumables",
+    "amount_inr": "54715.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "bill_component": "Other",
+    "amount_inr": "37986.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Room",
+    "amount_inr": "30562.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "11445.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Medicines",
+    "amount_inr": "22974.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Diagnostics",
+    "amount_inr": "13049.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "20669.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Nursing",
+    "amount_inr": "14064.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Consumables",
+    "amount_inr": "37945.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "bill_component": "Other",
+    "amount_inr": "41391.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Room",
+    "amount_inr": "68119.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "31358.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Medicines",
+    "amount_inr": "17619.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Diagnostics",
+    "amount_inr": "86440.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "54533.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Nursing",
+    "amount_inr": "8575.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Consumables",
+    "amount_inr": "60501.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "bill_component": "Other",
+    "amount_inr": "70057.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Room",
+    "amount_inr": "5958.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "38879.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Medicines",
+    "amount_inr": "6992.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Diagnostics",
+    "amount_inr": "13900.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "7042.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Nursing",
+    "amount_inr": "12635.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Consumables",
+    "amount_inr": "8681.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "bill_component": "Other",
+    "amount_inr": "53350.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Room",
+    "amount_inr": "50489.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "42234.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Medicines",
+    "amount_inr": "130862.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Diagnostics",
+    "amount_inr": "126317.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "45061.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Nursing",
+    "amount_inr": "75534.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Consumables",
+    "amount_inr": "37641.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "bill_component": "Other",
+    "amount_inr": "56716.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Room",
+    "amount_inr": "18318.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "64808.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Medicines",
+    "amount_inr": "104058.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Diagnostics",
+    "amount_inr": "91884.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "49193.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Nursing",
+    "amount_inr": "6624.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Consumables",
+    "amount_inr": "28014.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "bill_component": "Other",
+    "amount_inr": "43875.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Room",
+    "amount_inr": "9658.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "8020.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Medicines",
+    "amount_inr": "88236.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Diagnostics",
+    "amount_inr": "60352.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "48810.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Nursing",
+    "amount_inr": "55579.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Consumables",
+    "amount_inr": "11402.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "bill_component": "Other",
+    "amount_inr": "15586.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Room",
+    "amount_inr": "24245.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "25657.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Medicines",
+    "amount_inr": "5523.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Diagnostics",
+    "amount_inr": "22992.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "19292.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Nursing",
+    "amount_inr": "38966.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Consumables",
+    "amount_inr": "25750.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "bill_component": "Other",
+    "amount_inr": "57752.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Room",
+    "amount_inr": "43525.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "21177.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Medicines",
+    "amount_inr": "162508.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Diagnostics",
+    "amount_inr": "76574.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "55506.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Nursing",
+    "amount_inr": "28066.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Consumables",
+    "amount_inr": "43940.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "bill_component": "Other",
+    "amount_inr": "42073.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Room",
+    "amount_inr": "20056.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "5337.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Medicines",
+    "amount_inr": "40807.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Diagnostics",
+    "amount_inr": "97391.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "135170.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Nursing",
+    "amount_inr": "113328.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Consumables",
+    "amount_inr": "117854.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "bill_component": "Other",
+    "amount_inr": "22414.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Room",
+    "amount_inr": "81313.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "98679.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Medicines",
+    "amount_inr": "103188.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Diagnostics",
+    "amount_inr": "63008.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "74141.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Nursing",
+    "amount_inr": "129678.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Consumables",
+    "amount_inr": "96160.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "bill_component": "Other",
+    "amount_inr": "109058.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Room",
+    "amount_inr": "26158.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "59932.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Medicines",
+    "amount_inr": "41869.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Diagnostics",
+    "amount_inr": "68919.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "21317.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Nursing",
+    "amount_inr": "65096.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Consumables",
+    "amount_inr": "29265.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "bill_component": "Other",
+    "amount_inr": "65303.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Room",
+    "amount_inr": "29226.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "24831.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Medicines",
+    "amount_inr": "19169.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Diagnostics",
+    "amount_inr": "23008.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "17081.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Nursing",
+    "amount_inr": "18850.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Consumables",
+    "amount_inr": "33745.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "bill_component": "Other",
+    "amount_inr": "4603.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Room",
+    "amount_inr": "149218.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "150963.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Medicines",
+    "amount_inr": "72211.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Diagnostics",
+    "amount_inr": "99456.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "38651.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Nursing",
+    "amount_inr": "118429.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Consumables",
+    "amount_inr": "43185.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "bill_component": "Other",
+    "amount_inr": "2391.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Room",
+    "amount_inr": "129635.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "22271.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Medicines",
+    "amount_inr": "53312.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Diagnostics",
+    "amount_inr": "65515.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "79380.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Nursing",
+    "amount_inr": "56996.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Consumables",
+    "amount_inr": "69817.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "bill_component": "Other",
+    "amount_inr": "45393.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Room",
+    "amount_inr": "14172.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "59492.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Medicines",
+    "amount_inr": "93806.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Diagnostics",
+    "amount_inr": "25344.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "70974.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Nursing",
+    "amount_inr": "196078.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Consumables",
+    "amount_inr": "56532.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "bill_component": "Other",
+    "amount_inr": "58796.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Room",
+    "amount_inr": "5125.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "8959.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Medicines",
+    "amount_inr": "11903.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Diagnostics",
+    "amount_inr": "36158.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "10691.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Nursing",
+    "amount_inr": "31844.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Consumables",
+    "amount_inr": "12887.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "bill_component": "Other",
+    "amount_inr": "5350.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Room",
+    "amount_inr": "70391.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "31529.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Medicines",
+    "amount_inr": "60890.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Diagnostics",
+    "amount_inr": "9219.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "3454.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Nursing",
+    "amount_inr": "46895.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Consumables",
+    "amount_inr": "15497.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "bill_component": "Other",
+    "amount_inr": "46395.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Room",
+    "amount_inr": "66651.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "60441.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Medicines",
+    "amount_inr": "124444.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Diagnostics",
+    "amount_inr": "79587.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "196580.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Nursing",
+    "amount_inr": "45562.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Consumables",
+    "amount_inr": "18041.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "bill_component": "Other",
+    "amount_inr": "34572.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Room",
+    "amount_inr": "43394.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "188448.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Medicines",
+    "amount_inr": "57284.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Diagnostics",
+    "amount_inr": "115872.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "38604.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Nursing",
+    "amount_inr": "34811.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Consumables",
+    "amount_inr": "11298.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "bill_component": "Other",
+    "amount_inr": "184479.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Room",
+    "amount_inr": "78913.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "36066.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Medicines",
+    "amount_inr": "25175.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Diagnostics",
+    "amount_inr": "32639.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "8699.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Nursing",
+    "amount_inr": "43210.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Consumables",
+    "amount_inr": "74586.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "bill_component": "Other",
+    "amount_inr": "77120.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Room",
+    "amount_inr": "15193.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "147766.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Medicines",
+    "amount_inr": "20304.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Diagnostics",
+    "amount_inr": "6297.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "151585.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Nursing",
+    "amount_inr": "46275.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Consumables",
+    "amount_inr": "137251.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "bill_component": "Other",
+    "amount_inr": "128898.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Room",
+    "amount_inr": "113369.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "72186.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Medicines",
+    "amount_inr": "21852.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Diagnostics",
+    "amount_inr": "53726.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "174087.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Nursing",
+    "amount_inr": "134544.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Consumables",
+    "amount_inr": "56028.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "bill_component": "Other",
+    "amount_inr": "55472.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Room",
+    "amount_inr": "54900.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "39333.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Medicines",
+    "amount_inr": "30135.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Diagnostics",
+    "amount_inr": "51679.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50455.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Nursing",
+    "amount_inr": "20510.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Consumables",
+    "amount_inr": "45323.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "bill_component": "Other",
+    "amount_inr": "48269.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Room",
+    "amount_inr": "77173.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40947.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Medicines",
+    "amount_inr": "59390.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Diagnostics",
+    "amount_inr": "33860.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "101539.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Nursing",
+    "amount_inr": "16697.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Consumables",
+    "amount_inr": "211108.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "bill_component": "Other",
+    "amount_inr": "182848.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Room",
+    "amount_inr": "33129.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "44982.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Medicines",
+    "amount_inr": "42926.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Diagnostics",
+    "amount_inr": "26844.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "20784.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Nursing",
+    "amount_inr": "18956.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Consumables",
+    "amount_inr": "66442.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "bill_component": "Other",
+    "amount_inr": "12179.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Room",
+    "amount_inr": "10729.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "41324.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Medicines",
+    "amount_inr": "38680.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Diagnostics",
+    "amount_inr": "17170.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "30911.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Nursing",
+    "amount_inr": "33842.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Consumables",
+    "amount_inr": "6268.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "bill_component": "Other",
+    "amount_inr": "50740.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Room",
+    "amount_inr": "77568.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "66632.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Medicines",
+    "amount_inr": "77993.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Diagnostics",
+    "amount_inr": "60967.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "44984.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Nursing",
+    "amount_inr": "53631.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Consumables",
+    "amount_inr": "13071.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "bill_component": "Other",
+    "amount_inr": "167022.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Room",
+    "amount_inr": "33089.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "123080.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Medicines",
+    "amount_inr": "40478.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Diagnostics",
+    "amount_inr": "21989.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "85025.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Nursing",
+    "amount_inr": "48222.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Consumables",
+    "amount_inr": "154170.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "bill_component": "Other",
+    "amount_inr": "21514.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Room",
+    "amount_inr": "30485.03",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "31575.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Medicines",
+    "amount_inr": "21348.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Diagnostics",
+    "amount_inr": "31751.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "11745.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Nursing",
+    "amount_inr": "6253.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Consumables",
+    "amount_inr": "8259.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "bill_component": "Other",
+    "amount_inr": "13395.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Room",
+    "amount_inr": "108408.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "32585.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Medicines",
+    "amount_inr": "47948.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Diagnostics",
+    "amount_inr": "34912.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "122013.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Nursing",
+    "amount_inr": "209240.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Consumables",
+    "amount_inr": "26138.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "bill_component": "Other",
+    "amount_inr": "93305.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Room",
+    "amount_inr": "45202.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "18297.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Medicines",
+    "amount_inr": "5994.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Diagnostics",
+    "amount_inr": "49219.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "5617.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Nursing",
+    "amount_inr": "59127.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Consumables",
+    "amount_inr": "11684.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "bill_component": "Other",
+    "amount_inr": "4787.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Room",
+    "amount_inr": "40783.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "58502.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Medicines",
+    "amount_inr": "68158.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Diagnostics",
+    "amount_inr": "93713.33",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "72777.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Nursing",
+    "amount_inr": "187695.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Consumables",
+    "amount_inr": "56410.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "bill_component": "Other",
+    "amount_inr": "75633.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Room",
+    "amount_inr": "7363.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "1205.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Medicines",
+    "amount_inr": "2136.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Diagnostics",
+    "amount_inr": "6464.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "8539.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Nursing",
+    "amount_inr": "732.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Consumables",
+    "amount_inr": "20038.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "bill_component": "Other",
+    "amount_inr": "9039.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Room",
+    "amount_inr": "72312.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "102114.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Medicines",
+    "amount_inr": "47033.91",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Diagnostics",
+    "amount_inr": "83135.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "93130.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Nursing",
+    "amount_inr": "166856.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Consumables",
+    "amount_inr": "63615.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "bill_component": "Other",
+    "amount_inr": "19432.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Room",
+    "amount_inr": "55371.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "96261.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Medicines",
+    "amount_inr": "35006.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Diagnostics",
+    "amount_inr": "50067.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "55834.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Nursing",
+    "amount_inr": "91175.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Consumables",
+    "amount_inr": "168721.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "bill_component": "Other",
+    "amount_inr": "87754.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Room",
+    "amount_inr": "86800.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "57278.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Medicines",
+    "amount_inr": "25334.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Diagnostics",
+    "amount_inr": "74617.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "66430.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Nursing",
+    "amount_inr": "88428.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Consumables",
+    "amount_inr": "101495.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "bill_component": "Other",
+    "amount_inr": "134886.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Room",
+    "amount_inr": "88233.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "67473.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Medicines",
+    "amount_inr": "92348.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Diagnostics",
+    "amount_inr": "41302.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "38824.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Nursing",
+    "amount_inr": "153399.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Consumables",
+    "amount_inr": "37884.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "bill_component": "Other",
+    "amount_inr": "29172.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Room",
+    "amount_inr": "60966.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "28748.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Medicines",
+    "amount_inr": "72516.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Diagnostics",
+    "amount_inr": "92284.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "22707.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Nursing",
+    "amount_inr": "66225.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Consumables",
+    "amount_inr": "25667.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "bill_component": "Other",
+    "amount_inr": "34558.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Room",
+    "amount_inr": "76792.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "39762.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Medicines",
+    "amount_inr": "71832.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Diagnostics",
+    "amount_inr": "54462.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "108923.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Nursing",
+    "amount_inr": "109117.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Consumables",
+    "amount_inr": "39925.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "bill_component": "Other",
+    "amount_inr": "78057.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Room",
+    "amount_inr": "55359.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "11819.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Medicines",
+    "amount_inr": "24877.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Diagnostics",
+    "amount_inr": "34707.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "11361.36",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Nursing",
+    "amount_inr": "20145.11",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Consumables",
+    "amount_inr": "81837.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "bill_component": "Other",
+    "amount_inr": "17732.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Room",
+    "amount_inr": "71133.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "150720.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Medicines",
+    "amount_inr": "37167.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Diagnostics",
+    "amount_inr": "92850.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50672.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Nursing",
+    "amount_inr": "120846.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Consumables",
+    "amount_inr": "3228.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "bill_component": "Other",
+    "amount_inr": "108926.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Room",
+    "amount_inr": "61222.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "35563.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Medicines",
+    "amount_inr": "37368.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Diagnostics",
+    "amount_inr": "32123.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "43303.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Nursing",
+    "amount_inr": "125570.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Consumables",
+    "amount_inr": "88310.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "bill_component": "Other",
+    "amount_inr": "43271.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Room",
+    "amount_inr": "30419.06",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "72195.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Medicines",
+    "amount_inr": "47388.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Diagnostics",
+    "amount_inr": "16762.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "34481.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Nursing",
+    "amount_inr": "101981.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Consumables",
+    "amount_inr": "60270.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "bill_component": "Other",
+    "amount_inr": "30687.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Room",
+    "amount_inr": "13876.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "65113.25",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Medicines",
+    "amount_inr": "55759.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Diagnostics",
+    "amount_inr": "48495.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "95658.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Nursing",
+    "amount_inr": "79940.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Consumables",
+    "amount_inr": "14366.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "bill_component": "Other",
+    "amount_inr": "55993.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Room",
+    "amount_inr": "27510.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "56624.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Medicines",
+    "amount_inr": "25573.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Diagnostics",
+    "amount_inr": "26475.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "107508.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Nursing",
+    "amount_inr": "99998.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Consumables",
+    "amount_inr": "80165.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "bill_component": "Other",
+    "amount_inr": "52699.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Room",
+    "amount_inr": "2314.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "5535.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Medicines",
+    "amount_inr": "9769.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Diagnostics",
+    "amount_inr": "9608.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "19510.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Nursing",
+    "amount_inr": "17676.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Consumables",
+    "amount_inr": "8041.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "bill_component": "Other",
+    "amount_inr": "5488.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Room",
+    "amount_inr": "8639.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "4123.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Medicines",
+    "amount_inr": "6193.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Diagnostics",
+    "amount_inr": "20447.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "25859.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Nursing",
+    "amount_inr": "13388.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Consumables",
+    "amount_inr": "69944.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "bill_component": "Other",
+    "amount_inr": "6249.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Room",
+    "amount_inr": "5444.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "101226.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Medicines",
+    "amount_inr": "6747.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Diagnostics",
+    "amount_inr": "19388.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "13566.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Nursing",
+    "amount_inr": "31545.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Consumables",
+    "amount_inr": "18256.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "bill_component": "Other",
+    "amount_inr": "37935.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Room",
+    "amount_inr": "21624.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "2950.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Medicines",
+    "amount_inr": "6069.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Diagnostics",
+    "amount_inr": "19860.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "24625.82",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Nursing",
+    "amount_inr": "13622.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Consumables",
+    "amount_inr": "16407.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "bill_component": "Other",
+    "amount_inr": "30736.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Room",
+    "amount_inr": "29417.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "43663.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Medicines",
+    "amount_inr": "86372.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Diagnostics",
+    "amount_inr": "90015.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "36012.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Nursing",
+    "amount_inr": "20154.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Consumables",
+    "amount_inr": "35709.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10121",
+    "bill_component": "Other",
+    "amount_inr": "38365.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Room",
+    "amount_inr": "40895.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "46275.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Medicines",
+    "amount_inr": "188674.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Diagnostics",
+    "amount_inr": "114677.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "65023.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Nursing",
+    "amount_inr": "32319.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Consumables",
+    "amount_inr": "46743.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10122",
+    "bill_component": "Other",
+    "amount_inr": "16692.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Room",
+    "amount_inr": "84958.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "40344.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Medicines",
+    "amount_inr": "89898.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Diagnostics",
+    "amount_inr": "120675.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "90848.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Nursing",
+    "amount_inr": "53259.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Consumables",
+    "amount_inr": "35368.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10123",
+    "bill_component": "Other",
+    "amount_inr": "25467.08",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Room",
+    "amount_inr": "83585.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "46064.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Medicines",
+    "amount_inr": "29140.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Diagnostics",
+    "amount_inr": "57484.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "74766.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Nursing",
+    "amount_inr": "21485.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Consumables",
+    "amount_inr": "45066.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10124",
+    "bill_component": "Other",
+    "amount_inr": "45728.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Room",
+    "amount_inr": "156289.44",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "47089.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Medicines",
+    "amount_inr": "29300.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Diagnostics",
+    "amount_inr": "79589.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "99379.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Nursing",
+    "amount_inr": "69316.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Consumables",
+    "amount_inr": "163372.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10125",
+    "bill_component": "Other",
+    "amount_inr": "46972.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Room",
+    "amount_inr": "95864.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "22684.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Medicines",
+    "amount_inr": "37887.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Diagnostics",
+    "amount_inr": "47936.77",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "72348.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Nursing",
+    "amount_inr": "26453.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Consumables",
+    "amount_inr": "126320.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10126",
+    "bill_component": "Other",
+    "amount_inr": "44429.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Room",
+    "amount_inr": "40200.88",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "5773.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Medicines",
+    "amount_inr": "11195.89",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Diagnostics",
+    "amount_inr": "10181.75",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "4427.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Nursing",
+    "amount_inr": "9153.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Consumables",
+    "amount_inr": "9066.96",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10127",
+    "bill_component": "Other",
+    "amount_inr": "19397.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Room",
+    "amount_inr": "86958.6",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "97955.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Medicines",
+    "amount_inr": "118685.5",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Diagnostics",
+    "amount_inr": "99060.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "77880.18",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Nursing",
+    "amount_inr": "37267.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Consumables",
+    "amount_inr": "74332.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10128",
+    "bill_component": "Other",
+    "amount_inr": "31609.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Room",
+    "amount_inr": "64574.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "58347.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Medicines",
+    "amount_inr": "61235.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Diagnostics",
+    "amount_inr": "22449.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "2398.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Nursing",
+    "amount_inr": "50312.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Consumables",
+    "amount_inr": "147841.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10129",
+    "bill_component": "Other",
+    "amount_inr": "73791.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Room",
+    "amount_inr": "88079.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "21350.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Medicines",
+    "amount_inr": "30270.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Diagnostics",
+    "amount_inr": "174192.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "22479.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Nursing",
+    "amount_inr": "64897.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Consumables",
+    "amount_inr": "64826.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10130",
+    "bill_component": "Other",
+    "amount_inr": "59939.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Room",
+    "amount_inr": "88962.85",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "30171.15",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Medicines",
+    "amount_inr": "44440.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Diagnostics",
+    "amount_inr": "3131.07",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "155138.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Nursing",
+    "amount_inr": "88592.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Consumables",
+    "amount_inr": "34304.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10131",
+    "bill_component": "Other",
+    "amount_inr": "29287.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Room",
+    "amount_inr": "97716.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "24823.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Medicines",
+    "amount_inr": "26280.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Diagnostics",
+    "amount_inr": "18538.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "77082.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Nursing",
+    "amount_inr": "91022.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Consumables",
+    "amount_inr": "38300.79",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10132",
+    "bill_component": "Other",
+    "amount_inr": "91420.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Room",
+    "amount_inr": "21229.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "6324.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Medicines",
+    "amount_inr": "40934.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Diagnostics",
+    "amount_inr": "6622.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "14594.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Nursing",
+    "amount_inr": "13844.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Consumables",
+    "amount_inr": "12009.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10133",
+    "bill_component": "Other",
+    "amount_inr": "2365.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Room",
+    "amount_inr": "142276.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "6899.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Medicines",
+    "amount_inr": "106503.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Diagnostics",
+    "amount_inr": "19674.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "25619.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Nursing",
+    "amount_inr": "99678.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Consumables",
+    "amount_inr": "57141.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10134",
+    "bill_component": "Other",
+    "amount_inr": "11611.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Room",
+    "amount_inr": "24316.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "109764.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Medicines",
+    "amount_inr": "34815.69",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Diagnostics",
+    "amount_inr": "126254.21",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "135416.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Nursing",
+    "amount_inr": "46038.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Consumables",
+    "amount_inr": "57234.73",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10135",
+    "bill_component": "Other",
+    "amount_inr": "112344.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Room",
+    "amount_inr": "10280.83",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "21567.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Medicines",
+    "amount_inr": "84431.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Diagnostics",
+    "amount_inr": "26958.59",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "15048.65",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Nursing",
+    "amount_inr": "75263.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Consumables",
+    "amount_inr": "36155.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10136",
+    "bill_component": "Other",
+    "amount_inr": "8256.26",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Room",
+    "amount_inr": "26170.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "10484.99",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Medicines",
+    "amount_inr": "69277.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Diagnostics",
+    "amount_inr": "6290.3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "202536.16",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Nursing",
+    "amount_inr": "44475.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Consumables",
+    "amount_inr": "101523.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10137",
+    "bill_component": "Other",
+    "amount_inr": "41369.1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Room",
+    "amount_inr": "5040.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "3626.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Medicines",
+    "amount_inr": "4189.34",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Diagnostics",
+    "amount_inr": "9103.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "12124.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Nursing",
+    "amount_inr": "11510.31",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Consumables",
+    "amount_inr": "25280.35",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10138",
+    "bill_component": "Other",
+    "amount_inr": "2237.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Room",
+    "amount_inr": "41854.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "17689.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Medicines",
+    "amount_inr": "68628.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Diagnostics",
+    "amount_inr": "13272.62",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "71398.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Nursing",
+    "amount_inr": "36434.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Consumables",
+    "amount_inr": "29360.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10139",
+    "bill_component": "Other",
+    "amount_inr": "31985.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Room",
+    "amount_inr": "21072.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "22784.32",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Medicines",
+    "amount_inr": "69448.0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Diagnostics",
+    "amount_inr": "69103.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "34575.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Nursing",
+    "amount_inr": "47388.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Consumables",
+    "amount_inr": "83548.04",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10140",
+    "bill_component": "Other",
+    "amount_inr": "29617.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Room",
+    "amount_inr": "15825.14",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "253603.61",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Medicines",
+    "amount_inr": "117379.57",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Diagnostics",
+    "amount_inr": "64212.48",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "53334.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Nursing",
+    "amount_inr": "47181.66",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Consumables",
+    "amount_inr": "206900.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10141",
+    "bill_component": "Other",
+    "amount_inr": "28615.41",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Room",
+    "amount_inr": "26435.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "26419.05",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Medicines",
+    "amount_inr": "33959.27",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Diagnostics",
+    "amount_inr": "14516.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "50106.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Nursing",
+    "amount_inr": "34659.63",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Consumables",
+    "amount_inr": "14120.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10142",
+    "bill_component": "Other",
+    "amount_inr": "10720.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Room",
+    "amount_inr": "28633.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "22063.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Medicines",
+    "amount_inr": "14855.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Diagnostics",
+    "amount_inr": "33605.84",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "25730.47",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Nursing",
+    "amount_inr": "93405.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Consumables",
+    "amount_inr": "22034.24",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10143",
+    "bill_component": "Other",
+    "amount_inr": "17082.52",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Room",
+    "amount_inr": "40923.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "49324.78",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Medicines",
+    "amount_inr": "52120.09",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Diagnostics",
+    "amount_inr": "51751.38",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "41982.56",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Nursing",
+    "amount_inr": "39705.46",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Consumables",
+    "amount_inr": "63093.2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10144",
+    "bill_component": "Other",
+    "amount_inr": "17494.71",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Room",
+    "amount_inr": "35274.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "15060.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Medicines",
+    "amount_inr": "28478.81",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Diagnostics",
+    "amount_inr": "133341.55",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "98207.53",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Nursing",
+    "amount_inr": "208673.74",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Consumables",
+    "amount_inr": "176661.13",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10145",
+    "bill_component": "Other",
+    "amount_inr": "98800.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Room",
+    "amount_inr": "119613.98",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "109016.42",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Medicines",
+    "amount_inr": "11326.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Diagnostics",
+    "amount_inr": "100042.58",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "66703.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Nursing",
+    "amount_inr": "48521.39",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Consumables",
+    "amount_inr": "143875.95",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10146",
+    "bill_component": "Other",
+    "amount_inr": "90951.51",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Room",
+    "amount_inr": "10885.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "4033.93",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Medicines",
+    "amount_inr": "18370.17",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Diagnostics",
+    "amount_inr": "7033.37",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "13205.49",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Nursing",
+    "amount_inr": "7525.97",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Consumables",
+    "amount_inr": "839.76",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10147",
+    "bill_component": "Other",
+    "amount_inr": "14124.67",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Room",
+    "amount_inr": "22443.64",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "5363.54",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Medicines",
+    "amount_inr": "8823.28",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Diagnostics",
+    "amount_inr": "46096.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "5652.8",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Nursing",
+    "amount_inr": "16927.87",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Consumables",
+    "amount_inr": "84766.01",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10148",
+    "bill_component": "Other",
+    "amount_inr": "35380.68",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Room",
+    "amount_inr": "185997.23",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "88660.4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Medicines",
+    "amount_inr": "21658.94",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Diagnostics",
+    "amount_inr": "127840.72",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "41967.86",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Nursing",
+    "amount_inr": "38194.9",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Consumables",
+    "amount_inr": "117145.02",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10149",
+    "bill_component": "Other",
+    "amount_inr": "44789.92",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Room",
+    "amount_inr": "9814.43",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Doctor/Surgeon",
+    "amount_inr": "5681.22",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Medicines",
+    "amount_inr": "9556.19",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Diagnostics",
+    "amount_inr": "6535.45",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Procedure/Surgery",
+    "amount_inr": "9760.7",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Nursing",
+    "amount_inr": "26139.29",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Consumables",
+    "amount_inr": "17294.12",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10150",
+    "bill_component": "Other",
+    "amount_inr": "8945.6",
+    "data_status": "synthetic_for_visualization"
+  }
+]

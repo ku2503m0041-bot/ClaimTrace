@@ -1,0 +1,100 @@
+[
+  {
+    "term": "Sum Insured",
+    "plain_language_definition": "Maximum amount payable under the policy subject to terms and conditions",
+    "category": "Policy design",
+    "unit": "INR",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Premium",
+    "plain_language_definition": "Amount paid to maintain insurance coverage",
+    "category": "Policy design",
+    "unit": "INR/year",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Deductible",
+    "plain_language_definition": "Amount borne by policyholder before insurer pays, as defined by policy",
+    "category": "Cost sharing",
+    "unit": "INR",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Co-payment",
+    "plain_language_definition": "Specified percentage/amount of admissible claim borne by policyholder",
+    "category": "Cost sharing",
+    "unit": "percent/INR",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Sub-limit",
+    "plain_language_definition": "Pre-defined limit for specified treatment/service/condition",
+    "category": "Policy restriction",
+    "unit": "INR",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Room-rent cap",
+    "plain_language_definition": "Policy limit on eligible room-rent category/amount where applicable",
+    "category": "Policy restriction",
+    "unit": "INR/day or category",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Proportionate deduction",
+    "plain_language_definition": "Adjustment that may apply when room category exceeds policy eligibility, subject to policy terms",
+    "category": "Claim calculation",
+    "unit": "INR",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Waiting period",
+    "plain_language_definition": "Specified period before certain coverage becomes payable",
+    "category": "Policy restriction",
+    "unit": "days/months",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Pre-existing disease",
+    "plain_language_definition": "Condition existing before policy commencement, as defined by applicable rules/policy",
+    "category": "Eligibility",
+    "unit": "definition",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Exclusion",
+    "plain_language_definition": "Condition/expense not covered under policy",
+    "category": "Eligibility",
+    "unit": "definition",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Cashless claim",
+    "plain_language_definition": "Insurer/TPA settles admissible amount with network provider, subject to authorization and terms",
+    "category": "Claim mode",
+    "unit": "definition",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Reimbursement claim",
+    "plain_language_definition": "Policyholder pays provider and seeks reimbursement of admissible expenses",
+    "category": "Claim mode",
+    "unit": "definition",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Network hospital",
+    "plain_language_definition": "Hospital/provider in insurer/TPA network for cashless service, subject to arrangements",
+    "category": "Provider network",
+    "unit": "definition",
+    "data_status": "real_concept"
+  },
+  {
+    "term": "Claim Information",
+    "plain_language_definition": "Policyholder-facing information explaining coverage, conditions, exclusions and claim process",
+    "category": "Transparency",
+    "unit": "definition",
+    "data_status": "real_concept"
+  }
+]

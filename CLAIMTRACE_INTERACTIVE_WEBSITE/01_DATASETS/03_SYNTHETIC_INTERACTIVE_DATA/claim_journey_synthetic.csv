@@ -1,0 +1,841 @@
+claim_id,stage_order,stage,stage_duration_days,data_status
+CLM10001,1,Hospital admission,1,synthetic_for_visualization
+CLM10001,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10001,3,Document submission,1,synthetic_for_visualization
+CLM10001,4,Claim assessment,2,synthetic_for_visualization
+CLM10001,5,Query/re-submission,1,synthetic_for_visualization
+CLM10001,6,Final authorization,1,synthetic_for_visualization
+CLM10001,7,Settlement,1,synthetic_for_visualization
+CLM10002,1,Hospital admission,0,synthetic_for_visualization
+CLM10002,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10002,3,Document submission,2,synthetic_for_visualization
+CLM10002,4,Claim assessment,2,synthetic_for_visualization
+CLM10002,5,Query/re-submission,2,synthetic_for_visualization
+CLM10002,6,Final authorization,3,synthetic_for_visualization
+CLM10002,7,Settlement,4,synthetic_for_visualization
+CLM10003,1,Hospital admission,2,synthetic_for_visualization
+CLM10003,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10003,3,Document submission,3,synthetic_for_visualization
+CLM10003,4,Claim assessment,3,synthetic_for_visualization
+CLM10003,5,Query/re-submission,1,synthetic_for_visualization
+CLM10003,6,Final authorization,4,synthetic_for_visualization
+CLM10003,7,Settlement,1,synthetic_for_visualization
+CLM10004,1,Hospital admission,2,synthetic_for_visualization
+CLM10004,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10004,3,Document submission,2,synthetic_for_visualization
+CLM10004,4,Claim assessment,1,synthetic_for_visualization
+CLM10004,5,Query/re-submission,4,synthetic_for_visualization
+CLM10004,6,Final authorization,1,synthetic_for_visualization
+CLM10004,7,Settlement,1,synthetic_for_visualization
+CLM10005,1,Hospital admission,4,synthetic_for_visualization
+CLM10005,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10005,3,Document submission,1,synthetic_for_visualization
+CLM10005,4,Claim assessment,4,synthetic_for_visualization
+CLM10005,5,Query/re-submission,4,synthetic_for_visualization
+CLM10005,6,Final authorization,1,synthetic_for_visualization
+CLM10005,7,Settlement,2,synthetic_for_visualization
+CLM10006,1,Hospital admission,2,synthetic_for_visualization
+CLM10006,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10006,3,Document submission,1,synthetic_for_visualization
+CLM10006,4,Claim assessment,1,synthetic_for_visualization
+CLM10006,5,Query/re-submission,1,synthetic_for_visualization
+CLM10006,6,Final authorization,2,synthetic_for_visualization
+CLM10006,7,Settlement,2,synthetic_for_visualization
+CLM10007,1,Hospital admission,1,synthetic_for_visualization
+CLM10007,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10007,3,Document submission,1,synthetic_for_visualization
+CLM10007,4,Claim assessment,4,synthetic_for_visualization
+CLM10007,5,Query/re-submission,1,synthetic_for_visualization
+CLM10007,6,Final authorization,4,synthetic_for_visualization
+CLM10007,7,Settlement,3,synthetic_for_visualization
+CLM10008,1,Hospital admission,4,synthetic_for_visualization
+CLM10008,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10008,3,Document submission,2,synthetic_for_visualization
+CLM10008,4,Claim assessment,3,synthetic_for_visualization
+CLM10008,5,Query/re-submission,2,synthetic_for_visualization
+CLM10008,6,Final authorization,1,synthetic_for_visualization
+CLM10008,7,Settlement,2,synthetic_for_visualization
+CLM10009,1,Hospital admission,1,synthetic_for_visualization
+CLM10009,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10009,3,Document submission,1,synthetic_for_visualization
+CLM10009,4,Claim assessment,4,synthetic_for_visualization
+CLM10009,5,Query/re-submission,3,synthetic_for_visualization
+CLM10009,6,Final authorization,2,synthetic_for_visualization
+CLM10009,7,Settlement,4,synthetic_for_visualization
+CLM10010,1,Hospital admission,1,synthetic_for_visualization
+CLM10010,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10010,3,Document submission,4,synthetic_for_visualization
+CLM10010,4,Claim assessment,3,synthetic_for_visualization
+CLM10010,5,Query/re-submission,2,synthetic_for_visualization
+CLM10010,6,Final authorization,2,synthetic_for_visualization
+CLM10010,7,Settlement,1,synthetic_for_visualization
+CLM10011,1,Hospital admission,0,synthetic_for_visualization
+CLM10011,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10011,3,Document submission,4,synthetic_for_visualization
+CLM10011,4,Claim assessment,3,synthetic_for_visualization
+CLM10011,5,Query/re-submission,2,synthetic_for_visualization
+CLM10011,6,Final authorization,4,synthetic_for_visualization
+CLM10011,7,Settlement,1,synthetic_for_visualization
+CLM10012,1,Hospital admission,1,synthetic_for_visualization
+CLM10012,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10012,3,Document submission,4,synthetic_for_visualization
+CLM10012,4,Claim assessment,3,synthetic_for_visualization
+CLM10012,5,Query/re-submission,4,synthetic_for_visualization
+CLM10012,6,Final authorization,1,synthetic_for_visualization
+CLM10012,7,Settlement,4,synthetic_for_visualization
+CLM10013,1,Hospital admission,0,synthetic_for_visualization
+CLM10013,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10013,3,Document submission,3,synthetic_for_visualization
+CLM10013,4,Claim assessment,1,synthetic_for_visualization
+CLM10013,5,Query/re-submission,4,synthetic_for_visualization
+CLM10013,6,Final authorization,4,synthetic_for_visualization
+CLM10013,7,Settlement,3,synthetic_for_visualization
+CLM10014,1,Hospital admission,1,synthetic_for_visualization
+CLM10014,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10014,3,Document submission,3,synthetic_for_visualization
+CLM10014,4,Claim assessment,3,synthetic_for_visualization
+CLM10014,5,Query/re-submission,4,synthetic_for_visualization
+CLM10014,6,Final authorization,3,synthetic_for_visualization
+CLM10014,7,Settlement,1,synthetic_for_visualization
+CLM10015,1,Hospital admission,0,synthetic_for_visualization
+CLM10015,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10015,3,Document submission,1,synthetic_for_visualization
+CLM10015,4,Claim assessment,4,synthetic_for_visualization
+CLM10015,5,Query/re-submission,1,synthetic_for_visualization
+CLM10015,6,Final authorization,3,synthetic_for_visualization
+CLM10015,7,Settlement,4,synthetic_for_visualization
+CLM10016,1,Hospital admission,2,synthetic_for_visualization
+CLM10016,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10016,3,Document submission,4,synthetic_for_visualization
+CLM10016,4,Claim assessment,1,synthetic_for_visualization
+CLM10016,5,Query/re-submission,3,synthetic_for_visualization
+CLM10016,6,Final authorization,4,synthetic_for_visualization
+CLM10016,7,Settlement,3,synthetic_for_visualization
+CLM10017,1,Hospital admission,0,synthetic_for_visualization
+CLM10017,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10017,3,Document submission,1,synthetic_for_visualization
+CLM10017,4,Claim assessment,3,synthetic_for_visualization
+CLM10017,5,Query/re-submission,3,synthetic_for_visualization
+CLM10017,6,Final authorization,2,synthetic_for_visualization
+CLM10017,7,Settlement,2,synthetic_for_visualization
+CLM10018,1,Hospital admission,0,synthetic_for_visualization
+CLM10018,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10018,3,Document submission,1,synthetic_for_visualization
+CLM10018,4,Claim assessment,2,synthetic_for_visualization
+CLM10018,5,Query/re-submission,3,synthetic_for_visualization
+CLM10018,6,Final authorization,3,synthetic_for_visualization
+CLM10018,7,Settlement,3,synthetic_for_visualization
+CLM10019,1,Hospital admission,2,synthetic_for_visualization
+CLM10019,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10019,3,Document submission,4,synthetic_for_visualization
+CLM10019,4,Claim assessment,2,synthetic_for_visualization
+CLM10019,5,Query/re-submission,4,synthetic_for_visualization
+CLM10019,6,Final authorization,4,synthetic_for_visualization
+CLM10019,7,Settlement,4,synthetic_for_visualization
+CLM10020,1,Hospital admission,4,synthetic_for_visualization
+CLM10020,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10020,3,Document submission,1,synthetic_for_visualization
+CLM10020,4,Claim assessment,4,synthetic_for_visualization
+CLM10020,5,Query/re-submission,3,synthetic_for_visualization
+CLM10020,6,Final authorization,2,synthetic_for_visualization
+CLM10020,7,Settlement,3,synthetic_for_visualization
+CLM10021,1,Hospital admission,1,synthetic_for_visualization
+CLM10021,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10021,3,Document submission,4,synthetic_for_visualization
+CLM10021,4,Claim assessment,1,synthetic_for_visualization
+CLM10021,5,Query/re-submission,2,synthetic_for_visualization
+CLM10021,6,Final authorization,4,synthetic_for_visualization
+CLM10021,7,Settlement,2,synthetic_for_visualization
+CLM10022,1,Hospital admission,4,synthetic_for_visualization
+CLM10022,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10022,3,Document submission,3,synthetic_for_visualization
+CLM10022,4,Claim assessment,4,synthetic_for_visualization
+CLM10022,5,Query/re-submission,4,synthetic_for_visualization
+CLM10022,6,Final authorization,1,synthetic_for_visualization
+CLM10022,7,Settlement,4,synthetic_for_visualization
+CLM10023,1,Hospital admission,1,synthetic_for_visualization
+CLM10023,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10023,3,Document submission,2,synthetic_for_visualization
+CLM10023,4,Claim assessment,3,synthetic_for_visualization
+CLM10023,5,Query/re-submission,3,synthetic_for_visualization
+CLM10023,6,Final authorization,2,synthetic_for_visualization
+CLM10023,7,Settlement,1,synthetic_for_visualization
+CLM10024,1,Hospital admission,4,synthetic_for_visualization
+CLM10024,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10024,3,Document submission,1,synthetic_for_visualization
+CLM10024,4,Claim assessment,3,synthetic_for_visualization
+CLM10024,5,Query/re-submission,2,synthetic_for_visualization
+CLM10024,6,Final authorization,3,synthetic_for_visualization
+CLM10024,7,Settlement,4,synthetic_for_visualization
+CLM10025,1,Hospital admission,0,synthetic_for_visualization
+CLM10025,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10025,3,Document submission,3,synthetic_for_visualization
+CLM10025,4,Claim assessment,4,synthetic_for_visualization
+CLM10025,5,Query/re-submission,3,synthetic_for_visualization
+CLM10025,6,Final authorization,2,synthetic_for_visualization
+CLM10025,7,Settlement,3,synthetic_for_visualization
+CLM10026,1,Hospital admission,4,synthetic_for_visualization
+CLM10026,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10026,3,Document submission,4,synthetic_for_visualization
+CLM10026,4,Claim assessment,4,synthetic_for_visualization
+CLM10026,5,Query/re-submission,2,synthetic_for_visualization
+CLM10026,6,Final authorization,1,synthetic_for_visualization
+CLM10026,7,Settlement,4,synthetic_for_visualization
+CLM10027,1,Hospital admission,1,synthetic_for_visualization
+CLM10027,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10027,3,Document submission,1,synthetic_for_visualization
+CLM10027,4,Claim assessment,3,synthetic_for_visualization
+CLM10027,5,Query/re-submission,2,synthetic_for_visualization
+CLM10027,6,Final authorization,3,synthetic_for_visualization
+CLM10027,7,Settlement,4,synthetic_for_visualization
+CLM10028,1,Hospital admission,4,synthetic_for_visualization
+CLM10028,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10028,3,Document submission,1,synthetic_for_visualization
+CLM10028,4,Claim assessment,2,synthetic_for_visualization
+CLM10028,5,Query/re-submission,1,synthetic_for_visualization
+CLM10028,6,Final authorization,4,synthetic_for_visualization
+CLM10028,7,Settlement,3,synthetic_for_visualization
+CLM10029,1,Hospital admission,1,synthetic_for_visualization
+CLM10029,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10029,3,Document submission,3,synthetic_for_visualization
+CLM10029,4,Claim assessment,2,synthetic_for_visualization
+CLM10029,5,Query/re-submission,2,synthetic_for_visualization
+CLM10029,6,Final authorization,1,synthetic_for_visualization
+CLM10029,7,Settlement,2,synthetic_for_visualization
+CLM10030,1,Hospital admission,1,synthetic_for_visualization
+CLM10030,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10030,3,Document submission,4,synthetic_for_visualization
+CLM10030,4,Claim assessment,4,synthetic_for_visualization
+CLM10030,5,Query/re-submission,1,synthetic_for_visualization
+CLM10030,6,Final authorization,4,synthetic_for_visualization
+CLM10030,7,Settlement,2,synthetic_for_visualization
+CLM10031,1,Hospital admission,2,synthetic_for_visualization
+CLM10031,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10031,3,Document submission,4,synthetic_for_visualization
+CLM10031,4,Claim assessment,1,synthetic_for_visualization
+CLM10031,5,Query/re-submission,2,synthetic_for_visualization
+CLM10031,6,Final authorization,3,synthetic_for_visualization
+CLM10031,7,Settlement,3,synthetic_for_visualization
+CLM10032,1,Hospital admission,1,synthetic_for_visualization
+CLM10032,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10032,3,Document submission,4,synthetic_for_visualization
+CLM10032,4,Claim assessment,1,synthetic_for_visualization
+CLM10032,5,Query/re-submission,3,synthetic_for_visualization
+CLM10032,6,Final authorization,3,synthetic_for_visualization
+CLM10032,7,Settlement,4,synthetic_for_visualization
+CLM10033,1,Hospital admission,1,synthetic_for_visualization
+CLM10033,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10033,3,Document submission,3,synthetic_for_visualization
+CLM10033,4,Claim assessment,3,synthetic_for_visualization
+CLM10033,5,Query/re-submission,2,synthetic_for_visualization
+CLM10033,6,Final authorization,4,synthetic_for_visualization
+CLM10033,7,Settlement,4,synthetic_for_visualization
+CLM10034,1,Hospital admission,1,synthetic_for_visualization
+CLM10034,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10034,3,Document submission,1,synthetic_for_visualization
+CLM10034,4,Claim assessment,2,synthetic_for_visualization
+CLM10034,5,Query/re-submission,1,synthetic_for_visualization
+CLM10034,6,Final authorization,2,synthetic_for_visualization
+CLM10034,7,Settlement,4,synthetic_for_visualization
+CLM10035,1,Hospital admission,2,synthetic_for_visualization
+CLM10035,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10035,3,Document submission,1,synthetic_for_visualization
+CLM10035,4,Claim assessment,3,synthetic_for_visualization
+CLM10035,5,Query/re-submission,2,synthetic_for_visualization
+CLM10035,6,Final authorization,3,synthetic_for_visualization
+CLM10035,7,Settlement,4,synthetic_for_visualization
+CLM10036,1,Hospital admission,2,synthetic_for_visualization
+CLM10036,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10036,3,Document submission,2,synthetic_for_visualization
+CLM10036,4,Claim assessment,1,synthetic_for_visualization
+CLM10036,5,Query/re-submission,2,synthetic_for_visualization
+CLM10036,6,Final authorization,1,synthetic_for_visualization
+CLM10036,7,Settlement,3,synthetic_for_visualization
+CLM10037,1,Hospital admission,1,synthetic_for_visualization
+CLM10037,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10037,3,Document submission,1,synthetic_for_visualization
+CLM10037,4,Claim assessment,4,synthetic_for_visualization
+CLM10037,5,Query/re-submission,4,synthetic_for_visualization
+CLM10037,6,Final authorization,4,synthetic_for_visualization
+CLM10037,7,Settlement,1,synthetic_for_visualization
+CLM10038,1,Hospital admission,1,synthetic_for_visualization
+CLM10038,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10038,3,Document submission,3,synthetic_for_visualization
+CLM10038,4,Claim assessment,1,synthetic_for_visualization
+CLM10038,5,Query/re-submission,1,synthetic_for_visualization
+CLM10038,6,Final authorization,2,synthetic_for_visualization
+CLM10038,7,Settlement,4,synthetic_for_visualization
+CLM10039,1,Hospital admission,0,synthetic_for_visualization
+CLM10039,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10039,3,Document submission,3,synthetic_for_visualization
+CLM10039,4,Claim assessment,4,synthetic_for_visualization
+CLM10039,5,Query/re-submission,4,synthetic_for_visualization
+CLM10039,6,Final authorization,2,synthetic_for_visualization
+CLM10039,7,Settlement,4,synthetic_for_visualization
+CLM10040,1,Hospital admission,0,synthetic_for_visualization
+CLM10040,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10040,3,Document submission,1,synthetic_for_visualization
+CLM10040,4,Claim assessment,1,synthetic_for_visualization
+CLM10040,5,Query/re-submission,1,synthetic_for_visualization
+CLM10040,6,Final authorization,1,synthetic_for_visualization
+CLM10040,7,Settlement,1,synthetic_for_visualization
+CLM10041,1,Hospital admission,1,synthetic_for_visualization
+CLM10041,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10041,3,Document submission,1,synthetic_for_visualization
+CLM10041,4,Claim assessment,4,synthetic_for_visualization
+CLM10041,5,Query/re-submission,1,synthetic_for_visualization
+CLM10041,6,Final authorization,1,synthetic_for_visualization
+CLM10041,7,Settlement,1,synthetic_for_visualization
+CLM10042,1,Hospital admission,0,synthetic_for_visualization
+CLM10042,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10042,3,Document submission,4,synthetic_for_visualization
+CLM10042,4,Claim assessment,3,synthetic_for_visualization
+CLM10042,5,Query/re-submission,3,synthetic_for_visualization
+CLM10042,6,Final authorization,1,synthetic_for_visualization
+CLM10042,7,Settlement,4,synthetic_for_visualization
+CLM10043,1,Hospital admission,0,synthetic_for_visualization
+CLM10043,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10043,3,Document submission,2,synthetic_for_visualization
+CLM10043,4,Claim assessment,4,synthetic_for_visualization
+CLM10043,5,Query/re-submission,2,synthetic_for_visualization
+CLM10043,6,Final authorization,3,synthetic_for_visualization
+CLM10043,7,Settlement,2,synthetic_for_visualization
+CLM10044,1,Hospital admission,2,synthetic_for_visualization
+CLM10044,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10044,3,Document submission,3,synthetic_for_visualization
+CLM10044,4,Claim assessment,2,synthetic_for_visualization
+CLM10044,5,Query/re-submission,2,synthetic_for_visualization
+CLM10044,6,Final authorization,3,synthetic_for_visualization
+CLM10044,7,Settlement,2,synthetic_for_visualization
+CLM10045,1,Hospital admission,0,synthetic_for_visualization
+CLM10045,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10045,3,Document submission,1,synthetic_for_visualization
+CLM10045,4,Claim assessment,1,synthetic_for_visualization
+CLM10045,5,Query/re-submission,2,synthetic_for_visualization
+CLM10045,6,Final authorization,4,synthetic_for_visualization
+CLM10045,7,Settlement,4,synthetic_for_visualization
+CLM10046,1,Hospital admission,1,synthetic_for_visualization
+CLM10046,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10046,3,Document submission,1,synthetic_for_visualization
+CLM10046,4,Claim assessment,4,synthetic_for_visualization
+CLM10046,5,Query/re-submission,1,synthetic_for_visualization
+CLM10046,6,Final authorization,4,synthetic_for_visualization
+CLM10046,7,Settlement,4,synthetic_for_visualization
+CLM10047,1,Hospital admission,3,synthetic_for_visualization
+CLM10047,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10047,3,Document submission,4,synthetic_for_visualization
+CLM10047,4,Claim assessment,3,synthetic_for_visualization
+CLM10047,5,Query/re-submission,3,synthetic_for_visualization
+CLM10047,6,Final authorization,4,synthetic_for_visualization
+CLM10047,7,Settlement,4,synthetic_for_visualization
+CLM10048,1,Hospital admission,0,synthetic_for_visualization
+CLM10048,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10048,3,Document submission,4,synthetic_for_visualization
+CLM10048,4,Claim assessment,1,synthetic_for_visualization
+CLM10048,5,Query/re-submission,2,synthetic_for_visualization
+CLM10048,6,Final authorization,4,synthetic_for_visualization
+CLM10048,7,Settlement,1,synthetic_for_visualization
+CLM10049,1,Hospital admission,2,synthetic_for_visualization
+CLM10049,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10049,3,Document submission,3,synthetic_for_visualization
+CLM10049,4,Claim assessment,4,synthetic_for_visualization
+CLM10049,5,Query/re-submission,1,synthetic_for_visualization
+CLM10049,6,Final authorization,2,synthetic_for_visualization
+CLM10049,7,Settlement,4,synthetic_for_visualization
+CLM10050,1,Hospital admission,2,synthetic_for_visualization
+CLM10050,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10050,3,Document submission,2,synthetic_for_visualization
+CLM10050,4,Claim assessment,2,synthetic_for_visualization
+CLM10050,5,Query/re-submission,3,synthetic_for_visualization
+CLM10050,6,Final authorization,2,synthetic_for_visualization
+CLM10050,7,Settlement,3,synthetic_for_visualization
+CLM10051,1,Hospital admission,2,synthetic_for_visualization
+CLM10051,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10051,3,Document submission,1,synthetic_for_visualization
+CLM10051,4,Claim assessment,3,synthetic_for_visualization
+CLM10051,5,Query/re-submission,4,synthetic_for_visualization
+CLM10051,6,Final authorization,1,synthetic_for_visualization
+CLM10051,7,Settlement,2,synthetic_for_visualization
+CLM10052,1,Hospital admission,3,synthetic_for_visualization
+CLM10052,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10052,3,Document submission,3,synthetic_for_visualization
+CLM10052,4,Claim assessment,3,synthetic_for_visualization
+CLM10052,5,Query/re-submission,3,synthetic_for_visualization
+CLM10052,6,Final authorization,3,synthetic_for_visualization
+CLM10052,7,Settlement,1,synthetic_for_visualization
+CLM10053,1,Hospital admission,3,synthetic_for_visualization
+CLM10053,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10053,3,Document submission,1,synthetic_for_visualization
+CLM10053,4,Claim assessment,2,synthetic_for_visualization
+CLM10053,5,Query/re-submission,2,synthetic_for_visualization
+CLM10053,6,Final authorization,1,synthetic_for_visualization
+CLM10053,7,Settlement,4,synthetic_for_visualization
+CLM10054,1,Hospital admission,1,synthetic_for_visualization
+CLM10054,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10054,3,Document submission,2,synthetic_for_visualization
+CLM10054,4,Claim assessment,4,synthetic_for_visualization
+CLM10054,5,Query/re-submission,3,synthetic_for_visualization
+CLM10054,6,Final authorization,4,synthetic_for_visualization
+CLM10054,7,Settlement,1,synthetic_for_visualization
+CLM10055,1,Hospital admission,4,synthetic_for_visualization
+CLM10055,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10055,3,Document submission,2,synthetic_for_visualization
+CLM10055,4,Claim assessment,3,synthetic_for_visualization
+CLM10055,5,Query/re-submission,1,synthetic_for_visualization
+CLM10055,6,Final authorization,4,synthetic_for_visualization
+CLM10055,7,Settlement,4,synthetic_for_visualization
+CLM10056,1,Hospital admission,2,synthetic_for_visualization
+CLM10056,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10056,3,Document submission,2,synthetic_for_visualization
+CLM10056,4,Claim assessment,1,synthetic_for_visualization
+CLM10056,5,Query/re-submission,3,synthetic_for_visualization
+CLM10056,6,Final authorization,3,synthetic_for_visualization
+CLM10056,7,Settlement,4,synthetic_for_visualization
+CLM10057,1,Hospital admission,4,synthetic_for_visualization
+CLM10057,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10057,3,Document submission,4,synthetic_for_visualization
+CLM10057,4,Claim assessment,3,synthetic_for_visualization
+CLM10057,5,Query/re-submission,3,synthetic_for_visualization
+CLM10057,6,Final authorization,3,synthetic_for_visualization
+CLM10057,7,Settlement,4,synthetic_for_visualization
+CLM10058,1,Hospital admission,3,synthetic_for_visualization
+CLM10058,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10058,3,Document submission,1,synthetic_for_visualization
+CLM10058,4,Claim assessment,2,synthetic_for_visualization
+CLM10058,5,Query/re-submission,3,synthetic_for_visualization
+CLM10058,6,Final authorization,3,synthetic_for_visualization
+CLM10058,7,Settlement,2,synthetic_for_visualization
+CLM10059,1,Hospital admission,2,synthetic_for_visualization
+CLM10059,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10059,3,Document submission,2,synthetic_for_visualization
+CLM10059,4,Claim assessment,2,synthetic_for_visualization
+CLM10059,5,Query/re-submission,3,synthetic_for_visualization
+CLM10059,6,Final authorization,2,synthetic_for_visualization
+CLM10059,7,Settlement,4,synthetic_for_visualization
+CLM10060,1,Hospital admission,4,synthetic_for_visualization
+CLM10060,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10060,3,Document submission,2,synthetic_for_visualization
+CLM10060,4,Claim assessment,3,synthetic_for_visualization
+CLM10060,5,Query/re-submission,1,synthetic_for_visualization
+CLM10060,6,Final authorization,2,synthetic_for_visualization
+CLM10060,7,Settlement,1,synthetic_for_visualization
+CLM10061,1,Hospital admission,0,synthetic_for_visualization
+CLM10061,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10061,3,Document submission,3,synthetic_for_visualization
+CLM10061,4,Claim assessment,1,synthetic_for_visualization
+CLM10061,5,Query/re-submission,3,synthetic_for_visualization
+CLM10061,6,Final authorization,2,synthetic_for_visualization
+CLM10061,7,Settlement,2,synthetic_for_visualization
+CLM10062,1,Hospital admission,3,synthetic_for_visualization
+CLM10062,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10062,3,Document submission,3,synthetic_for_visualization
+CLM10062,4,Claim assessment,3,synthetic_for_visualization
+CLM10062,5,Query/re-submission,1,synthetic_for_visualization
+CLM10062,6,Final authorization,1,synthetic_for_visualization
+CLM10062,7,Settlement,3,synthetic_for_visualization
+CLM10063,1,Hospital admission,4,synthetic_for_visualization
+CLM10063,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10063,3,Document submission,1,synthetic_for_visualization
+CLM10063,4,Claim assessment,4,synthetic_for_visualization
+CLM10063,5,Query/re-submission,4,synthetic_for_visualization
+CLM10063,6,Final authorization,1,synthetic_for_visualization
+CLM10063,7,Settlement,2,synthetic_for_visualization
+CLM10064,1,Hospital admission,3,synthetic_for_visualization
+CLM10064,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10064,3,Document submission,2,synthetic_for_visualization
+CLM10064,4,Claim assessment,2,synthetic_for_visualization
+CLM10064,5,Query/re-submission,3,synthetic_for_visualization
+CLM10064,6,Final authorization,2,synthetic_for_visualization
+CLM10064,7,Settlement,2,synthetic_for_visualization
+CLM10065,1,Hospital admission,1,synthetic_for_visualization
+CLM10065,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10065,3,Document submission,1,synthetic_for_visualization
+CLM10065,4,Claim assessment,1,synthetic_for_visualization
+CLM10065,5,Query/re-submission,1,synthetic_for_visualization
+CLM10065,6,Final authorization,4,synthetic_for_visualization
+CLM10065,7,Settlement,4,synthetic_for_visualization
+CLM10066,1,Hospital admission,2,synthetic_for_visualization
+CLM10066,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10066,3,Document submission,4,synthetic_for_visualization
+CLM10066,4,Claim assessment,2,synthetic_for_visualization
+CLM10066,5,Query/re-submission,4,synthetic_for_visualization
+CLM10066,6,Final authorization,2,synthetic_for_visualization
+CLM10066,7,Settlement,4,synthetic_for_visualization
+CLM10067,1,Hospital admission,4,synthetic_for_visualization
+CLM10067,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10067,3,Document submission,3,synthetic_for_visualization
+CLM10067,4,Claim assessment,2,synthetic_for_visualization
+CLM10067,5,Query/re-submission,2,synthetic_for_visualization
+CLM10067,6,Final authorization,2,synthetic_for_visualization
+CLM10067,7,Settlement,3,synthetic_for_visualization
+CLM10068,1,Hospital admission,1,synthetic_for_visualization
+CLM10068,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10068,3,Document submission,3,synthetic_for_visualization
+CLM10068,4,Claim assessment,4,synthetic_for_visualization
+CLM10068,5,Query/re-submission,4,synthetic_for_visualization
+CLM10068,6,Final authorization,1,synthetic_for_visualization
+CLM10068,7,Settlement,4,synthetic_for_visualization
+CLM10069,1,Hospital admission,0,synthetic_for_visualization
+CLM10069,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10069,3,Document submission,2,synthetic_for_visualization
+CLM10069,4,Claim assessment,3,synthetic_for_visualization
+CLM10069,5,Query/re-submission,3,synthetic_for_visualization
+CLM10069,6,Final authorization,4,synthetic_for_visualization
+CLM10069,7,Settlement,2,synthetic_for_visualization
+CLM10070,1,Hospital admission,4,synthetic_for_visualization
+CLM10070,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10070,3,Document submission,1,synthetic_for_visualization
+CLM10070,4,Claim assessment,2,synthetic_for_visualization
+CLM10070,5,Query/re-submission,3,synthetic_for_visualization
+CLM10070,6,Final authorization,3,synthetic_for_visualization
+CLM10070,7,Settlement,4,synthetic_for_visualization
+CLM10071,1,Hospital admission,1,synthetic_for_visualization
+CLM10071,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10071,3,Document submission,4,synthetic_for_visualization
+CLM10071,4,Claim assessment,2,synthetic_for_visualization
+CLM10071,5,Query/re-submission,1,synthetic_for_visualization
+CLM10071,6,Final authorization,4,synthetic_for_visualization
+CLM10071,7,Settlement,2,synthetic_for_visualization
+CLM10072,1,Hospital admission,4,synthetic_for_visualization
+CLM10072,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10072,3,Document submission,4,synthetic_for_visualization
+CLM10072,4,Claim assessment,3,synthetic_for_visualization
+CLM10072,5,Query/re-submission,4,synthetic_for_visualization
+CLM10072,6,Final authorization,4,synthetic_for_visualization
+CLM10072,7,Settlement,2,synthetic_for_visualization
+CLM10073,1,Hospital admission,0,synthetic_for_visualization
+CLM10073,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10073,3,Document submission,3,synthetic_for_visualization
+CLM10073,4,Claim assessment,3,synthetic_for_visualization
+CLM10073,5,Query/re-submission,1,synthetic_for_visualization
+CLM10073,6,Final authorization,3,synthetic_for_visualization
+CLM10073,7,Settlement,1,synthetic_for_visualization
+CLM10074,1,Hospital admission,2,synthetic_for_visualization
+CLM10074,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10074,3,Document submission,3,synthetic_for_visualization
+CLM10074,4,Claim assessment,2,synthetic_for_visualization
+CLM10074,5,Query/re-submission,2,synthetic_for_visualization
+CLM10074,6,Final authorization,3,synthetic_for_visualization
+CLM10074,7,Settlement,3,synthetic_for_visualization
+CLM10075,1,Hospital admission,4,synthetic_for_visualization
+CLM10075,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10075,3,Document submission,2,synthetic_for_visualization
+CLM10075,4,Claim assessment,2,synthetic_for_visualization
+CLM10075,5,Query/re-submission,3,synthetic_for_visualization
+CLM10075,6,Final authorization,1,synthetic_for_visualization
+CLM10075,7,Settlement,2,synthetic_for_visualization
+CLM10076,1,Hospital admission,0,synthetic_for_visualization
+CLM10076,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10076,3,Document submission,4,synthetic_for_visualization
+CLM10076,4,Claim assessment,4,synthetic_for_visualization
+CLM10076,5,Query/re-submission,2,synthetic_for_visualization
+CLM10076,6,Final authorization,1,synthetic_for_visualization
+CLM10076,7,Settlement,1,synthetic_for_visualization
+CLM10077,1,Hospital admission,0,synthetic_for_visualization
+CLM10077,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10077,3,Document submission,4,synthetic_for_visualization
+CLM10077,4,Claim assessment,3,synthetic_for_visualization
+CLM10077,5,Query/re-submission,1,synthetic_for_visualization
+CLM10077,6,Final authorization,1,synthetic_for_visualization
+CLM10077,7,Settlement,4,synthetic_for_visualization
+CLM10078,1,Hospital admission,1,synthetic_for_visualization
+CLM10078,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10078,3,Document submission,1,synthetic_for_visualization
+CLM10078,4,Claim assessment,2,synthetic_for_visualization
+CLM10078,5,Query/re-submission,3,synthetic_for_visualization
+CLM10078,6,Final authorization,4,synthetic_for_visualization
+CLM10078,7,Settlement,2,synthetic_for_visualization
+CLM10079,1,Hospital admission,3,synthetic_for_visualization
+CLM10079,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10079,3,Document submission,1,synthetic_for_visualization
+CLM10079,4,Claim assessment,1,synthetic_for_visualization
+CLM10079,5,Query/re-submission,4,synthetic_for_visualization
+CLM10079,6,Final authorization,3,synthetic_for_visualization
+CLM10079,7,Settlement,4,synthetic_for_visualization
+CLM10080,1,Hospital admission,0,synthetic_for_visualization
+CLM10080,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10080,3,Document submission,4,synthetic_for_visualization
+CLM10080,4,Claim assessment,1,synthetic_for_visualization
+CLM10080,5,Query/re-submission,1,synthetic_for_visualization
+CLM10080,6,Final authorization,3,synthetic_for_visualization
+CLM10080,7,Settlement,3,synthetic_for_visualization
+CLM10081,1,Hospital admission,1,synthetic_for_visualization
+CLM10081,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10081,3,Document submission,3,synthetic_for_visualization
+CLM10081,4,Claim assessment,2,synthetic_for_visualization
+CLM10081,5,Query/re-submission,2,synthetic_for_visualization
+CLM10081,6,Final authorization,1,synthetic_for_visualization
+CLM10081,7,Settlement,2,synthetic_for_visualization
+CLM10082,1,Hospital admission,4,synthetic_for_visualization
+CLM10082,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10082,3,Document submission,4,synthetic_for_visualization
+CLM10082,4,Claim assessment,1,synthetic_for_visualization
+CLM10082,5,Query/re-submission,1,synthetic_for_visualization
+CLM10082,6,Final authorization,3,synthetic_for_visualization
+CLM10082,7,Settlement,1,synthetic_for_visualization
+CLM10083,1,Hospital admission,2,synthetic_for_visualization
+CLM10083,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10083,3,Document submission,2,synthetic_for_visualization
+CLM10083,4,Claim assessment,3,synthetic_for_visualization
+CLM10083,5,Query/re-submission,3,synthetic_for_visualization
+CLM10083,6,Final authorization,1,synthetic_for_visualization
+CLM10083,7,Settlement,4,synthetic_for_visualization
+CLM10084,1,Hospital admission,1,synthetic_for_visualization
+CLM10084,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10084,3,Document submission,3,synthetic_for_visualization
+CLM10084,4,Claim assessment,1,synthetic_for_visualization
+CLM10084,5,Query/re-submission,3,synthetic_for_visualization
+CLM10084,6,Final authorization,1,synthetic_for_visualization
+CLM10084,7,Settlement,3,synthetic_for_visualization
+CLM10085,1,Hospital admission,4,synthetic_for_visualization
+CLM10085,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10085,3,Document submission,4,synthetic_for_visualization
+CLM10085,4,Claim assessment,2,synthetic_for_visualization
+CLM10085,5,Query/re-submission,3,synthetic_for_visualization
+CLM10085,6,Final authorization,2,synthetic_for_visualization
+CLM10085,7,Settlement,4,synthetic_for_visualization
+CLM10086,1,Hospital admission,2,synthetic_for_visualization
+CLM10086,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10086,3,Document submission,2,synthetic_for_visualization
+CLM10086,4,Claim assessment,3,synthetic_for_visualization
+CLM10086,5,Query/re-submission,1,synthetic_for_visualization
+CLM10086,6,Final authorization,3,synthetic_for_visualization
+CLM10086,7,Settlement,1,synthetic_for_visualization
+CLM10087,1,Hospital admission,0,synthetic_for_visualization
+CLM10087,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10087,3,Document submission,2,synthetic_for_visualization
+CLM10087,4,Claim assessment,3,synthetic_for_visualization
+CLM10087,5,Query/re-submission,2,synthetic_for_visualization
+CLM10087,6,Final authorization,1,synthetic_for_visualization
+CLM10087,7,Settlement,2,synthetic_for_visualization
+CLM10088,1,Hospital admission,2,synthetic_for_visualization
+CLM10088,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10088,3,Document submission,3,synthetic_for_visualization
+CLM10088,4,Claim assessment,1,synthetic_for_visualization
+CLM10088,5,Query/re-submission,3,synthetic_for_visualization
+CLM10088,6,Final authorization,3,synthetic_for_visualization
+CLM10088,7,Settlement,4,synthetic_for_visualization
+CLM10089,1,Hospital admission,2,synthetic_for_visualization
+CLM10089,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10089,3,Document submission,1,synthetic_for_visualization
+CLM10089,4,Claim assessment,3,synthetic_for_visualization
+CLM10089,5,Query/re-submission,1,synthetic_for_visualization
+CLM10089,6,Final authorization,1,synthetic_for_visualization
+CLM10089,7,Settlement,4,synthetic_for_visualization
+CLM10090,1,Hospital admission,2,synthetic_for_visualization
+CLM10090,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10090,3,Document submission,3,synthetic_for_visualization
+CLM10090,4,Claim assessment,3,synthetic_for_visualization
+CLM10090,5,Query/re-submission,1,synthetic_for_visualization
+CLM10090,6,Final authorization,1,synthetic_for_visualization
+CLM10090,7,Settlement,1,synthetic_for_visualization
+CLM10091,1,Hospital admission,4,synthetic_for_visualization
+CLM10091,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10091,3,Document submission,3,synthetic_for_visualization
+CLM10091,4,Claim assessment,2,synthetic_for_visualization
+CLM10091,5,Query/re-submission,1,synthetic_for_visualization
+CLM10091,6,Final authorization,2,synthetic_for_visualization
+CLM10091,7,Settlement,1,synthetic_for_visualization
+CLM10092,1,Hospital admission,0,synthetic_for_visualization
+CLM10092,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10092,3,Document submission,4,synthetic_for_visualization
+CLM10092,4,Claim assessment,3,synthetic_for_visualization
+CLM10092,5,Query/re-submission,4,synthetic_for_visualization
+CLM10092,6,Final authorization,2,synthetic_for_visualization
+CLM10092,7,Settlement,1,synthetic_for_visualization
+CLM10093,1,Hospital admission,3,synthetic_for_visualization
+CLM10093,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10093,3,Document submission,3,synthetic_for_visualization
+CLM10093,4,Claim assessment,1,synthetic_for_visualization
+CLM10093,5,Query/re-submission,2,synthetic_for_visualization
+CLM10093,6,Final authorization,4,synthetic_for_visualization
+CLM10093,7,Settlement,3,synthetic_for_visualization
+CLM10094,1,Hospital admission,4,synthetic_for_visualization
+CLM10094,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10094,3,Document submission,1,synthetic_for_visualization
+CLM10094,4,Claim assessment,4,synthetic_for_visualization
+CLM10094,5,Query/re-submission,4,synthetic_for_visualization
+CLM10094,6,Final authorization,3,synthetic_for_visualization
+CLM10094,7,Settlement,4,synthetic_for_visualization
+CLM10095,1,Hospital admission,0,synthetic_for_visualization
+CLM10095,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10095,3,Document submission,1,synthetic_for_visualization
+CLM10095,4,Claim assessment,4,synthetic_for_visualization
+CLM10095,5,Query/re-submission,1,synthetic_for_visualization
+CLM10095,6,Final authorization,3,synthetic_for_visualization
+CLM10095,7,Settlement,4,synthetic_for_visualization
+CLM10096,1,Hospital admission,0,synthetic_for_visualization
+CLM10096,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10096,3,Document submission,4,synthetic_for_visualization
+CLM10096,4,Claim assessment,1,synthetic_for_visualization
+CLM10096,5,Query/re-submission,3,synthetic_for_visualization
+CLM10096,6,Final authorization,4,synthetic_for_visualization
+CLM10096,7,Settlement,3,synthetic_for_visualization
+CLM10097,1,Hospital admission,2,synthetic_for_visualization
+CLM10097,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10097,3,Document submission,3,synthetic_for_visualization
+CLM10097,4,Claim assessment,3,synthetic_for_visualization
+CLM10097,5,Query/re-submission,3,synthetic_for_visualization
+CLM10097,6,Final authorization,1,synthetic_for_visualization
+CLM10097,7,Settlement,3,synthetic_for_visualization
+CLM10098,1,Hospital admission,3,synthetic_for_visualization
+CLM10098,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10098,3,Document submission,1,synthetic_for_visualization
+CLM10098,4,Claim assessment,3,synthetic_for_visualization
+CLM10098,5,Query/re-submission,3,synthetic_for_visualization
+CLM10098,6,Final authorization,1,synthetic_for_visualization
+CLM10098,7,Settlement,4,synthetic_for_visualization
+CLM10099,1,Hospital admission,2,synthetic_for_visualization
+CLM10099,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10099,3,Document submission,3,synthetic_for_visualization
+CLM10099,4,Claim assessment,3,synthetic_for_visualization
+CLM10099,5,Query/re-submission,3,synthetic_for_visualization
+CLM10099,6,Final authorization,2,synthetic_for_visualization
+CLM10099,7,Settlement,4,synthetic_for_visualization
+CLM10100,1,Hospital admission,4,synthetic_for_visualization
+CLM10100,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10100,3,Document submission,3,synthetic_for_visualization
+CLM10100,4,Claim assessment,1,synthetic_for_visualization
+CLM10100,5,Query/re-submission,2,synthetic_for_visualization
+CLM10100,6,Final authorization,4,synthetic_for_visualization
+CLM10100,7,Settlement,1,synthetic_for_visualization
+CLM10101,1,Hospital admission,1,synthetic_for_visualization
+CLM10101,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10101,3,Document submission,3,synthetic_for_visualization
+CLM10101,4,Claim assessment,2,synthetic_for_visualization
+CLM10101,5,Query/re-submission,3,synthetic_for_visualization
+CLM10101,6,Final authorization,4,synthetic_for_visualization
+CLM10101,7,Settlement,3,synthetic_for_visualization
+CLM10102,1,Hospital admission,3,synthetic_for_visualization
+CLM10102,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10102,3,Document submission,1,synthetic_for_visualization
+CLM10102,4,Claim assessment,4,synthetic_for_visualization
+CLM10102,5,Query/re-submission,4,synthetic_for_visualization
+CLM10102,6,Final authorization,3,synthetic_for_visualization
+CLM10102,7,Settlement,2,synthetic_for_visualization
+CLM10103,1,Hospital admission,0,synthetic_for_visualization
+CLM10103,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10103,3,Document submission,4,synthetic_for_visualization
+CLM10103,4,Claim assessment,1,synthetic_for_visualization
+CLM10103,5,Query/re-submission,3,synthetic_for_visualization
+CLM10103,6,Final authorization,3,synthetic_for_visualization
+CLM10103,7,Settlement,2,synthetic_for_visualization
+CLM10104,1,Hospital admission,4,synthetic_for_visualization
+CLM10104,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10104,3,Document submission,2,synthetic_for_visualization
+CLM10104,4,Claim assessment,1,synthetic_for_visualization
+CLM10104,5,Query/re-submission,3,synthetic_for_visualization
+CLM10104,6,Final authorization,3,synthetic_for_visualization
+CLM10104,7,Settlement,4,synthetic_for_visualization
+CLM10105,1,Hospital admission,2,synthetic_for_visualization
+CLM10105,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10105,3,Document submission,2,synthetic_for_visualization
+CLM10105,4,Claim assessment,1,synthetic_for_visualization
+CLM10105,5,Query/re-submission,3,synthetic_for_visualization
+CLM10105,6,Final authorization,3,synthetic_for_visualization
+CLM10105,7,Settlement,4,synthetic_for_visualization
+CLM10106,1,Hospital admission,1,synthetic_for_visualization
+CLM10106,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10106,3,Document submission,1,synthetic_for_visualization
+CLM10106,4,Claim assessment,2,synthetic_for_visualization
+CLM10106,5,Query/re-submission,2,synthetic_for_visualization
+CLM10106,6,Final authorization,4,synthetic_for_visualization
+CLM10106,7,Settlement,4,synthetic_for_visualization
+CLM10107,1,Hospital admission,0,synthetic_for_visualization
+CLM10107,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10107,3,Document submission,3,synthetic_for_visualization
+CLM10107,4,Claim assessment,2,synthetic_for_visualization
+CLM10107,5,Query/re-submission,1,synthetic_for_visualization
+CLM10107,6,Final authorization,4,synthetic_for_visualization
+CLM10107,7,Settlement,3,synthetic_for_visualization
+CLM10108,1,Hospital admission,2,synthetic_for_visualization
+CLM10108,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10108,3,Document submission,4,synthetic_for_visualization
+CLM10108,4,Claim assessment,1,synthetic_for_visualization
+CLM10108,5,Query/re-submission,2,synthetic_for_visualization
+CLM10108,6,Final authorization,4,synthetic_for_visualization
+CLM10108,7,Settlement,4,synthetic_for_visualization
+CLM10109,1,Hospital admission,1,synthetic_for_visualization
+CLM10109,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10109,3,Document submission,1,synthetic_for_visualization
+CLM10109,4,Claim assessment,1,synthetic_for_visualization
+CLM10109,5,Query/re-submission,2,synthetic_for_visualization
+CLM10109,6,Final authorization,4,synthetic_for_visualization
+CLM10109,7,Settlement,3,synthetic_for_visualization
+CLM10110,1,Hospital admission,2,synthetic_for_visualization
+CLM10110,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10110,3,Document submission,1,synthetic_for_visualization
+CLM10110,4,Claim assessment,2,synthetic_for_visualization
+CLM10110,5,Query/re-submission,1,synthetic_for_visualization
+CLM10110,6,Final authorization,1,synthetic_for_visualization
+CLM10110,7,Settlement,3,synthetic_for_visualization
+CLM10111,1,Hospital admission,0,synthetic_for_visualization
+CLM10111,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10111,3,Document submission,3,synthetic_for_visualization
+CLM10111,4,Claim assessment,2,synthetic_for_visualization
+CLM10111,5,Query/re-submission,2,synthetic_for_visualization
+CLM10111,6,Final authorization,1,synthetic_for_visualization
+CLM10111,7,Settlement,1,synthetic_for_visualization
+CLM10112,1,Hospital admission,2,synthetic_for_visualization
+CLM10112,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10112,3,Document submission,2,synthetic_for_visualization
+CLM10112,4,Claim assessment,3,synthetic_for_visualization
+CLM10112,5,Query/re-submission,3,synthetic_for_visualization
+CLM10112,6,Final authorization,2,synthetic_for_visualization
+CLM10112,7,Settlement,2,synthetic_for_visualization
+CLM10113,1,Hospital admission,2,synthetic_for_visualization
+CLM10113,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10113,3,Document submission,3,synthetic_for_visualization
+CLM10113,4,Claim assessment,3,synthetic_for_visualization
+CLM10113,5,Query/re-submission,2,synthetic_for_visualization
+CLM10113,6,Final authorization,2,synthetic_for_visualization
+CLM10113,7,Settlement,2,synthetic_for_visualization
+CLM10114,1,Hospital admission,3,synthetic_for_visualization
+CLM10114,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10114,3,Document submission,1,synthetic_for_visualization
+CLM10114,4,Claim assessment,2,synthetic_for_visualization
+CLM10114,5,Query/re-submission,1,synthetic_for_visualization
+CLM10114,6,Final authorization,2,synthetic_for_visualization
+CLM10114,7,Settlement,1,synthetic_for_visualization
+CLM10115,1,Hospital admission,1,synthetic_for_visualization
+CLM10115,2,Pre-authorisation,2,synthetic_for_visualization
+CLM10115,3,Document submission,2,synthetic_for_visualization
+CLM10115,4,Claim assessment,2,synthetic_for_visualization
+CLM10115,5,Query/re-submission,4,synthetic_for_visualization
+CLM10115,6,Final authorization,4,synthetic_for_visualization
+CLM10115,7,Settlement,1,synthetic_for_visualization
+CLM10116,1,Hospital admission,1,synthetic_for_visualization
+CLM10116,2,Pre-authorisation,4,synthetic_for_visualization
+CLM10116,3,Document submission,3,synthetic_for_visualization
+CLM10116,4,Claim assessment,1,synthetic_for_visualization
+CLM10116,5,Query/re-submission,3,synthetic_for_visualization
+CLM10116,6,Final authorization,1,synthetic_for_visualization
+CLM10116,7,Settlement,1,synthetic_for_visualization
+CLM10117,1,Hospital admission,3,synthetic_for_visualization
+CLM10117,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10117,3,Document submission,4,synthetic_for_visualization
+CLM10117,4,Claim assessment,2,synthetic_for_visualization
+CLM10117,5,Query/re-submission,4,synthetic_for_visualization
+CLM10117,6,Final authorization,2,synthetic_for_visualization
+CLM10117,7,Settlement,3,synthetic_for_visualization
+CLM10118,1,Hospital admission,0,synthetic_for_visualization
+CLM10118,2,Pre-authorisation,1,synthetic_for_visualization
+CLM10118,3,Document submission,4,synthetic_for_visualization
+CLM10118,4,Claim assessment,4,synthetic_for_visualization
+CLM10118,5,Query/re-submission,4,synthetic_for_visualization
+CLM10118,6,Final authorization,2,synthetic_for_visualization
+CLM10118,7,Settlement,1,synthetic_for_visualization
+CLM10119,1,Hospital admission,4,synthetic_for_visualization
+CLM10119,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10119,3,Document submission,1,synthetic_for_visualization
+CLM10119,4,Claim assessment,4,synthetic_for_visualization
+CLM10119,5,Query/re-submission,4,synthetic_for_visualization
+CLM10119,6,Final authorization,2,synthetic_for_visualization
+CLM10119,7,Settlement,4,synthetic_for_visualization
+CLM10120,1,Hospital admission,3,synthetic_for_visualization
+CLM10120,2,Pre-authorisation,3,synthetic_for_visualization
+CLM10120,3,Document submission,3,synthetic_for_visualization
+CLM10120,4,Claim assessment,2,synthetic_for_visualization
+CLM10120,5,Query/re-submission,4,synthetic_for_visualization
+CLM10120,6,Final authorization,4,synthetic_for_visualization
+CLM10120,7,Settlement,4,synthetic_for_visualization

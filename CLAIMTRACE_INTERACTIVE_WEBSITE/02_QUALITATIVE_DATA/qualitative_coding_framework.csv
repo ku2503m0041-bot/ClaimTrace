@@ -1,0 +1,8 @@
+theme,description,code
+Understanding,Confusion about policy terms,TERM_CONFUSION
+Understanding,Confusion about why a deduction occurred,DEDUCTION_CONFUSION
+Process,Unclear claim status,STATUS_UNCLEAR
+Process,Repeated documents/queries,DOCUMENT_FRICTION
+Financial,Unexpected out-of-pocket amount,OOP_SHOCK
+Trust,Mismatch between expectation and settlement,EXPECTATION_GAP
+Action,Need to know next step,NEXT_ACTION

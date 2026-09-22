@@ -1,0 +1,45 @@
+CLAIMTRACE — DESIGN GUIDELINES
+
+Visual direction:
+Investigative editorial + financial data storytelling + healthcare clarity.
+Avoid a generic insurance-corporate dashboard aesthetic.
+
+Brand character:
+Precise / transparent / analytical / human / calm / trustworthy.
+
+Core interaction:
+FOLLOW EVERY RUPEE.
+Start with one claim, reveal its components, then zoom out to patterns.
+
+Colour roles:
+- Primary dark: near-black/navy for structure and text.
+- Neutral: off-white / light grey for canvas.
+- Accent: one high-visibility investigation accent for interactive highlights.
+- Positive: restrained green for paid/admissible.
+- Warning: amber for review/attention.
+- Negative: red only for denied/non-covered/problem states.
+Keep colour semantic and accessible; never rely on colour alone.
+
+Typography:
+Use a highly legible grotesk/sans for UI and a strong editorial display face only for major narrative headings.
+Use tabular numerals for financial figures.
+
+Data visualisation:
+- Sankey / flow: bill → admissible → deductions → insurer → policyholder.
+- Waterfall: ₹5L bill to settlement.
+- Stacked bars: deduction composition.
+- Timeline: claim journey.
+- Choropleth: India/state data only where geography is genuinely comparable.
+- Small multiples: compare cohorts without implying a ranking.
+- Scatter: provider/treatment outliers.
+- KPI cards: only for a small number of headline facts.
+
+Interaction principles:
+1. Reveal, don't dump.
+2. One question per interaction.
+3. Tooltips explain the number in plain language.
+4. Every public statistic has source + period.
+5. Synthetic data is visibly labelled.
+6. Provide reset/filter controls.
+7. Mobile-first responsive behaviour.
+8. Keyboard-accessible interactions.

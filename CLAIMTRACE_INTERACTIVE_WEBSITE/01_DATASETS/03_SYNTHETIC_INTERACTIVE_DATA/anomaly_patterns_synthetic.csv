@@ -1,0 +1,6 @@
+pattern_id,pattern,signal,interpretation,data_status
+AN001,Repeated document resubmission,Same claim/document requested multiple times,Potential workflow friction,synthetic example
+AN002,Unusual claim frequency,Higher-than-baseline claim frequency for a policy/customer/provider cohort,Requires investigation; not proof of fraud,synthetic example
+AN003,Provider cost outlier,Same procedure has materially higher billed amount than peer cohort,Potential pricing/provider pattern,synthetic example
+AN004,Long processing tail,Claim duration substantially exceeds cohort median,Potential process bottleneck,synthetic example
+AN005,Repeated partial settlements,High share of claims from a cohort contain similar deductions,Potential policy/process communication issue,synthetic example

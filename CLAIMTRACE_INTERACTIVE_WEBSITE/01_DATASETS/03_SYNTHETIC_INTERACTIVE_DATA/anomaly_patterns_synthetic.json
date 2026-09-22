@@ -1,0 +1,37 @@
+[
+  {
+    "pattern_id": "AN001",
+    "pattern": "Repeated document resubmission",
+    "signal": "Same claim/document requested multiple times",
+    "interpretation": "Potential workflow friction",
+    "data_status": "synthetic example"
+  },
+  {
+    "pattern_id": "AN002",
+    "pattern": "Unusual claim frequency",
+    "signal": "Higher-than-baseline claim frequency for a policy/customer/provider cohort",
+    "interpretation": "Requires investigation; not proof of fraud",
+    "data_status": "synthetic example"
+  },
+  {
+    "pattern_id": "AN003",
+    "pattern": "Provider cost outlier",
+    "signal": "Same procedure has materially higher billed amount than peer cohort",
+    "interpretation": "Potential pricing/provider pattern",
+    "data_status": "synthetic example"
+  },
+  {
+    "pattern_id": "AN004",
+    "pattern": "Long processing tail",
+    "signal": "Claim duration substantially exceeds cohort median",
+    "interpretation": "Potential process bottleneck",
+    "data_status": "synthetic example"
+  },
+  {
+    "pattern_id": "AN005",
+    "pattern": "Repeated partial settlements",
+    "signal": "High share of claims from a cohort contain similar deductions",
+    "interpretation": "Potential policy/process communication issue",
+    "data_status": "synthetic example"
+  }
+]

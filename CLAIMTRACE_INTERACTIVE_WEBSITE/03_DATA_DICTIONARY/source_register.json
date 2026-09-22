@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "S01",
+    "title": "IRDAI Handbook on Indian Insurance Statistics 2024-25",
+    "use": "Annual insurance/claims statistics",
+    "url": "https://irdai.gov.in/handbook-of-indian-insurance",
+    "source_type": "Primary",
+    "notes": "Use for current Indian industry statistics"
+  },
+  {
+    "source_id": "S02",
+    "title": "IRDAI Health Department / Health FAQs",
+    "use": "Definitions, health insurance rules and consumer explanations",
+    "url": "https://irdai.gov.in/health-dept",
+    "source_type": "Primary",
+    "notes": "Use for policy terminology and regulatory context"
+  },
+  {
+    "source_id": "S03",
+    "title": "IRDAI Master Circular on Health Insurance Business 29-05-2024",
+    "use": "Health insurance operating/regulatory framework",
+    "url": "https://irdai.gov.in/circulars",
+    "source_type": "Primary",
+    "notes": "Use the current circular and applicable provisions"
+  },
+  {
+    "source_id": "S04",
+    "title": "National Health Accounts India 2021-22",
+    "use": "Health expenditure financing and OOPE",
+    "url": "https://mohfw.gov.in/",
+    "source_type": "Primary",
+    "notes": "Use for national health financing context"
+  },
+  {
+    "source_id": "S05",
+    "title": "National Health Authority PM-JAY resources",
+    "use": "Public health protection scheme",
+    "url": "https://nha.gov.in/",
+    "source_type": "Primary",
+    "notes": "Use for PM-JAY coverage/eligibility context"
+  }
+]

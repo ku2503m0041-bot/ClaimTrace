@@ -1,0 +1,5882 @@
+[
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10001",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10002",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10003",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10004",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10005",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10006",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10007",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10008",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10009",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10010",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10011",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10012",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10013",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10014",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10015",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10016",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10017",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10018",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10019",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10020",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10021",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10022",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10023",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10024",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10025",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10026",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10027",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10028",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10029",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10030",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10031",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10032",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10033",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10034",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10035",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10036",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10037",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10038",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10039",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10040",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10041",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10042",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10043",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10044",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10045",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10046",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10047",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10048",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10049",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10050",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10051",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10052",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10053",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10054",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10055",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10056",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10057",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10058",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10059",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10060",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10061",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10062",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10063",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10064",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10065",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10066",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10067",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10068",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10069",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10070",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10071",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10072",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10073",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10074",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10075",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10076",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10077",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10078",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10079",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10080",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10081",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10082",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10083",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10084",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10085",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10086",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10087",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10088",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10089",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10090",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10091",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10092",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10093",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10094",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10095",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10096",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10097",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10098",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10099",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10100",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10101",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10102",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10103",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10104",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10105",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10106",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10107",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10108",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10109",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10110",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10111",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10112",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10113",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10114",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10115",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10116",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10117",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "0",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10118",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "1",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10119",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "1",
+    "stage": "Hospital admission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "2",
+    "stage": "Pre-authorisation",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "3",
+    "stage": "Document submission",
+    "stage_duration_days": "3",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "4",
+    "stage": "Claim assessment",
+    "stage_duration_days": "2",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "5",
+    "stage": "Query/re-submission",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "6",
+    "stage": "Final authorization",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  },
+  {
+    "claim_id": "CLM10120",
+    "stage_order": "7",
+    "stage": "Settlement",
+    "stage_duration_days": "4",
+    "data_status": "synthetic_for_visualization"
+  }
+]

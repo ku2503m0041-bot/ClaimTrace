@@ -1,0 +1,21 @@
+CLAIMTRACE — HEALTH INSURANCE INTERACTIVE DATA RESEARCH BLUEPRINT
+
+Core question:
+How does a hospital bill become an insurer settlement, and where does the remaining amount go?
+
+Research layers:
+1. Insurance literacy — types, policy anatomy, terminology.
+2. Claim economics — bill, admissibility, deductions, settlement, out-of-pocket.
+3. Claim process — cashless, reimbursement, pre-authorisation, assessment, settlement.
+4. Ecosystem — policyholder, hospital, insurer, TPA, broker/agent, regulator.
+5. Industry scale — premiums, claims, claims paid, incurred claim ratios, grievances.
+6. Health financing — OOPE, public/private financing, government schemes.
+7. Pattern detection — delays, repeated deductions, provider/treatment outliers.
+8. Human experience — confusion, expectations, trust, information needs.
+9. AI — document extraction, policy-rule matching, anomaly detection, explainability.
+10. Ethics — privacy, bias, false positives, explainability, human review.
+
+Critical data rule:
+REAL_PUBLIC_DATA = sourced from public sources and should retain source/date.
+SYNTHETIC_INTERACTIVE_DATA = fabricated for visualization/prototyping and must never be presented as observed claims.
+The ₹5 lakh → ₹3.2 lakh story is an illustrative narrative from the project brief, not an actual universal settlement rule.

@@ -1,0 +1,76 @@
+CLAIMTRACE WEBSITE INFORMATION ARCHITECTURE
+
+HOME
+→ The ₹5 lakh claim investigation
+
+01 START HERE
+→ Hospital bill
+→ Coverage
+→ Settlement
+→ Out-of-pocket
+
+02 DECODE YOUR POLICY
+→ Sum insured
+→ Premium
+→ Deductible
+→ Co-pay
+→ Sub-limits
+→ Room limits
+→ Waiting periods
+→ Exclusions
+→ PED
+→ Cashless vs reimbursement
+
+03 FOLLOW EVERY RUPEE
+→ Waterfall
+→ Sankey
+→ Deduction explorer
+→ Who pays what?
+
+04 FOLLOW THE CLAIM
+→ Claim journey
+→ Pre-authorisation
+→ Documents
+→ Assessment
+→ Queries
+→ Settlement
+
+05 MEET THE PLAYERS
+→ Policyholder
+→ Hospital
+→ Doctor
+→ TPA
+→ Insurer
+→ Broker
+→ Regulator
+
+06 ZOOM OUT
+→ Claims
+→ Amounts paid
+→ Claim ratios
+→ Grievances
+→ Health financing
+
+07 FIND THE PATTERN
+→ Delay patterns
+→ Deduction patterns
+→ Provider patterns
+→ Treatment patterns
+→ Anomaly examples
+
+08 HUMAN SIDE
+→ Common questions
+→ Pain points
+→ Qualitative themes
+
+09 AI CLAIM INVESTIGATOR
+→ Upload/select a synthetic claim
+→ Explain deductions
+→ Explain claim journey
+→ Show uncertainty / human review
+
+10 SOURCES & METHODOLOGY
+→ Real vs synthetic
+→ Source register
+→ Data dictionary
+→ Limitations

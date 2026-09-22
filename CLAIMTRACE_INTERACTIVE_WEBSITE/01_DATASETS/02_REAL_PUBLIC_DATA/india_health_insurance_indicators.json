@@ -1,0 +1,152 @@
+[
+  {
+    "geography": "India",
+    "period": "2021-22",
+    "indicator": "Current health expenditure financed by out-of-pocket expenditure",
+    "value": "45.11",
+    "unit": "percent",
+    "source_note": "NHA 2021-22",
+    "source_organization": "Ministry of Health & Family Welfare / National Health Accounts",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2021-22",
+    "indicator": "Current health expenditure financed by private health insurance",
+    "value": "8.48",
+    "unit": "percent",
+    "source_note": "NHA 2021-22",
+    "source_organization": "Ministry of Health & Family Welfare / National Health Accounts",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2021-22",
+    "indicator": "Current health expenditure financed by government health insurance schemes",
+    "value": "5.87",
+    "unit": "percent",
+    "source_note": "NHA 2021-22",
+    "source_organization": "Ministry of Health & Family Welfare / National Health Accounts",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2021-22",
+    "indicator": "Current health expenditure financed by Union Government",
+    "value": "16.69",
+    "unit": "percent",
+    "source_note": "NHA 2021-22",
+    "source_organization": "Ministry of Health & Family Welfare / National Health Accounts",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2021-22",
+    "indicator": "Current health expenditure financed by State Government",
+    "value": "15.95",
+    "unit": "percent",
+    "source_note": "NHA 2021-22",
+    "source_organization": "Ministry of Health & Family Welfare / National Health Accounts",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance claims settled",
+    "value": "32600000.0",
+    "unit": "claims",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance claims amount paid",
+    "value": "94248.0",
+    "unit": "INR crore",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance claims paid ratio by number",
+    "value": "87.5",
+    "unit": "percent",
+    "source_note": "Government/IRDAI reporting",
+    "source_organization": "Ministry of Finance / IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "General + health insurance grievances",
+    "value": "137361.0",
+    "unit": "grievances",
+    "source_note": "Government/IRDAI reporting",
+    "source_organization": "Ministry of Finance / IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "General + health grievances disposed",
+    "value": "127755.0",
+    "unit": "grievances",
+    "source_note": "Government/IRDAI reporting",
+    "source_organization": "Ministry of Finance / IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Grievance disposal rate",
+    "value": "93.0",
+    "unit": "percent",
+    "source_note": "Calculated from 127,755 / 137,361",
+    "source_organization": "Derived from official figures",
+    "data_status": "derived_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance industry claim incurred ratio - Government business",
+    "value": "95.0",
+    "unit": "percent",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance industry claim incurred ratio - Group business",
+    "value": "92.0",
+    "unit": "percent",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance industry claim incurred ratio - Industry total",
+    "value": "87.0",
+    "unit": "percent",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  },
+  {
+    "geography": "India",
+    "period": "2024-25",
+    "indicator": "Health insurance industry claim incurred ratio - Individual",
+    "value": "78.0",
+    "unit": "percent",
+    "source_note": "IRDAI Annual Report 2024-25",
+    "source_organization": "IRDAI",
+    "data_status": "real_public"
+  }
+]

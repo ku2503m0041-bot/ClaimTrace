@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Q01",
+    "question": "Why didn't I receive the full sum insured?",
+    "theme": "Coverage expectation",
+    "audience": "Policyholder",
+    "design_opportunity": "Explain sum insured vs admissible claim"
+  },
+  {
+    "id": "Q02",
+    "question": "What is co-pay?",
+    "theme": "Terminology",
+    "audience": "Policyholder",
+    "design_opportunity": "Translate policy language into plain language"
+  },
+  {
+    "id": "Q03",
+    "question": "Why was room rent deducted?",
+    "theme": "Deduction",
+    "audience": "Policyholder",
+    "design_opportunity": "Show policy limit and resulting adjustment"
+  },
+  {
+    "id": "Q04",
+    "question": "Why is my claim still pending?",
+    "theme": "Delay",
+    "audience": "Policyholder",
+    "design_opportunity": "Show claim journey and stage-level delay"
+  },
+  {
+    "id": "Q05",
+    "question": "Why was this expense not covered?",
+    "theme": "Exclusion/non-covered",
+    "audience": "Policyholder",
+    "design_opportunity": "Map bill item to policy condition"
+  },
+  {
+    "id": "Q06",
+    "question": "Who decides the admissible amount?",
+    "theme": "Process",
+    "audience": "Policyholder",
+    "design_opportunity": "Explain insurer/TPA assessment roles"
+  }
+]

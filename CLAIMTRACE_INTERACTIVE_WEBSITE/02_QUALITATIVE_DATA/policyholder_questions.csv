@@ -1,0 +1,7 @@
+id,question,theme,audience,design_opportunity
+Q01,Why didn't I receive the full sum insured?,Coverage expectation,Policyholder,Explain sum insured vs admissible claim
+Q02,What is co-pay?,Terminology,Policyholder,Translate policy language into plain language
+Q03,Why was room rent deducted?,Deduction,Policyholder,Show policy limit and resulting adjustment
+Q04,Why is my claim still pending?,Delay,Policyholder,Show claim journey and stage-level delay
+Q05,Why was this expense not covered?,Exclusion/non-covered,Policyholder,Map bill item to policy condition
+Q06,Who decides the admissible amount?,Process,Policyholder,Explain insurer/TPA assessment roles

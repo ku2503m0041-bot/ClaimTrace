@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P01",
+    "pain_point": "Policy language is difficult to interpret",
+    "theme": "Comprehension",
+    "priority": "High",
+    "design_response": "Interactive glossary + examples"
+  },
+  {
+    "id": "P02",
+    "pain_point": "Settlement letter may contain multiple deductions",
+    "theme": "Transparency",
+    "priority": "High",
+    "design_response": "Deduction explorer"
+  },
+  {
+    "id": "P03",
+    "pain_point": "Claim status can be hard to interpret",
+    "theme": "Process visibility",
+    "priority": "Medium",
+    "design_response": "Timeline"
+  },
+  {
+    "id": "P04",
+    "pain_point": "Users may confuse coverage limit with guaranteed payout",
+    "theme": "Expectation gap",
+    "priority": "High",
+    "design_response": "₹5L investigation"
+  },
+  {
+    "id": "P05",
+    "pain_point": "Multiple stakeholders handle one claim",
+    "theme": "System complexity",
+    "priority": "Medium",
+    "design_response": "Ecosystem map"
+  }
+]

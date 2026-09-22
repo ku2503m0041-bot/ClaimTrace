@@ -1,0 +1,79 @@
+file,field,type,description,notes
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,scheme,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,type,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,coverage,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,delivery,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,source,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/government_health_schemes.csv,note,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,geography,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,period,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,indicator,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,value,float64,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,unit,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,source_note,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,source_organization,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/india_health_insurance_indicators.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/policy_glossary.csv,term,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/policy_glossary.csv,plain_language_definition,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/policy_glossary.csv,category,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/policy_glossary.csv,unit,object,Dataset field,See source/data_status column where present
+01_DATASETS/02_REAL_PUBLIC_DATA/policy_glossary.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,State,object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Uninsured Rate (2010),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Uninsured Rate (2015),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Uninsured Rate Change (2010-2015),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Health Insurance Coverage Change (2010-2015),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Employer Health Insurance Coverage (2015),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Marketplace Health Insurance Coverage (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Marketplace Tax Credits (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Average Monthly Tax Credit (2016),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,State Medicaid Expansion (2016),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Medicaid Enrollment (2013),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Medicaid Enrollment (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Medicaid Enrollment Change (2013-2016),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states.csv,Medicare Enrollment (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,State,object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Uninsured Rate (2010),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Uninsured Rate (2015),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Uninsured Rate Change (2010-2015),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Health Insurance Coverage Change (2010-2015),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Employer Health Insurance Coverage (2015),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Marketplace Health Insurance Coverage (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Marketplace Tax Credits (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Average Monthly Tax Credit (2016),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,State Medicaid Expansion (2016),object,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Medicaid Enrollment (2013),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Medicaid Enrollment (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Medicaid Enrollment Change (2013-2016),float64,Dataset field,See source/data_status column where present
+01_DATASETS/01_KAGGLE_REFERENCE/states_cleaned_reference.csv,Medicare Enrollment (2016),int64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_journey_synthetic.csv,claim_id,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_journey_synthetic.csv,stage_order,int64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_journey_synthetic.csv,stage,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_journey_synthetic.csv,stage_duration_days,int64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_journey_synthetic.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,claim_id,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,bill_amount_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,deductible_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,copay_rate,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,copay_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,room_limit_adjustment_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,noncovered_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,policy_limit_adjustment_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,insurer_paid_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,policyholder_oop_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,claim_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,processing_days,int64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_records_synthetic.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/anomaly_patterns_synthetic.csv,pattern_id,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/anomaly_patterns_synthetic.csv,pattern,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/anomaly_patterns_synthetic.csv,signal,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/anomaly_patterns_synthetic.csv,interpretation,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/anomaly_patterns_synthetic.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/hospital_bill_components_synthetic.csv,claim_id,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/hospital_bill_components_synthetic.csv,bill_component,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/hospital_bill_components_synthetic.csv,amount_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/hospital_bill_components_synthetic.csv,data_status,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_deductions_synthetic.csv,claim_id,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_deductions_synthetic.csv,deduction_type,object,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_deductions_synthetic.csv,amount_inr,float64,Dataset field,See source/data_status column where present
+01_DATASETS/03_SYNTHETIC_INTERACTIVE_DATA/claim_deductions_synthetic.csv,data_status,object,Dataset field,See source/data_status column where present

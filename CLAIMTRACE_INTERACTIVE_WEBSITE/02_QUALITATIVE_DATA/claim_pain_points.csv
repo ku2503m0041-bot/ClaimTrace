@@ -1,0 +1,6 @@
+id,pain_point,theme,priority,design_response
+P01,Policy language is difficult to interpret,Comprehension,High,Interactive glossary + examples
+P02,Settlement letter may contain multiple deductions,Transparency,High,Deduction explorer
+P03,Claim status can be hard to interpret,Process visibility,Medium,Timeline
+P04,Users may confuse coverage limit with guaranteed payout,Expectation gap,High,₹5L investigation
+P05,Multiple stakeholders handle one claim,System complexity,Medium,Ecosystem map

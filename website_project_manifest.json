@@ -1,0 +1,37 @@
+{
+  "project": "ClaimTrace",
+  "purpose": "Interactive health-insurance data storytelling website",
+  "primary_data_format": "json",
+  "website_type": "multi-page interactive editorial data story",
+  "visual_direction": "modern-retro",
+  "interaction_principles": [
+    "evidence-first",
+    "purposeful micro-interactions",
+    "smooth narrative transitions",
+    "modal progressive disclosure",
+    "accessible interaction"
+  ],
+  "data_policy": {
+    "inspect_all_json_before_building": true,
+    "never_invent_statistics": true,
+    "label_synthetic_data": true,
+    "cite_major_findings": true
+  },
+  "recommended_pages": [
+    "opening",
+    "meet-the-data",
+    "claim-journey",
+    "follow-the-money",
+    "deductions",
+    "people-behind-the-claim",
+    "anomalies",
+    "wider-picture",
+    "explore",
+    "findings",
+    "sources-methodology"
+  ],
+  "media": {
+    "images": "Use appropriately licensed or authorized sources and document credits.",
+    "audio": "Prefer authorized online embeds/players; do not package unlicensed copyrighted audio."
+  }
+}
